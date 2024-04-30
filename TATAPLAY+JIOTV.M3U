@@ -962,7 +962,7 @@ http://192.168.0.223:5001/live/h/2176.m3u8
 #EXTINF:-1 tvg-id=2177 tvg-name="Arya Sandesh TV" tvg-logo="http://192.168.0.223:5001/jtvimage/Arya_Sandesh_Tv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Arya Sandesh TV
 http://192.168.0.223:5001/live/h/2177.m3u8
 #EXTINF:-1 tvg-id=2183 tvg-name="Q GameX" tvg-logo="http://192.168.0.223:5001/jtvimage/Q_GameX.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Q GameX
-http://192.168.0.223:5001/live/h/2183.m3u8
+http://51.15.8.16:8081/ind1live/starsports1hindi/playlist.m3u8
 #EXTINF:-1 tvg-id=2189 tvg-name="Aaryaa Cinema" tvg-logo="http://192.168.0.223:5001/jtvimage/Aaryaa_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Aaryaa Cinema
 http://192.168.0.223:5001/live/h/2189.m3u8
 #EXTINF:-1 tvg-id=2192 tvg-name="Gurukul" tvg-logo="http://192.168.0.223:5001/jtvimage/Gurukul_Rajkot.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Gurukul
