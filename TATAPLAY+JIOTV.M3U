@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://192.168.0.223:5001/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="1396" "tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD
 http://192.168.0.223:5001/live/h/sl291.m3u8
