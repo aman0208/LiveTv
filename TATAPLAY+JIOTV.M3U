@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-id="1396" "tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment",SET SD
-https://dai.google.com/linear/hls/event/WNjQSileSVirRXhWU3tFAw/master.m3u8
+#EXTINF:-1 tvg-id="1396" "tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD
+http://192.168.0.223:5001/live/h/sl291.m3u8
 #EXTINF:-1 tvg-id="291" "tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png" group-title="Entertainment",SET HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:-1 tvg-id="471" "tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="Entertainment",SAB HD
