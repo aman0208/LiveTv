@@ -214,7 +214,7 @@ http://192.168.0.222:5001/live/h/578.m3u8
 #EXTINF:-1 tvg-id=580 tvg-name="DD bharati" tvg-logo="http://192.168.0.222:5001/jtvimage/DD_bharati.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", DD bharati
 http://192.168.0.222:5001/live/h/580.m3u8
 #EXTINF:-1 tvg-id=583 tvg-name="DD Kisan" tvg-logo="http://192.168.0.222:5001/jtvimage/DD_Kisan.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", DD Kisan
-http://192.168.0.222:5001/live/h/583.m3u8
+https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id=584 tvg-name="Mastiii" tvg-logo="http://192.168.0.222:5001/jtvimage/Mastiii.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Mastiii
 http://192.168.0.222:5001/live/h/584.m3u8
 #EXTINF:-1 tvg-id=585 tvg-name="Zing" tvg-logo="http://192.168.0.222:5001/jtvimage/Zing.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Zing
