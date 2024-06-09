@@ -1,6 +1,59 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 
+#EXTINF:-1 group-title="Sports" tvg-id="617" ,Sony Six HD
+https://capultaip.hostair.workers.dev/?id=3207
+#EXTINF:-1 group-title="Sports" tvg-id="820" ,Star Sports 1 HD
+https://capultaip.hostair.workers.dev/?id=4627
+#EXTINF:-1 group-title="Sports" tvg-id="821" ,Star Sports 1 Hindi HD
+https://capultaip.hostair.workers.dev/?id=4626
+#EXTINF:-1 group-title="Sports" tvg-id="822" ,Star Sports 2 HD
+https://capultaip.hostair.workers.dev/?id=5187
+#EXTINF:-1 group-title="Sports" tvg-id="640" ,Star Sport Select 1 HD
+https://capultaip.hostair.workers.dev/?id=4625
+#EXTINF:-1 group-title="Sports" tvg-id="877" ,Star Sport Select 2 HD
+https://capultaip.hostair.workers.dev/?id=4749
+#EXTINF:-1 group-title="Sports" tvg-id="578" ,Sky Sports NZ
+https://capultaip.hostair.workers.dev/?id=4476
+#EXTINF:-1 group-title="Sports" tvg-id="468" ,Star Sports 3
+https://capultaip.hostair.workers.dev/?id=5274
+#EXTINF:-1 group-title="Sports" tvg-id="404" ,Star Sports Tamil
+https://capultaip.hostair.workers.dev/?id=5275
+#EXTINF:-1 group-title="Sports" tvg-id="823" ,Sony Ten 1 HD
+https://capultaip.hostair.workers.dev/?id=3557
+#EXTINF:-1 group-title="Sports" tvg-id="626" ,Sony Ten 2 HD
+https://capultaip.hostair.workers.dev/?id=3217
+#EXTINF:-1 group-title="Sports" tvg-id="736" ,Sony Ten 3 HD
+https://capultaip.hostair.workers.dev/?id=3392
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment", SET HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
 #EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment", Sony SAB HD
