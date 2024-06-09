@@ -14,23 +14,23 @@ https://newmpd-v2.vercel.app/api/24.mpd
 
 
 #EXTINF:-1 tvg-id="1396" "tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD
-http://192.168.0.222:5001/live/h/sl291.m3u8
-#EXTINF:-1 tvg-id="471" "http://192.168.0.222:5001/jtvimage/SAB_HD.png" group-title="Entertainment",SAB HD
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 tvg-id="471" "tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",SAB HD
+https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-id="474" "http://192.168.0.222:5001/jtvimage/Sony_Pal.png" group-title="Entertainment",SONY PAL
-https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF:-1 "tvg-logo ="http://192.168.0.222:5001/jtvimage/Sony_Max_HD.png" group-title="Movies",SONY MAX HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="821" "tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Education",BBC Earth HD
+#EXTINF:-1 tvg-id="821" "tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Infotainment",BBC Earth HD
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 #EXTINF:-1 tvg-id="1276" "tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Movies",SONY WAH
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-#EXTINF:-1 tvg-id="483" "tvg-logo="tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_MAX2.png" group-title="Movies",SONY MAX2
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+#EXTINF:-1 tvg-id="483" "tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies",SONY MAX2
+https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF:-1 tvg-id="872" "tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay.png" group-title="Kids",SONY YAY
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-id="762" "tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies",Sony Pix HD
