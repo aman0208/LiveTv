@@ -5,6 +5,12 @@ http://192.168.0.222:5001/live/144.m3u8
 https://sliv.kratosgod.io/api/sonysab.m3u8
 #EXTINF:-1 tvg-id=165 tvg-name="Zee Cinema HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD
 http://192.168.0.222:5001/live/165.m3u8
+#EXTINF:-1 tvg-id="8" group-title="Entertainment", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png", STAR Plus HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SzDICg2eBhGgz1N8/tmdjg","kid":"PfOvjPwkVOucauODyKLNTA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
+https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
 #EXTINF:-1 tvg-id=167 tvg-name="Zee TV HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Zee_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee TV HD
 http://192.168.0.222:5001/live/167.m3u8
 #EXTINF:-1 tvg-id=173 tvg-name="Aaj Tak" tvg-logo="http://192.168.0.222:5001/jtvimage/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak
