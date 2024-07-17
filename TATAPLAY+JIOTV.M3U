@@ -33,6 +33,130 @@ https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_122/output/manifest.mpd|c
 #EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
 https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
 
+
+
+
+#EXTINF:-1 tvg-id="223" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png", DD Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3zwS2HAYYXSn0PQt33QOlA","kid":"hIOXnlFLX5eX6NVTc7Fh6w"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
+https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_146/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
+
+#EXTINF:-1 tvg-id="78" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png", Star Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PAfSGtNxBX4TX36kGcSFlg","kid":"4emOTe0tVNit5xexsG/oAQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
+https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
+
+#EXTINF:-1 tvg-id="235" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png", Star Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Gld7p8gFjryYK9W1eL0XMA","kid":"KMay1+rMUjeDxkGR0ZRdpg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
+https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
+
+#EXTINF:-1 tvg-id="24" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png", Star Sports 1 Hindi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FCbKIsSzv7CGk7DX4uQFEA","kid":"ibF+MmAQWda2j5aVbH6KHQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
+https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
+
+#EXTINF:-1 tvg-id="246" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG", Star Sports Select 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tzsCZ9yvsut0aPsOGEMWBw","kid":"EwqIGU5xVYymH+LLd4ewog"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
+https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
+
+#EXTINF:-1 tvg-id="463" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png", Star Sports Select 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nse8ekgeUFfdG8UylrASow","kid":"f8hB1ISEW5mqD7o76V3aWQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
+https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
+
+#EXTINF:-1 tvg-id="81" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png", SONY SPORTS TEN 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iWgwoVk5VlsN0L8HRp1JzA","kid":"9a7KUgZNVJ6nmrqdtV8/sw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
+https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
+
+#EXTINF:-1 tvg-id="150" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png", SONY SPORTS TEN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=null
+#EXTVLCOPT:http-user-agent=null
+#EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
+https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_114/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
+
+#EXTINF:-1 tvg-id="462" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png", SONY SPORTS TEN 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"D1rdw71DytWkFixuP1MTSg","kid":"SXsGFdWiUr23aBfkBA8hNA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
+https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
+
+#EXTINF:-1 tvg-id="170" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png", SONY SPORTS TEN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=null
+#EXTVLCOPT:http-user-agent=null
+#EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
+https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_115/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
+
+#EXTINF:-1 tvg-id="464" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png", SONY SPORTS TEN 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3jT0mwJ2hwVgB2JTAr0BdQ","kid":"iOs6yQtDUrSJbTuIOlfpRw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
+https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
+
+#EXTINF:-1 tvg-id="171" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png", SONY SPORTS TEN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=null
+#EXTVLCOPT:http-user-agent=null
+#EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
+https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
+
+#EXTINF:-1 tvg-id="35" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png", SONY SPORTS TEN 5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"J5AaraKEFZF4jDflSNf6lg","kid":"OtQt1h7RV06be+PAg1Ci0w"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
+https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
+
+#EXTINF:-1 tvg-id="1033" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png", Sports 18 - 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s3LuCyguK8qtMXAiicszjw","kid":"GS3V8HedWYOjqhgnap+3GQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
+https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
+
+#EXTINF:-1 tvg-id="980" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70046-l21cybww-v2/imageContent-70046-l21cybww-m5.png", Sports 18 - 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jzo6gZ+st7r5f9bOVsk6hA","kid":"GtBQbHqAVZepALheXQWVxQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
+https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
+
+#EXTINF:-1 tvg-id="812" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png", Eurosport HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1p5tNLAgkCREdD/ljYJiyQ","kid":"zK88EgfiVlCFq7Xs2yOL2Q"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
+https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
+
+#EXTINF:-1 tvg-id="693" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35309-jqxwmcq0-v4/imageContent-35309-jqxwmcq0-m4.png", Eurosport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s5yRzlsGLisZWTqTG+Oqcg","kid":"uyz5XnAKVFWKw42YCOJYUw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
+https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_935/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
+
+
+
 #EXTINF:-1 tvg-id=167 tvg-name="Zee TV HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Zee_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee TV HD
 http://192.168.0.222:5001/live/167.m3u8
 #EXTINF:-1 tvg-id=173 tvg-name="Aaj Tak" tvg-logo="http://192.168.0.222:5001/jtvimage/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak
