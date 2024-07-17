@@ -24,13 +24,14 @@ https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd|c
 #EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
 https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_122/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
 
-#EXTINF:-1 tvg-id="632" group-title="Movies", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png", Star GOLD HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null
-#EXTVLCOPT:http-user-agent=null
-#EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
-https://delta10tatasky.akamaized.net/out/i/5771658.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
 
+
+#EXTINF:-1 tvg-id="245" group-title="Movies", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png", STAR GOLD HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hTmiRKB6/NFTd2h1NULG0A","kid":"ivv0BXwuUWyQFGcYYW2zAA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345"}
+https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd|cookie:hdntl=exp=1721310709~acl=%2f*~data=hdntl~hmac=944cd903db6332d4632bdabf226a22dc0849c5e4853a09cac9343360247a2345
 
 #EXTINF:-1 tvg-id=167 tvg-name="Zee TV HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Zee_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee TV HD
 http://192.168.0.222:5001/live/167.m3u8
