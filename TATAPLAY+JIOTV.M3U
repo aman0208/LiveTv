@@ -1,52 +1,8 @@
 #EXTM3U x-tvg-url="http://192.168.0.222:5001/epg.xml.gz"
-
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
-https://sliv.kratosgod.io/api/sethd.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
-https://sliv.kratosgod.io/api/sabhd.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony PAL
-https://sliv.kratosgod.io/api/sonypal.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
-https://sliv.kratosgod.io/api/sonymaxhd.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies",Sony MAX 2
-https://sliv.kratosgod.io/api/sonymax2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="Entertainment",Sony Kal
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony YAY
-https://sliv.kratosgod.io/api/sonyyay.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Movies",Sony MAX
-https://sliv.kratosgod.io/api/sonymax.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Entertainment",Sony WAH
-https://sliv.kratosgod.io/api/sonywah.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
-https://sliv.kratosgod.io/api/sonypixhd
-#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
-https://sliv.kratosgod.io/api/sonybbcearth.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports",Sony TEN 1
-https://sliv.kratosgod.io/api/sonyten1.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports",Sony TEN 2
-https://sliv.kratosgod.io/api/sonyten2.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sports",Sony TEN 3
-https://sliv.kratosgod.io/api/sonyten3.m3u8
-#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="Sports",Sony TEN 4
-https://sliv.kratosgod.io/api/sonyten4.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sports",Sony TEN 5
-https://sliv.kratosgod.io/api/sonyten5.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony TEN 1 HD
-https://sliv.kratosgod.io/api/sonyten1hd.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony  TEN 2 HD
-https://sliv.kratosgod.io/api/sonyten2hd.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony TEN 3 HD
-https://sliv.kratosgod.io/api/sonyten3hd.m3u8
-#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports",Sony TEN 4 HD
-https://sliv.kratosgod.io/api/sonyten4hd.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony TEN 5 HD
-https://sliv.kratosgod.io/api/sonyten5hd.m3u8
-
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
 http://192.168.0.222:5001/live/144.m3u8
 #EXTINF:-1 tvg-id=154 tvg-name="Sony SAB" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_SAB.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB
-http://192.168.0.222:5001/live/154.m3u8
+https://sliv.kratosgod.io/api/sonysab.m3u8
 #EXTINF:-1 tvg-id=165 tvg-name="Zee Cinema HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD
 http://192.168.0.222:5001/live/165.m3u8
 #EXTINF:-1 tvg-id=167 tvg-name="Zee TV HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Zee_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee TV HD
@@ -85,10 +41,10 @@ http://192.168.0.222:5001/live/258.m3u8
 http://192.168.0.222:5001/live/279.m3u8
 #EXTINF:-1 tvg-id=288 tvg-name="Sanskar" tvg-logo="http://192.168.0.222:5001/jtvimage/Sanskar.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanskar
 http://192.168.0.222:5001/live/288.m3u8
-#EXTINF:-1 tvg-id=289 tvg-name="Sony Max SD" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_Max_SD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max SD
-http://192.168.0.222:5001/live/289.m3u8
+#EXTINF:-1 tvg-id=289 tvg-name="Sony Max" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_Max_SD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max
+https://sliv.kratosgod.io/api/sonymax.m3u8
 #EXTINF:-1 tvg-id=291 tvg-name="SET HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
-http://192.168.0.222:5001/live/291.m3u8
+https://sliv.kratosgod.io/api/sethd.m3u8
 #EXTINF:-1 tvg-id=415 tvg-name="Zee Anmol Cinema" tvg-logo="http://192.168.0.222:5001/jtvimage/Zee_Anmol_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Anmol Cinema
 http://192.168.0.222:5001/live/415.m3u8
 #EXTINF:-1 tvg-id=440 tvg-name="9X Jalwa" tvg-logo="http://192.168.0.222:5001/jtvimage/9X_Jalwa.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9X Jalwa
@@ -96,21 +52,21 @@ http://192.168.0.222:5001/live/440.m3u8
 #EXTINF:-1 tvg-id=466 tvg-name="Arihant TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Arihant_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Arihant TV
 http://192.168.0.222:5001/live/466.m3u8
 #EXTINF:-1 tvg-id=471 tvg-name="Sony SAB HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_SAB_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB HD
-http://192.168.0.222:5001/live/471.m3u8
+https://sliv.kratosgod.io/api/sabhd.m3u8
 #EXTINF:-1 tvg-id=472 tvg-name="And TV HD" tvg-logo="http://192.168.0.222:5001/jtvimage/And_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", And TV HD
 http://192.168.0.222:5001/live/472.m3u8
 #EXTINF:-1 tvg-id=473 tvg-name="Zee Anmol" tvg-logo="http://192.168.0.222:5001/jtvimage/Zee_Anmol.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee Anmol
 http://192.168.0.222:5001/live/473.m3u8
 #EXTINF:-1 tvg-id=474 tvg-name="Sony Pal" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_Pal.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Pal
-http://192.168.0.222:5001/live/474.m3u8
+https://sliv.kratosgod.io/api/sonypal.m3u8
 #EXTINF:-1 tvg-id=476 tvg-name="Sony Max HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_Max_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max HD
-http://192.168.0.222:5001/live/476.m3u8
+https://sliv.kratosgod.io/api/sonymaxhd.m3u8
 #EXTINF:-1 tvg-id=481 tvg-name="Epic" tvg-logo="http://192.168.0.222:5001/jtvimage/Epic_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Epic
 http://192.168.0.222:5001/live/481.m3u8
 #EXTINF:-1 tvg-id=482 tvg-name="Colors Cineplex" tvg-logo="http://192.168.0.222:5001/jtvimage/Colors_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex
 http://192.168.0.222:5001/live/482.m3u8
 #EXTINF:-1 tvg-id=483 tvg-name="Sony MAX2" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_MAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony MAX2
-http://192.168.0.222:5001/live/483.m3u8
+https://sliv.kratosgod.io/api/sonymax2.m3u8
 #EXTINF:-1 tvg-id=484 tvg-name="Zee Cinema" tvg-logo="http://192.168.0.222:5001/jtvimage/Zee_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema
 http://192.168.0.222:5001/live/484.m3u8
 #EXTINF:-1 tvg-id=485 tvg-name="Enterr 10" tvg-logo="http://192.168.0.222:5001/jtvimage/Enterr_10.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Enterr 10
@@ -303,10 +259,8 @@ http://192.168.0.222:5001/live/851.m3u8
 http://192.168.0.222:5001/live/855.m3u8
 #EXTINF:-1 tvg-id=856 tvg-name="Vedic TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Vedic_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Vedic TV
 http://192.168.0.222:5001/live/856.m3u8
-#EXTINF:-1 tvg-id=871 tvg-name="Jio Events HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Jio_Events.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Jio Events HD
-http://192.168.0.222:5001/live/871.m3u8
-#EXTINF:-1 tvg-id=872 tvg-name="Sony Yay Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_Yay_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sony Yay Hindi
-http://192.168.0.222:5001/live/872.m3u8
+#EXTINF:-1 tvg-id=872 tvg-name="Sony Yay" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_Yay_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sony Yay
+https://sliv.kratosgod.io/api/sonyyay.m3u8
 #EXTINF:-1 tvg-id=879 tvg-name="Hare krsna" tvg-logo="http://192.168.0.222:5001/jtvimage/Harekrsna.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Hare krsna
 http://192.168.0.222:5001/live/879.m3u8
 #EXTINF:-1 tvg-id=880 tvg-name="Janta TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Janta_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Janta TV
@@ -418,9 +372,9 @@ http://192.168.0.222:5001/live/1359.m3u8
 #EXTINF:-1 tvg-id=1368 tvg-name="Colors SD" tvg-logo="http://192.168.0.222:5001/jtvimage/Colors_SD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors SD
 http://192.168.0.222:5001/live/1368.m3u8
 #EXTINF:-1 tvg-id=1393 tvg-name="Sony Wah" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_Wah.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Wah
-http://192.168.0.222:5001/live/1393.m3u8
+https://sliv.kratosgod.io/api/sonywah.m3u8
 #EXTINF:-1 tvg-id=1396 tvg-name="Set SD" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_SD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Set SD
-http://192.168.0.222:5001/live/1396.m3u8
+https://sliv.kratosgod.io/api/sony.m3u8
 #EXTINF:-1 tvg-id=1400 tvg-name="MTV Beats SD" tvg-logo="http://192.168.0.222:5001/jtvimage/MTV_Beats_SD.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV Beats SD
 http://192.168.0.222:5001/live/1400.m3u8
 #EXTINF:-1 tvg-id=1403 tvg-name="Republic Bharat" tvg-logo="http://192.168.0.222:5001/jtvimage/Republic_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Republic Bharat
@@ -831,9 +785,3 @@ http://192.168.0.222:5001/live/3068.m3u8
 http://192.168.0.222:5001/live/3070.m3u8
 #EXTINF:-1 tvg-id=3071 tvg-name="TV Asia Powered by Shemaroo" tvg-logo="http://192.168.0.222:5001/jtvimage/TV_Asia.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", TV Asia Powered by Shemaroo
 http://192.168.0.222:5001/live/3071.m3u8
-#EXTINF:-1 tvg-id=3074 tvg-name="Shemaroo Filmy Gaane" tvg-logo="http://192.168.0.222:5001/jtvimage/shemaroofilmigaane.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Shemaroo Filmy Gaane
-http://192.168.0.222:5001/live/3074.m3u8
-#EXTINF:-1 tvg-id=3075 tvg-name="Shemaroo Bollywood" tvg-logo="http://192.168.0.222:5001/jtvimage/shemaroobollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Shemaroo Bollywood
-http://192.168.0.222:5001/live/3075.m3u8
-#EXTINF:-1 tvg-id=3076 tvg-name="India Prime News" tvg-logo="http://192.168.0.222:5001/jtvimage/India_Prime_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", India Prime News
-http://192.168.0.222:5001/live/3076.m3u8
