@@ -1,8 +1,54 @@
 #EXTM3U x-tvg-url="http://192.168.0.222:5001/epg.xml.gz"
+
+#EXTINF:-1 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="Entertainment", Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment", SET HD
+https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
+#EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Movies", Sony SAB HD
+https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 tvg-id="1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment", Sony PAL
+https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids", Sony YAY
+https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 tvg-id="1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment", Sony AATH
+https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+#EXTINF:-1 tvg-id="1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment", Sony BBC Earth HD
+https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1 tvg-id="1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies", Sony PIX HD
+https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Entertainment", Sony WAH
+https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 tvg-id="1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Movies", Sony MAX
+https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:-1 tvg-id="1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies", Sony MAX HD
+https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies", Sony MAX2
+https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1 tvg-id="1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports", Sony TEN 1
+https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF:-1 tvg-id="1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports", Sony TEN 2
+https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF:-1 tvg-id="1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sports", Sony TEN 3
+https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:-1 tvg-id="1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="Sports", Sony TEN 4
+https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#EXTINF:-1 tvg-id="1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sports", Sony TEN 5
+https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports", Sony TEN 1 HD
+https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports", Sony TEN 2 HD
+https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports", Sony TEN 3 HD
+https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports", Sony TEN 4 HD
+https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports", Sony TEN 5 HD
+https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.0.223:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
+http://192.168.0.222:3500/getm3u8/144/master.m3u8
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
 http://192.168.0.222:5001/live/144.m3u8
-#EXTINF:-1 tvg-id=154 tvg-name="Sony SAB" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_SAB.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB
-https://sliv.kratosgod.io/api/sonysab.m3u8
 #EXTINF:-1 tvg-id=165 tvg-name="Zee Cinema HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD
 http://192.168.0.222:5001/live/165.m3u8
 #EXTINF:-1 tvg-id=167 tvg-name="Zee TV HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Zee_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee TV HD
@@ -43,30 +89,25 @@ http://192.168.0.222:5001/live/279.m3u8
 http://192.168.0.222:5001/live/288.m3u8
 #EXTINF:-1 tvg-id=289 tvg-name="Sony Max" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_Max_SD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max
 https://sliv.kratosgod.io/api/sonymax.m3u8
-#EXTINF:-1 tvg-id=291 tvg-name="SET HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
-https://sliv.kratosgod.io/api/sethd.m3u8
+
 #EXTINF:-1 tvg-id=415 tvg-name="Zee Anmol Cinema" tvg-logo="http://192.168.0.222:5001/jtvimage/Zee_Anmol_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Anmol Cinema
 http://192.168.0.222:5001/live/415.m3u8
 #EXTINF:-1 tvg-id=440 tvg-name="9X Jalwa" tvg-logo="http://192.168.0.222:5001/jtvimage/9X_Jalwa.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9X Jalwa
 http://192.168.0.222:5001/live/440.m3u8
 #EXTINF:-1 tvg-id=466 tvg-name="Arihant TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Arihant_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Arihant TV
 http://192.168.0.222:5001/live/466.m3u8
-#EXTINF:-1 tvg-id=471 tvg-name="Sony SAB HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_SAB_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB HD
-https://sliv.kratosgod.io/api/sabhd.m3u8
+
 #EXTINF:-1 tvg-id=472 tvg-name="And TV HD" tvg-logo="http://192.168.0.222:5001/jtvimage/And_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", And TV HD
 http://192.168.0.222:5001/live/472.m3u8
 #EXTINF:-1 tvg-id=473 tvg-name="Zee Anmol" tvg-logo="http://192.168.0.222:5001/jtvimage/Zee_Anmol.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee Anmol
 http://192.168.0.222:5001/live/473.m3u8
-#EXTINF:-1 tvg-id=474 tvg-name="Sony Pal" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_Pal.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Pal
-https://sliv.kratosgod.io/api/sonypal.m3u8
-#EXTINF:-1 tvg-id=476 tvg-name="Sony Max HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_Max_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max HD
-https://sliv.kratosgod.io/api/sonymaxhd.m3u8
+
+
 #EXTINF:-1 tvg-id=481 tvg-name="Epic" tvg-logo="http://192.168.0.222:5001/jtvimage/Epic_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Epic
 http://192.168.0.222:5001/live/481.m3u8
 #EXTINF:-1 tvg-id=482 tvg-name="Colors Cineplex" tvg-logo="http://192.168.0.222:5001/jtvimage/Colors_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex
 http://192.168.0.222:5001/live/482.m3u8
-#EXTINF:-1 tvg-id=483 tvg-name="Sony MAX2" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_MAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony MAX2
-https://sliv.kratosgod.io/api/sonymax2.m3u8
+
 #EXTINF:-1 tvg-id=484 tvg-name="Zee Cinema" tvg-logo="http://192.168.0.222:5001/jtvimage/Zee_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema
 http://192.168.0.222:5001/live/484.m3u8
 #EXTINF:-1 tvg-id=485 tvg-name="Enterr 10" tvg-logo="http://192.168.0.222:5001/jtvimage/Enterr_10.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Enterr 10
@@ -167,8 +208,7 @@ http://192.168.0.222:5001/live/578.m3u8
 http://192.168.0.222:5001/live/580.m3u8
 #EXTINF:-1 tvg-id=583 tvg-name="DD Kisan" tvg-logo="http://192.168.0.222:5001/jtvimage/DD_Kisan.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", DD Kisan
 http://192.168.0.222:5001/live/583.m3u8
-#EXTINF:-1 tvg-id=584 tvg-name="Mastiii" tvg-logo="http://192.168.0.222:5001/jtvimage/Mastiii.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Mastiii
-http://192.168.0.222:5001/live/584.m3u8
+
 #EXTINF:-1 tvg-id=585 tvg-name="Zing" tvg-logo="http://192.168.0.222:5001/jtvimage/Zing.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Zing
 http://192.168.0.222:5001/live/585.m3u8
 #EXTINF:-1 tvg-id=587 tvg-name="9XM" tvg-logo="http://192.168.0.222:5001/jtvimage/9XM.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9XM
