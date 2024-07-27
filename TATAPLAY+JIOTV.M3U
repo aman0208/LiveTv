@@ -297,8 +297,7 @@ http://192.168.0.222:5001/live/851.m3u8
 http://192.168.0.222:5001/live/855.m3u8
 #EXTINF:-1 tvg-id=856 tvg-name="Vedic TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Vedic_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Vedic TV
 http://192.168.0.222:5001/live/856.m3u8
-#EXTINF:-1 tvg-id=872 tvg-name="Sony Yay" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_Yay_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sony Yay
-https://sliv.kratosgod.io/api/sonyyay.m3u8
+
 #EXTINF:-1 tvg-id=879 tvg-name="Hare krsna" tvg-logo="http://192.168.0.222:5001/jtvimage/Harekrsna.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Hare krsna
 http://192.168.0.222:5001/live/879.m3u8
 #EXTINF:-1 tvg-id=880 tvg-name="Janta TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Janta_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Janta TV
