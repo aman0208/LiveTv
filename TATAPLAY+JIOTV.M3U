@@ -86,8 +86,7 @@ http://192.168.0.222:5001/live/258.m3u8
 http://192.168.0.222:5001/live/279.m3u8
 #EXTINF:-1 tvg-id=288 tvg-name="Sanskar" tvg-logo="http://192.168.0.222:5001/jtvimage/Sanskar.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanskar
 http://192.168.0.222:5001/live/288.m3u8
-#EXTINF:-1 tvg-id=289 tvg-name="Sony Max" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_Max_SD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max
-https://sliv.kratosgod.io/api/sonymax.m3u8
+
 
 #EXTINF:-1 tvg-id=415 tvg-name="Zee Anmol Cinema" tvg-logo="http://192.168.0.222:5001/jtvimage/Zee_Anmol_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Anmol Cinema
 http://192.168.0.222:5001/live/415.m3u8
