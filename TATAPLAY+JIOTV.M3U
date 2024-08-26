@@ -100,6 +100,98 @@ http://192.168.0.222:5001/live/High/472.m3u8
 #EXTINF:-1 tvg-id=473 tvg-name="Zee Anmol" tvg-logo="http://192.168.0.222:5001/jtvimage/Zee_Anmol.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee Anmol
 http://192.168.0.222:5001/live/High/473.m3u8
 
+#EXTINF:-1 tvg-id=196 tvg-name="Colors Gujarati" tvg-logo="http://192.168.0.222:5001/jtvimage/Colors_Gujarati.png" tvg-language="Gujarati" tvg-type="Entertainment" group-title="Entertainment", Colors Gujarati
+http://192.168.0.222:5001/live/High/196.m3u8
+#EXTINF:-1 tvg-id=490 tvg-name="CNBC Bazaar (MNO)" tvg-logo="http://192.168.0.222:5001/jtvimage/CNBC_Bazaar_MNO.png" tvg-language="Gujarati" tvg-type="Business" group-title="Business", CNBC Bazaar (MNO)
+http://192.168.0.222:5001/live/High/490.m3u8
+#EXTINF:-1 tvg-id=616 tvg-name="Tv 9 Gujarat" tvg-logo="http://192.168.0.222:5001/jtvimage/Tv_9_Gujarat.png" tvg-language="Gujarati" tvg-type="News" group-title="News", Tv 9 Gujarat
+http://192.168.0.222:5001/live/High/616.m3u8
+#EXTINF:-1 tvg-id=620 tvg-name="News18 Gujarati" tvg-logo="http://192.168.0.222:5001/jtvimage/ETV_News_Gujarati.png" tvg-language="Gujarati" tvg-type="News" group-title="News", News18 Gujarati
+http://192.168.0.222:5001/live/High/620.m3u8
+#EXTINF:-1 tvg-id=641 tvg-name="ABP Asmita" tvg-logo="http://192.168.0.222:5001/jtvimage/ABP_Asmita.png" tvg-language="Gujarati" tvg-type="News" group-title="News", ABP Asmita
+http://192.168.0.222:5001/live/High/641.m3u8
+#EXTINF:-1 tvg-id=642 tvg-name="VTV Gujarati" tvg-logo="http://192.168.0.222:5001/jtvimage/VTV_Gujarati.png" tvg-language="Gujarati" tvg-type="News" group-title="News", VTV Gujarati
+http://192.168.0.222:5001/live/High/642.m3u8
+#EXTINF:-1 tvg-id=643 tvg-name="GS TV" tvg-logo="http://192.168.0.222:5001/jtvimage/GS_TV.png" tvg-language="Gujarati" tvg-type="News" group-title="News", GS TV
+http://192.168.0.222:5001/live/High/643.m3u8
+#EXTINF:-1 tvg-id=714 tvg-name="DD Girnar" tvg-logo="http://192.168.0.222:5001/jtvimage/DD_Girnar.png" tvg-language="Gujarati" tvg-type="Entertainment" group-title="Entertainment", DD Girnar
+http://192.168.0.222:5001/live/High/714.m3u8
+#EXTINF:-1 tvg-id=782 tvg-name="Sandesh News" tvg-logo="http://192.168.0.222:5001/jtvimage/Sandesh_News.png" tvg-language="Gujarati" tvg-type="News" group-title="News", Sandesh News
+http://192.168.0.222:5001/live/High/782.m3u8
+#EXTINF:-1 tvg-id=886 tvg-name="Lakshya TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Lakshya_TV.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="Devotional", Lakshya TV
+http://192.168.0.222:5001/live/High/886.m3u8
+#EXTINF:-1 tvg-id=929 tvg-name="Zee 24 Kalak" tvg-logo="http://192.168.0.222:5001/jtvimage/Zee_24_Kalak.png" tvg-language="Gujarati" tvg-type="News" group-title="News", Zee 24 Kalak
+http://192.168.0.222:5001/live/High/929.m3u8
+#EXTINF:-1 tvg-id=944 tvg-name="Mantavya News" tvg-logo="http://192.168.0.222:5001/jtvimage/Mantavya_News.png" tvg-language="Gujarati" tvg-type="News" group-title="News", Mantavya News
+http://192.168.0.222:5001/live/High/944.m3u8
+#EXTINF:-1 tvg-id=1069 tvg-name="Vande Gujarat 1" tvg-logo="http://192.168.0.222:5001/jtvimage/Vande_Gujarat_1.png" tvg-language="Gujarati" tvg-type="Educational" group-title="Educational", Vande Gujarat 1
+http://192.168.0.222:5001/live/High/1069.m3u8
+#EXTINF:-1 tvg-id=1070 tvg-name="Vande Gujarat 2" tvg-logo="http://192.168.0.222:5001/jtvimage/Vande_Gujarat_2.png" tvg-language="Gujarati" tvg-type="Educational" group-title="Educational", Vande Gujarat 2
+http://192.168.0.222:5001/live/High/1070.m3u8
+#EXTINF:-1 tvg-id=1071 tvg-name="Vande Gujarat 4" tvg-logo="http://192.168.0.222:5001/jtvimage/Vande_Gujarat_4.png" tvg-language="Gujarati" tvg-type="Educational" group-title="Educational", Vande Gujarat 4
+http://192.168.0.222:5001/live/High/1071.m3u8
+#EXTINF:-1 tvg-id=1082 tvg-name="Vande Gujarat 3" tvg-logo="http://192.168.0.222:5001/jtvimage/Vande_Gujarat_3.png" tvg-language="Gujarati" tvg-type="Educational" group-title="Educational", Vande Gujarat 3
+http://192.168.0.222:5001/live/High/1082.m3u8
+#EXTINF:-1 tvg-id=1083 tvg-name="Vande Gujarat 5" tvg-logo="http://192.168.0.222:5001/jtvimage/Vande_Gujarat_5.png" tvg-language="Gujarati" tvg-type="Educational" group-title="Educational", Vande Gujarat 5
+http://192.168.0.222:5001/live/High/1083.m3u8
+#EXTINF:-1 tvg-id=1084 tvg-name="Vande Gujarat 6" tvg-logo="http://192.168.0.222:5001/jtvimage/Vande_Gujarat_6.png" tvg-language="Gujarati" tvg-type="Educational" group-title="Educational", Vande Gujarat 6
+http://192.168.0.222:5001/live/High/1084.m3u8
+#EXTINF:-1 tvg-id=1085 tvg-name="Vande Gujarat 7" tvg-logo="http://192.168.0.222:5001/jtvimage/Vande_Gujarat_7.png" tvg-language="Gujarati" tvg-type="Educational" group-title="Educational", Vande Gujarat 7
+http://192.168.0.222:5001/live/High/1085.m3u8
+#EXTINF:-1 tvg-id=1086 tvg-name="Vande Gujarat 8" tvg-logo="http://192.168.0.222:5001/jtvimage/Vande_Gujarat_8.png" tvg-language="Gujarati" tvg-type="Educational" group-title="Educational", Vande Gujarat 8
+http://192.168.0.222:5001/live/High/1086.m3u8
+#EXTINF:-1 tvg-id=1087 tvg-name="Vande Gujarat 9" tvg-logo="http://192.168.0.222:5001/jtvimage/Vande_Gujarat_9.png" tvg-language="Gujarati" tvg-type="Educational" group-title="Educational", Vande Gujarat 9
+http://192.168.0.222:5001/live/High/1087.m3u8
+#EXTINF:-1 tvg-id=1088 tvg-name="Vande Gujarat 10" tvg-logo="http://192.168.0.222:5001/jtvimage/Vande_Gujarat_10.png" tvg-language="Gujarati" tvg-type="Educational" group-title="Educational", Vande Gujarat 10
+http://192.168.0.222:5001/live/High/1088.m3u8
+#EXTINF:-1 tvg-id=1089 tvg-name="Vande Gujarat 11" tvg-logo="http://192.168.0.222:5001/jtvimage/Vande_Gujarat_11.png" tvg-language="Gujarati" tvg-type="Educational" group-title="Educational", Vande Gujarat 11
+http://192.168.0.222:5001/live/High/1089.m3u8
+#EXTINF:-1 tvg-id=1090 tvg-name="Vande Gujarat 12" tvg-logo="http://192.168.0.222:5001/jtvimage/Vande_Gujarat_12.png" tvg-language="Gujarati" tvg-type="Educational" group-title="Educational", Vande Gujarat 12
+http://192.168.0.222:5001/live/High/1090.m3u8
+#EXTINF:-1 tvg-id=1091 tvg-name="Vande Gujarat 13" tvg-logo="http://192.168.0.222:5001/jtvimage/Vande_Gujarat_13.png" tvg-language="Gujarati" tvg-type="Educational" group-title="Educational", Vande Gujarat 13
+http://192.168.0.222:5001/live/High/1091.m3u8
+#EXTINF:-1 tvg-id=1092 tvg-name="Vande Gujarat 14" tvg-logo="http://192.168.0.222:5001/jtvimage/Vande_Gujarat_14.png" tvg-language="Gujarati" tvg-type="Educational" group-title="Educational", Vande Gujarat 14
+http://192.168.0.222:5001/live/High/1092.m3u8
+#EXTINF:-1 tvg-id=1093 tvg-name="Vande Gujarat 15" tvg-logo="http://192.168.0.222:5001/jtvimage/Vande_Gujarat_15.png" tvg-language="Gujarati" tvg-type="Educational" group-title="Educational", Vande Gujarat 15
+http://192.168.0.222:5001/live/High/1093.m3u8
+#EXTINF:-1 tvg-id=1094 tvg-name="Vande Gujarat 16" tvg-logo="http://192.168.0.222:5001/jtvimage/Vande_Gujarat_16.png" tvg-language="Gujarati" tvg-type="Educational" group-title="Educational", Vande Gujarat 16
+http://192.168.0.222:5001/live/High/1094.m3u8
+#EXTINF:-1 tvg-id=1186 tvg-name="Kartavya TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Kartavya_Tv.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="Devotional", Kartavya TV
+http://192.168.0.222:5001/live/High/1186.m3u8
+#EXTINF:-1 tvg-id=1187 tvg-name="Valam TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Valambhakti.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="Devotional", Valam TV
+http://192.168.0.222:5001/live/High/1187.m3u8
+#EXTINF:-1 tvg-id=1227 tvg-name="Digishala" tvg-logo="http://192.168.0.222:5001/jtvimage/Digishala.png" tvg-language="Gujarati" tvg-type="Educational" group-title="Educational", Digishala
+http://192.168.0.222:5001/live/High/1227.m3u8
+#EXTINF:-1 tvg-id=1324 tvg-name="Colors Gujarati Cinema" tvg-logo="http://192.168.0.222:5001/jtvimage/Colors_Gujarati_Cinema.png" tvg-language="Gujarati" tvg-type="Movies" group-title="Movies", Colors Gujarati Cinema
+http://192.168.0.222:5001/live/High/1324.m3u8
+#EXTINF:-1 tvg-id=1454 tvg-name="Shiksha TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Shiksha_TV.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="Devotional", Shiksha TV
+http://192.168.0.222:5001/live/High/1454.m3u8
+#EXTINF:-1 tvg-id=1610 tvg-name="Divyang News" tvg-logo="http://192.168.0.222:5001/jtvimage/Divyang_News.png" tvg-language="Gujarati" tvg-type="News" group-title="News", Divyang News
+http://192.168.0.222:5001/live/High/1610.m3u8
+#EXTINF:-1 tvg-id=1747 tvg-name="India News Gujarat" tvg-logo="http://192.168.0.222:5001/jtvimage/India_News_Gujarat.png" tvg-language="Gujarati" tvg-type="News" group-title="News", India News Gujarat
+http://192.168.0.222:5001/live/High/1747.m3u8
+#EXTINF:-1 tvg-id=1759 tvg-name="Buletin India" tvg-logo="http://192.168.0.222:5001/jtvimage/Buletin_India.png" tvg-language="Gujarati" tvg-type="News" group-title="News", Buletin India
+http://192.168.0.222:5001/live/High/1759.m3u8
+#EXTINF:-1 tvg-id=1789 tvg-name="Dada Bhagwan Foundation Gujarati" tvg-logo="http://192.168.0.222:5001/jtvimage/Dada_Bhagwan_Foundation_Gujarati.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="Devotional", Dada Bhagwan Foundation Gujarati
+http://192.168.0.222:5001/live/High/1789.m3u8
+#EXTINF:-1 tvg-id=1974 tvg-name="Gujarat 1st 24x7" tvg-logo="http://192.168.0.222:5001/jtvimage/Gujarat_First_24x7.png" tvg-language="Gujarati" tvg-type="News" group-title="News", Gujarat 1st 24x7
+http://192.168.0.222:5001/live/High/1974.m3u8
+#EXTINF:-1 tvg-id=2002 tvg-name="Aadinath TV" tvg-logo="http://192.168.0.222:5001/jtvimage/" tvg-language="Gujarati" tvg-type="Devotional" group-title="Devotional", Aadinath TV
+http://192.168.0.222:5001/live/High/2002.m3u8
+#EXTINF:-1 tvg-id=2007 tvg-name="BS9 News" tvg-logo="http://192.168.0.222:5001/jtvimage/BS9_News.png" tvg-language="Gujarati" tvg-type="News" group-title="News", BS9 News
+http://192.168.0.222:5001/live/High/2007.m3u8
+#EXTINF:-1 tvg-id=2028 tvg-name="Sadvidya TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Sadvidya_TV.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="Devotional", Sadvidya TV
+http://192.168.0.222:5001/live/High/2028.m3u8
+#EXTINF:-1 tvg-id=2827 tvg-name="Headline News" tvg-logo="http://192.168.0.222:5001/jtvimage/Headline_News.png" tvg-language="Gujarati" tvg-type="News" group-title="News", Headline News
+http://192.168.0.222:5001/live/High/2827.m3u8
+#EXTINF:-1 tvg-id=2917 tvg-name="Sadhna Gold" tvg-logo="http://192.168.0.222:5001/jtvimage/Sadhna_Gold.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="Devotional", Sadhna Gold
+http://192.168.0.222:5001/live/High/2917.m3u8
+#EXTINF:-1 tvg-id=3023 tvg-name="Janadesh News" tvg-logo="http://192.168.0.222:5001/jtvimage/Janadesh_News.png" tvg-language="Gujarati" tvg-type="News" group-title="News", Janadesh News
+http://192.168.0.222:5001/live/High/3023.m3u8
+#EXTINF:-1 tvg-id=3037 tvg-name="Kalyan TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Kalyan_TV.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="Devotional", Kalyan TV
+http://192.168.0.222:5001/live/High/3037.m3u8
+#EXTINF:-1 tvg-id=3058 tvg-name="News Capital Gujarat" tvg-logo="http://192.168.0.222:5001/jtvimage/NewsCapital_Gujarat.png" tvg-language="Gujarati" tvg-type="News" group-title="News", News Capital Gujarat
+http://192.168.0.222:5001/live/High/3058.m3u8
 
 #EXTINF:-1 tvg-id=481 tvg-name="Epic" tvg-logo="http://192.168.0.222:5001/jtvimage/Epic_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Epic
 http://192.168.0.222:5001/live/High/481.m3u8
