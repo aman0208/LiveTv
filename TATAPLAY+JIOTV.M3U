@@ -11,7 +11,7 @@ http://192.168.0.222/portal.php?id=361
 #EXTINF:-1 tvg-id="362" tvg-name="Star Sports Select 2 " tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7437/567437-h" group-title="STAR",Star Sports Select 2 
 http://192.168.0.222/portal.php?id=362
 #EXTINF:-1 tvg-id="8489" tvg-name="Star Gold" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h" group-title="STAR",Star Gold
-http://192.168.0.222/portal.php?id=8489 
+http://94.136.186.163/STAR_GOLD_HD/index.m3u8
 #EXTINF:-1 tvg-id="47861" tvg-name="Star Gold Romance" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h" group-title="STAR",Star Gold Romance
 http://192.168.0.222/portal.php?id=47861 
 #EXTINF:-1 tvg-id="247" tvg-name="Star Gold 2 " tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h" group-title="STAR",Star Gold 2
