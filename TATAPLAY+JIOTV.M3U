@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://192.168.0.222:5001/epg.xml.gz"
 
- #EXTINF:-1 tvg-id="364" tvg-name="Star Sports 1 HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7430/567430-h" group-title="STAR",Star Sports 1 HD
+#EXTINF:-1 tvg-id="364" tvg-name="Star Sports 1 HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7430/567430-h" group-title="STAR",Star Sports 1 HD
 http://192.168.0.222/portal.php?id=364 
 #EXTINF:-1 tvg-id="366" tvg-name="Star Sports 2 HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7432/567432-h" group-title="STAR",Star Sports 2 HD 
 http://192.168.0.222/portal.php?id=366 
