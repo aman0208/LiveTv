@@ -66,6 +66,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeenews/default/master.m3u8
 
 #EXTINF:-1 tvg-id=173 tvg-name="Aaj Tak" tvg-logo="http://192.168.0.222:5001/jtvimage/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak
 http://192.168.0.222:5001/live/173.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak HD 
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id=175 tvg-name="Aastha" tvg-logo="http://192.168.0.222:5001/jtvimage/Aastha.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Aastha
 http://192.168.0.222:5001/live/175.m3u8
 #EXTINF:-1 tvg-id=177 tvg-name="ABP News India" tvg-logo="http://192.168.0.222:5001/jtvimage/ABP_News_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", ABP News India
@@ -218,8 +220,6 @@ http://192.168.0.222:5001/live/578.m3u8
 http://192.168.0.222:5001/live/580.m3u8
 #EXTINF:-1 tvg-id=583 tvg-name="DD Kisan" tvg-logo="http://192.168.0.222:5001/jtvimage/DD_Kisan.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", DD Kisan
 http://192.168.0.222:5001/live/583.m3u8
-#EXTINF:-1 tvg-id=584 tvg-name="Mastiii" tvg-logo="http://192.168.0.222:5001/jtvimage/Mastiii.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Mastiii
-http://192.168.0.222:5001/live/584.m3u8
 #EXTINF:-1 tvg-id=587 tvg-name="9XM" tvg-logo="http://192.168.0.222:5001/jtvimage/9XM.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9XM
 http://192.168.0.222:5001/live/587.m3u8
 #EXTINF:-1 tvg-id=591 tvg-name="E 24" tvg-logo="http://192.168.0.222:5001/jtvimage/E_24.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", E 24
