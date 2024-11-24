@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="http://192.168.0.222:5001/epg.xml.gz"
+#EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
+
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
 http://192.168.0.222:5001/live/144.m3u8
 #EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment", Sony SAB HD
