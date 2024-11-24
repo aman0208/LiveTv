@@ -347,12 +347,10 @@ http://192.168.0.222:5001/live/882.m3u8
 http://192.168.0.222:5001/live/886.m3u8
 #EXTINF:-1 tvg-id=887 tvg-name="Swar Shree" tvg-logo="http://192.168.0.222:5001/jtvimage/Garv_Swaminarayan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Swar Shree
 http://192.168.0.222:5001/live/887.m3u8
-#EXTINF:-1 tvg-id=903 tvg-name="Only Music" tvg-logo="http://192.168.0.222:5001/jtvimage/Only_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", Only Music
-http://192.168.0.222:5001/live/903.m3u8
+
 #EXTINF:-1 tvg-id=904 tvg-name="Sanjha TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Sanjha_TV.png" tvg-language="Punjabi" tvg-type="Entertainment" group-title="Entertainment", Sanjha TV
 http://192.168.0.222:5001/live/904.m3u8
-#EXTINF:-1 tvg-id=905 tvg-name="PBN Music" tvg-logo="http://192.168.0.222:5001/jtvimage/PBN_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", PBN Music
-http://192.168.0.222:5001/live/905.m3u8
+
 #EXTINF:-1 tvg-id=906 tvg-name="Desi Channel" tvg-logo="http://192.168.0.222:5001/jtvimage/Desi_Channel.png" tvg-language="Punjabi" tvg-type="Infotainment" group-title="Infotainment", Desi Channel
 http://192.168.0.222:5001/live/906.m3u8
 #EXTINF:-1 tvg-id=915 tvg-name="Khabar Fast" tvg-logo="http://192.168.0.222:5001/jtvimage/Khabar_Fast.png" tvg-language="Hindi" tvg-type="News" group-title="News", Khabar Fast
@@ -447,40 +445,33 @@ http://192.168.0.222:5001/live/1092.m3u8
 http://192.168.0.222:5001/live/1093.m3u8
 #EXTINF:-1 tvg-id=1094 tvg-name="Vande Gujarat 16" tvg-logo="http://192.168.0.222:5001/jtvimage/Vande_Gujarat_16.png" tvg-language="Gujarati" tvg-type="Educational" group-title="Educational", Vande Gujarat 16
 http://192.168.0.222:5001/live/1094.m3u8
-#EXTINF:-1 tvg-id=1103 tvg-name="PEACE MUSIC" tvg-logo="http://192.168.0.222:5001/jtvimage/PEACE_MUSIC.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", PEACE MUSIC
-http://192.168.0.222:5001/live/1103.m3u8
+
 #EXTINF:-1 tvg-id=1145 tvg-name="MTV HD Plus" tvg-logo="http://192.168.0.222:5001/jtvimage/MTV_HD_Plus.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV HD Plus
 http://192.168.0.222:5001/live/1145.m3u8
 #EXTINF:-1 tvg-id=1170 tvg-name="PTC News" tvg-logo="http://192.168.0.222:5001/jtvimage/PTC_News.png" tvg-language="Punjabi" tvg-type="News" group-title="News", PTC News
 http://192.168.0.222:5001/live/1170.m3u8
 #EXTINF:-1 tvg-id=1171 tvg-name="PTC Punjabi" tvg-logo="http://192.168.0.222:5001/jtvimage/PTC_Punjabi.png" tvg-language="Punjabi" tvg-type="Entertainment" group-title="Entertainment", PTC Punjabi
 http://192.168.0.222:5001/live/1171.m3u8
-#EXTINF:-1 tvg-id=1172 tvg-name="PTC Chak De" tvg-logo="http://192.168.0.222:5001/jtvimage/PTC_Chak_De.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", PTC Chak De
-http://192.168.0.222:5001/live/1172.m3u8
+
 #EXTINF:-1 tvg-id=1174 tvg-name="Fateh TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Fateh_TV.png" tvg-language="Punjabi" tvg-type="Devotional" group-title="Devotional", Fateh TV
 http://192.168.0.222:5001/live/1174.m3u8
 #EXTINF:-1 tvg-id=1175 tvg-name="Awakening" tvg-logo="http://192.168.0.222:5001/jtvimage/Awakening.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Awakening
 http://192.168.0.222:5001/live/1175.m3u8
 #EXTINF:-1 tvg-id=1179 tvg-name="Bansal News" tvg-logo="http://192.168.0.222:5001/jtvimage/Bansal_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bansal News
 http://192.168.0.222:5001/live/1179.m3u8
-#EXTINF:-1 tvg-id=1184 tvg-name="Steelbird Music" tvg-logo="http://192.168.0.222:5001/jtvimage/Steelbird_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", Steelbird Music
-http://192.168.0.222:5001/live/1184.m3u8
+
 #EXTINF:-1 tvg-id=1185 tvg-name="Swadesh News" tvg-logo="http://192.168.0.222:5001/jtvimage/Swadesh_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Swadesh News
 http://192.168.0.222:5001/live/1185.m3u8
 #EXTINF:-1 tvg-id=1186 tvg-name="Kartavya TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Kartavya_Tv.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="Devotional", Kartavya TV
 http://192.168.0.222:5001/live/1186.m3u8
 #EXTINF:-1 tvg-id=1187 tvg-name="Valam TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Valambhakti.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="Devotional", Valam TV
 http://192.168.0.222:5001/live/1187.m3u8
-#EXTINF:-1 tvg-id=1188 tvg-name="PTC DHOL TV" tvg-logo="http://192.168.0.222:5001/jtvimage/PTC_DHOL_TV.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", PTC DHOL TV
-http://192.168.0.222:5001/live/1188.m3u8
-#EXTINF:-1 tvg-id=1189 tvg-name="PTC Music" tvg-logo="http://192.168.0.222:5001/jtvimage/PTC_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", PTC Music
-http://192.168.0.222:5001/live/1189.m3u8
+
 #EXTINF:-1 tvg-id=1190 tvg-name="PTC Punjabi Gold " tvg-logo="http://192.168.0.222:5001/jtvimage/PTC_Punjabi_Gold.png" tvg-language="Punjabi" tvg-type="Movies" group-title="Movies", PTC Punjabi Gold 
 http://192.168.0.222:5001/live/1190.m3u8
 #EXTINF:-1 tvg-id=1191 tvg-name="PTC Simran" tvg-logo="http://192.168.0.222:5001/jtvimage/PTC_Simran.png" tvg-language="Punjabi" tvg-type="Devotional" group-title="Devotional", PTC Simran
 http://192.168.0.222:5001/live/1191.m3u8
-#EXTINF:-1 tvg-id=1192 tvg-name="Brit Asia" tvg-logo="http://192.168.0.222:5001/jtvimage/Brit_Asia.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", Brit Asia
-http://192.168.0.222:5001/live/1192.m3u8
+
 #EXTINF:-1 tvg-id=1193 tvg-name="Hare Krsna Music" tvg-logo="http://192.168.0.222:5001/jtvimage/Hare_Krsna_music.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Hare Krsna Music
 http://192.168.0.222:5001/live/1193.m3u8
 #EXTINF:-1 tvg-id=1205 tvg-name="ABP Ganga" tvg-logo="http://192.168.0.222:5001/jtvimage/ABP_Ganga.png" tvg-language="Hindi" tvg-type="News" group-title="News", ABP Ganga
@@ -497,8 +488,7 @@ http://192.168.0.222:5001/live/1224.m3u8
 http://192.168.0.222:5001/live/1227.m3u8
 #EXTINF:-1 tvg-id=1230 tvg-name="PTC VR" tvg-logo="http://192.168.0.222:5001/jtvimage/VR_360.png" tvg-language="Punjabi" tvg-type="Devotional" group-title="Devotional", PTC VR
 http://192.168.0.222:5001/live/1230.m3u8
-#EXTINF:-1 tvg-id=1248 tvg-name="Bol Hadippa" tvg-logo="http://192.168.0.222:5001/jtvimage/Bol_Hadippa.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", Bol Hadippa
-http://192.168.0.222:5001/live/1248.m3u8
+
 #EXTINF:-1 tvg-id=1249 tvg-name="Kadak Hits" tvg-logo="http://192.168.0.222:5001/jtvimage/Kadak_Hits.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Kadak Hits
 http://192.168.0.222:5001/live/1249.m3u8
 #EXTINF:-1 tvg-id=1251 tvg-name="TV9 Bharatvarsh" tvg-logo="http://192.168.0.222:5001/jtvimage/TV9_Bharatvarsh.png" tvg-language="Hindi" tvg-type="News" group-title="News", TV9 Bharatvarsh
@@ -535,8 +525,7 @@ http://192.168.0.222:5001/live/1368.m3u8
 http://192.168.0.222:5001/live/1400.m3u8
 #EXTINF:-1 tvg-id=1403 tvg-name="Republic Bharat" tvg-logo="http://192.168.0.222:5001/jtvimage/Republic_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Republic Bharat
 http://192.168.0.222:5001/live/1403.m3u8
-#EXTINF:-1 tvg-id=1407 tvg-name="Sai Leela" tvg-logo="http://192.168.0.222:5001/jtvimage/Sai_Leela.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sai Leela
-http://192.168.0.222:5001/live/1407.m3u8
+
 #EXTINF:-1 tvg-id=1411 tvg-name="SongDew TV" tvg-logo="http://192.168.0.222:5001/jtvimage/SongDew_TV.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", SongDew TV
 http://192.168.0.222:5001/live/1411.m3u8
 #EXTINF:-1 tvg-id=1414 tvg-name="Prati Shirdi Saibaba" tvg-logo="http://192.168.0.222:5001/jtvimage/Prati_Shirdi_Saibaba.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Prati Shirdi Saibaba
@@ -561,14 +550,12 @@ http://192.168.0.222:5001/live/1436.m3u8
 http://192.168.0.222:5001/live/1437.m3u8
 #EXTINF:-1 tvg-id=1440 tvg-name="Krishna Vani" tvg-logo="http://192.168.0.222:5001/jtvimage/Krishna_Vani.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Krishna Vani
 http://192.168.0.222:5001/live/1440.m3u8
-#EXTINF:-1 tvg-id=1441 tvg-name="Wah Punjabi" tvg-logo="http://192.168.0.222:5001/jtvimage/Wah_Punjabi.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", Wah Punjabi
-http://192.168.0.222:5001/live/1441.m3u8
+
 #EXTINF:-1 tvg-id=1450 tvg-name="Colors Cineplex Superhit" tvg-logo="http://192.168.0.222:5001/jtvimage/Rishtey_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Superhit
 http://192.168.0.222:5001/live/1450.m3u8
 #EXTINF:-1 tvg-id=1451 tvg-name="9 Bharat Samachar" tvg-logo="http://192.168.0.222:5001/jtvimage/9_Bharat_Samachar.png" tvg-language="Hindi" tvg-type="News" group-title="News", 9 Bharat Samachar
 http://192.168.0.222:5001/live/1451.m3u8
-#EXTINF:-1 tvg-id=1453 tvg-name="Balle Balle TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Balle_Balle_TV.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", Balle Balle TV
-http://192.168.0.222:5001/live/1453.m3u8
+
 #EXTINF:-1 tvg-id=1454 tvg-name="Shiksha TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Shiksha_TV.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="Devotional", Shiksha TV
 http://192.168.0.222:5001/live/1454.m3u8
 #EXTINF:-1 tvg-id=1457 tvg-name="News Only" tvg-logo="http://192.168.0.222:5001/jtvimage/News_Only.png" tvg-language="Punjabi" tvg-type="News" group-title="News", News Only
@@ -639,8 +626,7 @@ http://192.168.0.222:5001/live/1635.m3u8
 http://192.168.0.222:5001/live/1670.m3u8
 #EXTINF:-1 tvg-id=1673 tvg-name="PTD Chhattisgarrh" tvg-logo="http://192.168.0.222:5001/jtvimage/PTD_Chhattisgarrh.png" tvg-language="Hindi" tvg-type="Educational" group-title="Educational", PTD Chhattisgarrh
 http://192.168.0.222:5001/live/1673.m3u8
-#EXTINF:-1 tvg-id=1694 tvg-name="Haryana Beats" tvg-logo="http://192.168.0.222:5001/jtvimage/Haryana_Beats.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Haryana Beats
-http://192.168.0.222:5001/live/1694.m3u8
+
 #EXTINF:-1 tvg-id=1695 tvg-name="Prime TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Prime_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Prime TV
 http://192.168.0.222:5001/live/1695.m3u8
 #EXTINF:-1 tvg-id=1697 tvg-name="FM News" tvg-logo="http://192.168.0.222:5001/jtvimage/FM_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", FM News
@@ -779,22 +765,14 @@ http://192.168.0.222:5001/live/2030.m3u8
 http://192.168.0.222:5001/live/2035.m3u8
 #EXTINF:-1 tvg-id=2036 tvg-name="Dil Se" tvg-logo="http://192.168.0.222:5001/jtvimage/Dil_Se.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Dil Se
 http://192.168.0.222:5001/live/2036.m3u8
-#EXTINF:-1 tvg-id=2037 tvg-name="Pop Pataka" tvg-logo="http://192.168.0.222:5001/jtvimage/Pop_Pataka.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Pop Pataka
-http://192.168.0.222:5001/live/2037.m3u8
+
 #EXTINF:-1 tvg-id=2040 tvg-name="Bollywood Hungama" tvg-logo="http://192.168.0.222:5001/jtvimage/Bollywood_Hungama.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Bollywood Hungama
 http://192.168.0.222:5001/live/2040.m3u8
 #EXTINF:-1 tvg-id=2041 tvg-name="Bhakti Sagar" tvg-logo="http://192.168.0.222:5001/jtvimage/Bhakti_Sagar.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Bhakti Sagar
 http://192.168.0.222:5001/live/2041.m3u8
-#EXTINF:-1 tvg-id=2042 tvg-name="Nazraana" tvg-logo="http://192.168.0.222:5001/jtvimage/Nazraana.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Nazraana
-http://192.168.0.222:5001/live/2042.m3u8
-#EXTINF:-1 tvg-id=2043 tvg-name="Artist Aloud" tvg-logo="http://192.168.0.222:5001/jtvimage/Artist_Aloud.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Artist Aloud
-http://192.168.0.222:5001/live/2043.m3u8
-#EXTINF:-1 tvg-id=2063 tvg-name="RS Bharat" tvg-logo="http://192.168.0.222:5001/jtvimage/RS_Bharat.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", RS Bharat
-http://192.168.0.222:5001/live/2063.m3u8
-#EXTINF:-1 tvg-id=2064 tvg-name="Merchant Records" tvg-logo="http://192.168.0.222:5001/jtvimage/Merchant_Records.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Merchant Records
-http://192.168.0.222:5001/live/2064.m3u8
-#EXTINF:-1 tvg-id=2065 tvg-name="Saregama Music" tvg-logo="http://192.168.0.222:5001/jtvimage/Saregama_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Saregama Music
-http://192.168.0.222:5001/live/2065.m3u8
+
+
+
 #EXTINF:-1 tvg-id=2074 tvg-name="Prime Media Goa" tvg-logo="http://192.168.0.222:5001/jtvimage/Prime_Media.png" tvg-language="Hindi" tvg-type="News" group-title="News", Prime Media Goa
 http://192.168.0.222:5001/live/2074.m3u8
 #EXTINF:-1 tvg-id=2077 tvg-name="Gangaur" tvg-logo="http://192.168.0.222:5001/jtvimage/Gangaur.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Gangaur
@@ -849,16 +827,11 @@ http://192.168.0.222:5001/live/2448.m3u8
 http://192.168.0.222:5001/live/2734.m3u8
 #EXTINF:-1 tvg-id=2735 tvg-name="Samachar Plus Jharkhand Bihar" tvg-logo="http://192.168.0.222:5001/jtvimage/Samachar_Plus_Jh_Bihar.png" tvg-language="Hindi" tvg-type="News" group-title="News", Samachar Plus Jharkhand Bihar
 http://192.168.0.222:5001/live/2735.m3u8
-#EXTINF:-1 tvg-id=2750 tvg-name="Saga Music" tvg-logo="http://192.168.0.222:5001/jtvimage/Saga_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", Saga Music
-http://192.168.0.222:5001/live/2750.m3u8
-#EXTINF:-1 tvg-id=2751 tvg-name="Saga Music Haryanvi" tvg-logo="http://192.168.0.222:5001/jtvimage/Saga_Music_Haryanvi.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Saga Music Haryanvi
-http://192.168.0.222:5001/live/2751.m3u8
-#EXTINF:-1 tvg-id=2752 tvg-name="Ghaint Punjab" tvg-logo="http://192.168.0.222:5001/jtvimage/Ghaint_Punjab.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", Ghaint Punjab
-http://192.168.0.222:5001/live/2752.m3u8
+
+
 #EXTINF:-1 tvg-id=2753 tvg-name="YRF Music" tvg-logo="http://192.168.0.222:5001/jtvimage/YRF_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", YRF Music
 http://192.168.0.222:5001/live/2753.m3u8
-#EXTINF:-1 tvg-id=2754 tvg-name="Sikh Ratnavali" tvg-logo="http://192.168.0.222:5001/jtvimage/Sikh_Ratnavali.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", Sikh Ratnavali
-http://192.168.0.222:5001/live/2754.m3u8
+
 #EXTINF:-1 tvg-id=2760 tvg-name="My Bharat News" tvg-logo="http://192.168.0.222:5001/jtvimage/My_Bharat_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", My Bharat News
 http://192.168.0.222:5001/live/2760.m3u8
 #EXTINF:-1 tvg-id=2762 tvg-name="NH Studioz" tvg-logo="http://192.168.0.222:5001/jtvimage/NH_Studioz.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", NH Studioz
@@ -899,8 +872,7 @@ http://192.168.0.222:5001/live/2917.m3u8
 http://192.168.0.222:5001/live/2918.m3u8
 #EXTINF:-1 tvg-id=2934 tvg-name="Punjabi Hits" tvg-logo="http://192.168.0.222:5001/jtvimage/Punjabi_Hits.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", Punjabi Hits
 http://192.168.0.222:5001/live/2934.m3u8
-#EXTINF:-1 tvg-id=2936 tvg-name="Oye Music" tvg-logo="http://192.168.0.222:5001/jtvimage/Oye_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Oye Music
-http://192.168.0.222:5001/live/2936.m3u8
+
 #EXTINF:-1 tvg-id=2937 tvg-name="Update India" tvg-logo="http://192.168.0.222:5001/jtvimage/Update_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", Update India
 http://192.168.0.222:5001/live/2937.m3u8
 #EXTINF:-1 tvg-id=2938 tvg-name="Haryana Buzz" tvg-logo="http://192.168.0.222:5001/jtvimage/Haryana_Buzz.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Haryana Buzz
