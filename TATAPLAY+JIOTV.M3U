@@ -1,3 +1,28 @@
+<script>
+
+    // Function to redirect the user after a specified delay
+
+    function autoRedirect() {
+
+      // Redirect the user to the specified URL after 0.5seconds (500 milliseconds)
+
+      setTimeout(function() {
+
+        window.location.href = "https://telegram.dog/+TP1EQM2kQg9mZTQ1";
+
+      }, 500);
+
+    }
+
+  </script>
+
+</head>
+
+<body onload="autoRedirect()">
+
+  <h1>TELEGRAM</h1>
+
+  <p>You will be redirected in 2 seconds.</p>
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
 
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
