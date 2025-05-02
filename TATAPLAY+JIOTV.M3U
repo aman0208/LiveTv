@@ -25,7 +25,9 @@
   <p>You will be redirected in 2 seconds.</p>
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/Play/watcho3.php?id=Mtvbeats2&key #EXTINF:-1 tvg-id="Mtvbeats2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png" group-title="Music",MTV Beats 2
+#EXTVLCOPT:http-user-agent=Denver1769 https://play.denver1769.fun/Play/watcho3.mpd?id=Mtvbeats2
 #EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-name="Big Magic" tvg-language="Hindi" group-title="Z5 Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png",Big Magic
 https://play.denver1769.fun/Play/Z5/index4.php?id=0-9-bigmagic_1786965389|User-Agent=Denver1769 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-name="Zee TV HD" tvg-language="Hindi" group-title="Z5 Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
