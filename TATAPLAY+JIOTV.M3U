@@ -66,10 +66,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 http://192.168.0.222:5001/live/175.m3u8
 #EXTINF:-1 tvg-id=177 tvg-name="ABP News India" tvg-logo="http://192.168.0.222:5001/jtvimage/ABP_News_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", ABP News India
 http://192.168.0.222:5001/live/177.m3u8
-#EXTINF:-1 tvg-id=182 tvg-name="B4U Movies" tvg-logo="http://192.168.0.222:5001/jtvimage/B4U_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Movies
-http://192.168.0.222:5001/live/182.m3u8
-#EXTINF:-1 tvg-id=183 tvg-name="B4U Music" tvg-logo="http://192.168.0.222:5001/jtvimage/B4U_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", B4U Music
-http://192.168.0.222:5001/live/183.m3u8
+
 #EXTINF:-1 tvg-id=190 tvg-name="CNBC Awaaz" tvg-logo="http://192.168.0.222:5001/jtvimage/CNBC_Awaaz.png" tvg-language="Hindi" tvg-type="Business" group-title="Business", CNBC Awaaz
 http://192.168.0.222:5001/live/190.m3u8
 #EXTINF:-1 tvg-id=196 tvg-name="Colors Gujarati" tvg-logo="http://192.168.0.222:5001/jtvimage/Colors_Gujarati.png" tvg-language="Gujarati" tvg-type="Entertainment" group-title="Entertainment", Colors Gujarati
@@ -274,8 +271,6 @@ http://192.168.0.222:5001/live/724.m3u8
 http://192.168.0.222:5001/live/732.m3u8
 #EXTINF:-1 tvg-id=742 tvg-name="mh1 (Music)" tvg-logo="http://192.168.0.222:5001/jtvimage/mh1_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", mh1 (Music)
 http://192.168.0.222:5001/live/742.m3u8
-#EXTINF:-1 tvg-id=753 tvg-name="MTV Beats HD" tvg-logo="http://192.168.0.222:5001/jtvimage/MTV_Beats_HD.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV Beats HD
-http://51.158.145.157:8080/MTVBeats/index.m3u8
 #EXTINF:-1 tvg-id=768 tvg-name="Jan TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Jan_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Jan TV
 http://192.168.0.222:5001/live/768.m3u8
 #EXTINF:-1 tvg-id=770 tvg-name="Kashish News" tvg-logo="http://192.168.0.222:5001/jtvimage/Kashish_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Kashish News
@@ -514,8 +509,6 @@ http://192.168.0.222:5001/live/1328.m3u8
 http://192.168.0.222:5001/live/1329.m3u8
 #EXTINF:-1 tvg-id=1368 tvg-name="Colors SD" tvg-logo="http://192.168.0.222:5001/jtvimage/Colors_SD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors SD
 http://192.168.0.222:5001/live/1368.m3u8
-#EXTINF:-1 tvg-id=1400 tvg-name="MTV Beats SD" tvg-logo="http://192.168.0.222:5001/jtvimage/MTV_Beats_SD.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV Beats SD
-http://192.168.0.222:5001/live/1400.m3u8
 #EXTINF:-1 tvg-id=1403 tvg-name="Republic Bharat" tvg-logo="http://192.168.0.222:5001/jtvimage/Republic_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Republic Bharat
 http://192.168.0.222:5001/live/1403.m3u8
 
@@ -563,8 +556,7 @@ http://192.168.0.222:5001/live/1477.m3u8
 http://192.168.0.222:5001/live/1482.m3u8
 #EXTINF:-1 tvg-id=1525 tvg-name="TEST13 HD" tvg-logo="http://192.168.0.222:5001/jtvimage/TEST13_HD.png" tvg-language="Hindi" tvg-type="News" group-title="News", TEST13 HD
 http://192.168.0.222:5001/live/1525.m3u8
-#EXTINF:-1 tvg-id=1527 tvg-name="Haryanvi Hits" tvg-logo="http://192.168.0.222:5001/jtvimage/Haryanvi_Hits.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", Haryanvi Hits
-http://192.168.0.222:5001/live/1527.m3u8
+
 #EXTINF:-1 tvg-id=1528 tvg-name="Network 10" tvg-logo="http://192.168.0.222:5001/jtvimage/Network_10.png" tvg-language="Hindi" tvg-type="News" group-title="News", Network 10
 http://192.168.0.222:5001/live/1528.m3u8
 #EXTINF:-1 tvg-id=1531 tvg-name="Gyanvani 1" tvg-logo="http://192.168.0.222:5001/jtvimage/Gyanvani_1.png" tvg-language="Hindi" tvg-type="Educational" group-title="Educational", Gyanvani 1
@@ -678,8 +670,7 @@ http://192.168.0.222:5001/live/1853.m3u8
 http://192.168.0.222:5001/live/1854.m3u8
 #EXTINF:-1 tvg-id=1868 tvg-name="Punjab Plus" tvg-logo="http://192.168.0.222:5001/jtvimage/Punjab_Plus.png" tvg-language="Punjabi" tvg-type="Entertainment" group-title="Entertainment", Punjab Plus
 http://192.168.0.222:5001/live/1868.m3u8
-#EXTINF:-1 tvg-id=1871 tvg-name="7X Music" tvg-logo="http://192.168.0.222:5001/jtvimage/7X_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", 7X Music
-http://192.168.0.222:5001/live/1871.m3u8
+
 #EXTINF:-1 tvg-id=1885 tvg-name="Kripa TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Kripa_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Kripa TV
 http://192.168.0.222:5001/live/1885.m3u8
 #EXTINF:-1 tvg-id=1886 tvg-name="Sansad TV Rajya Sabha" tvg-logo="http://192.168.0.222:5001/jtvimage/Sansad_TV_RajyaSabha.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sansad TV Rajya Sabha
