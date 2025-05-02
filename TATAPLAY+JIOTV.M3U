@@ -25,6 +25,21 @@
   <p>You will be redirected in 2 seconds.</p>
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
 
+
+#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-name="Big Magic" tvg-language="Hindi" group-title="Z5 Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png",Big Magic
+https://play.denver1769.fun/Play/Z5/index4.php?id=0-9-bigmagic_1786965389|User-Agent=Denver1769 
+#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-name="Zee TV HD" tvg-language="Hindi" group-title="Z5 Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
+https://play.denver1769.fun/Play/Z5/index4.php?id=0-9-zeetvhd|User-Agent=Denver1769 
+#EXTINF:-1 tvg-id="0-9-zeetv" tvg-name="Zee TV" tvg-language="Hindi" group-title="Z5 Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV
+https://play.denver1769.fun/Play/Z5/index4.php?id=0-9-zeetv|User-Agent=Denver1769 
+#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-name="&TV HD" tvg-language="Hindi" group-title="Z5 Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",&TV HD
+https://play.denver1769.fun/Play/Z5/index4.php?id=0-9-tvhd_0|User-Agent=Denver1769 
+#EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-name="Zee Anmol" tvg-language="Hindi" group-title="Z5 Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol 
+https://play.denver1769.fun/Play/Z5/index4.php?id=0-9-zeeanmol|User-Agent=Denver1769
+#EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-name="Zee Marathi HD" tvg-language="Marathi" group-title="Z5 Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
+https://play.denver1769.fun/Play/Z5/index4.php?id=0-9-zeemarathi|User-Agent=Denver1769 
+#EXTINF:-1 tvg-id="0-9-9z5383486" tvg-name="Zee Marathi" tvg-language="Marathi" group-title="Z5 Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png",Zee Marathi 
+https://play.denver1769.fun/Play/Z5/index4.php?id=0-9-9z5383486|User-Agent=Denver1769
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
 http://192.168.0.222:5001/live/144.m3u8
 #EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment", Sony SAB HD
