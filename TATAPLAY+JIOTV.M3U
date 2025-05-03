@@ -25,32 +25,20 @@
   <p>You will be redirected in 2 seconds.</p>
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/Play/watcho3.php?id=Mtvbeats2&key
-#EXTINF:-1 tvg-id="Mtvbeats2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png" group-title="Music",MTV Beats
-#EXTVLCOPT:http-user-agent=Denver1769
-https://play.denver1769.fun/Play/watcho3.mpd?id=Mtvbeats2
 
-#EXTINF:-1 tvg-id="b4u_movies" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="Movies",B4U Movies 
-#EXTVLCOPT:http-user-agent=Denver1769
-https://play.denver1769.fun/Play/Toffee/get/index.m3u8?id=b4u_movies 
+
+
 
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-name="Zee Cinema HD" tvg-language="Hindi" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD 
 https://play.denver1769.fun/Play/Z5/index4.php?id=0-9-zeecinemahd|User-Agent=Denver1769
 #EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-name="Big Magic" tvg-language="Hindi" group-title="Z5 Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png",Big Magic
 https://play.denver1769.fun/Play/Z5/index4.php?id=0-9-bigmagic_1786965389|User-Agent=Denver1769 
-#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-name="Zee TV HD" tvg-language="Hindi" group-title="Z5 Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
+#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-name="Zee TV HD" tvg-language="Hindi" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
 https://play.denver1769.fun/Play/Z5/index4.php?id=0-9-zeetvhd|User-Agent=Denver1769 
-#EXTINF:-1 tvg-id="0-9-zeetv" tvg-name="Zee TV" tvg-language="Hindi" group-title="Z5 Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV
+#EXTINF:-1 tvg-id="0-9-zeetv" tvg-name="Zee TV" tvg-language="Hindi" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV
 https://play.denver1769.fun/Play/Z5/index4.php?id=0-9-zeetv|User-Agent=Denver1769 
-#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-name="&TV HD" tvg-language="Hindi" group-title="Z5 Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",&TV HD
-https://play.denver1769.fun/Play/Z5/index4.php?id=0-9-tvhd_0|User-Agent=Denver1769 
-#EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-name="Zee Anmol" tvg-language="Hindi" group-title="Z5 Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol 
-https://play.denver1769.fun/Play/Z5/index4.php?id=0-9-zeeanmol|User-Agent=Denver1769
-#EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-name="Zee Marathi HD" tvg-language="Marathi" group-title="Z5 Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
-https://play.denver1769.fun/Play/Z5/index4.php?id=0-9-zeemarathi|User-Agent=Denver1769 
-#EXTINF:-1 tvg-id="0-9-9z5383486" tvg-name="Zee Marathi" tvg-language="Marathi" group-title="Z5 Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png",Zee Marathi 
-https://play.denver1769.fun/Play/Z5/index4.php?id=0-9-9z5383486|User-Agent=Denver1769
+
+
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
 http://192.168.0.222:5001/live/144.m3u8
 #EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment", Sony SAB HD
@@ -269,8 +257,6 @@ http://192.168.0.222:5001/live/715.m3u8
 http://192.168.0.222:5001/live/724.m3u8
 #EXTINF:-1 tvg-id=732 tvg-name="9X Tashan" tvg-logo="http://192.168.0.222:5001/jtvimage/9X_Tashan.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", 9X Tashan
 http://192.168.0.222:5001/live/732.m3u8
-#EXTINF:-1 tvg-id=742 tvg-name="mh1 (Music)" tvg-logo="http://192.168.0.222:5001/jtvimage/mh1_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", mh1 (Music)
-http://192.168.0.222:5001/live/742.m3u8
 #EXTINF:-1 tvg-id=768 tvg-name="Jan TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Jan_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Jan TV
 http://192.168.0.222:5001/live/768.m3u8
 #EXTINF:-1 tvg-id=770 tvg-name="Kashish News" tvg-logo="http://192.168.0.222:5001/jtvimage/Kashish_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Kashish News
@@ -379,8 +365,7 @@ http://192.168.0.222:5001/live/959.m3u8
 http://192.168.0.222:5001/live/960.m3u8
 #EXTINF:-1 tvg-id=961 tvg-name="JUSOne" tvg-logo="http://192.168.0.222:5001/jtvimage/JUSOne.png" tvg-language="Punjabi" tvg-type="Devotional" group-title="Devotional", JUSOne
 http://192.168.0.222:5001/live/961.m3u8
-#EXTINF:-1 tvg-id=962 tvg-name="Boogle Bollywood" tvg-logo="http://192.168.0.222:5001/jtvimage/Boogle_Bollywood.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Boogle Bollywood
-http://192.168.0.222:5001/live/962.m3u8
+
 #EXTINF:-1 tvg-id=963 tvg-name="Arre HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Arre.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Arre HD
 http://192.168.0.222:5001/live/963.m3u8
 #EXTINF:-1 tvg-id=964 tvg-name="Om Shanti" tvg-logo="http://192.168.0.222:5001/jtvimage/Om_Shanti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Om Shanti
@@ -491,8 +476,7 @@ http://192.168.0.222:5001/live/1263.m3u8
 http://192.168.0.222:5001/live/1265.m3u8
 #EXTINF:-1 tvg-id=1278 tvg-name="Prarthana Bhawan" tvg-logo="http://192.168.0.222:5001/jtvimage/Prarthana_Bhawan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Prarthana Bhawan
 http://192.168.0.222:5001/live/1278.m3u8
-#EXTINF:-1 tvg-id=1286 tvg-name="Insync" tvg-logo="http://192.168.0.222:5001/jtvimage/Insync.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Insync
-http://192.168.0.222:5001/live/1286.m3u8
+
 #EXTINF:-1 tvg-id=1287 tvg-name="ANB News" tvg-logo="http://192.168.0.222:5001/jtvimage/ANBNews.png" tvg-language="Hindi" tvg-type="News" group-title="News", ANB News
 http://192.168.0.222:5001/live/1287.m3u8
 #EXTINF:-1 tvg-id=1291 tvg-name="ABP Sanjha" tvg-logo="http://192.168.0.222:5001/jtvimage/ABP_Sanjha.png" tvg-language="Punjabi" tvg-type="News" group-title="News", ABP Sanjha
@@ -959,8 +943,7 @@ http://192.168.0.222:5001/live/3068.m3u8
 http://192.168.0.222:5001/live/3070.m3u8
 #EXTINF:-1 tvg-id=3071 tvg-name="TV Asia Powered by Shemaroo" tvg-logo="http://192.168.0.222:5001/jtvimage/TV_Asia.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", TV Asia Powered by Shemaroo
 http://192.168.0.222:5001/live/3071.m3u8
-#EXTINF:-1 tvg-id=3074 tvg-name="Shemaroo Filmy Gaane" tvg-logo="http://192.168.0.222:5001/jtvimage/shemaroofilmigaane.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Shemaroo Filmy Gaane
-http://192.168.0.222:5001/live/3074.m3u8
+
 #EXTINF:-1 tvg-id=3075 tvg-name="Shemaroo Bollywood" tvg-logo="http://192.168.0.222:5001/jtvimage/shemaroobollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Shemaroo Bollywood
 http://192.168.0.222:5001/live/3075.m3u8
 #EXTINF:-1 tvg-id=3076 tvg-name="India Prime News" tvg-logo="http://192.168.0.222:5001/jtvimage/India_Prime_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", India Prime News
