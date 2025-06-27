@@ -482,8 +482,7 @@ http://192.168.1.13:5001/live/1287.m3u8
 http://192.168.1.13:5001/live/1291.m3u8
 #EXTINF:-1 tvg-id=1292 tvg-name="Wellness" tvg-logo="http://192.168.1.13:5001/jtvimage/Wellness_TV.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", Wellness
 http://192.168.1.13:5001/live/1292.m3u8
-#EXTINF:-1 tvg-id=1295 tvg-name="B4U Kadak" tvg-logo="http://192.168.1.13:5001/jtvimage/B4U_Kadak.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Kadak
-http://192.168.1.13:5001/live/1295.m3u8
+
 #EXTINF:-1 tvg-id=1324 tvg-name="Colors Gujarati Cinema" tvg-logo="http://192.168.1.13:5001/jtvimage/Colors_Gujarati_Cinema.png" tvg-language="Gujarati" tvg-type="Movies" group-title="Movies", Colors Gujarati Cinema
 http://192.168.1.13:5001/live/1324.m3u8
 #EXTINF:-1 tvg-id=1328 tvg-name="DD Arunprabha" tvg-logo="http://192.168.1.13:5001/jtvimage/DD_Arunprabha.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD Arunprabha
@@ -730,8 +729,6 @@ http://192.168.1.13:5001/live/2029.m3u8
 http://192.168.1.13:5001/live/2030.m3u8
 #EXTINF:-1 tvg-id=2035 tvg-name="Amritwani" tvg-logo="http://192.168.1.13:5001/jtvimage/Amritwani.png" tvg-language="Punjabi" tvg-type="Devotional" group-title="Devotional", Amritwani
 http://192.168.1.13:5001/live/2035.m3u8
-#EXTINF:-1 tvg-id=2036 tvg-name="Dil Se" tvg-logo="http://192.168.1.13:5001/jtvimage/Dil_Se.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Dil Se
-http://192.168.1.13:5001/live/2036.m3u8
 
 #EXTINF:-1 tvg-id=2040 tvg-name="Bollywood Hungama" tvg-logo="http://192.168.1.13:5001/jtvimage/Bollywood_Hungama.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Bollywood Hungama
 http://192.168.1.13:5001/live/2040.m3u8
@@ -844,8 +841,7 @@ http://192.168.1.13:5001/live/2934.m3u8
 http://192.168.1.13:5001/live/2937.m3u8
 #EXTINF:-1 tvg-id=2938 tvg-name="Haryana Buzz" tvg-logo="http://192.168.1.13:5001/jtvimage/Haryana_Buzz.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Haryana Buzz
 http://192.168.1.13:5001/live/2938.m3u8
-#EXTINF:-1 tvg-id=2944 tvg-name="Coke Studio Bharat" tvg-logo="http://192.168.1.13:5001/jtvimage/Coke_Studio_Bharat.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Coke Studio Bharat
-http://192.168.1.13:5001/live/2944.m3u8
+
 #EXTINF:-1 tvg-id=2945 tvg-name="Tar TV" tvg-logo="http://192.168.1.13:5001/jtvimage/Tar_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Tar TV
 http://192.168.1.13:5001/live/2945.m3u8
 #EXTINF:-1 tvg-id=2946 tvg-name="National News" tvg-logo="http://192.168.1.13:5001/jtvimage/National_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", National News
@@ -862,8 +858,7 @@ http://192.168.1.13:5001/live/2957.m3u8
 http://192.168.1.13:5001/live/2959.m3u8
 #EXTINF:-1 tvg-id=2962 tvg-name="NoFilterNeha" tvg-logo="http://192.168.1.13:5001/jtvimage/No_Filter_Neha.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", NoFilterNeha
 http://192.168.1.13:5001/live/2962.m3u8
-#EXTINF:-1 tvg-id=3003 tvg-name="Coke Studio Bharat Season 1" tvg-logo="http://192.168.1.13:5001/jtvimage/CokeStudio_Bharat_S1.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Coke Studio Bharat Season 1
-http://192.168.1.13:5001/live/3003.m3u8
+
 #EXTINF:-1 tvg-id=3007 tvg-name="AMV" tvg-logo="http://192.168.1.13:5001/jtvimage/AMV.png" tvg-language="Hindi" tvg-type="News" group-title="News", AMV
 http://192.168.1.13:5001/live/3007.m3u8
 #EXTINF:-1 tvg-id=3013 tvg-name="Narayana Health" tvg-logo="http://192.168.1.13:5001/jtvimage/Narayana_Health.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Narayana Health
