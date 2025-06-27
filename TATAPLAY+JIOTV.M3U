@@ -29,8 +29,7 @@
 
 
 
-#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-name="Zee Cinema HD" tvg-language="Hindi" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD 
-https://play.denver1769.fun/Play/Z5/index4.php?id=0-9-zeecinemahd|User-Agent=Denver1769
+
 #EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-name="Big Magic" tvg-language="Hindi" group-title="Z5 Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png",Big Magic
 https://play.denver1769.fun/Play/Z5/index4.php?id=0-9-bigmagic_1786965389|User-Agent=Denver1769 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-name="Zee TV HD" tvg-language="Hindi" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
@@ -287,8 +286,7 @@ http://192.168.1.13:5001/live/801.m3u8
 http://192.168.1.13:5001/live/804.m3u8
 #EXTINF:-1 tvg-id=808 tvg-name="Hindi Khabar" tvg-logo="http://192.168.1.13:5001/jtvimage/Hindi_Khabar.png" tvg-language="Hindi" tvg-type="News" group-title="News", Hindi Khabar
 http://192.168.1.13:5001/live/808.m3u8
-#EXTINF:-1 tvg-id=809 tvg-name="Maha Movies" tvg-logo="http://192.168.1.13:5001/jtvimage/Maha_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Maha Movies
-http://192.168.1.13:5001/live/809.m3u8
+
 #EXTINF:-1 tvg-id=815 tvg-name="Sonic Hindi" tvg-logo="http://192.168.1.13:5001/jtvimage/sonic_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sonic Hindi
 http://192.168.1.13:5001/live/815.m3u8
 #EXTINF:-1 tvg-id=816 tvg-name="Cartoon Network Hindi" tvg-logo="http://192.168.1.13:5001/jtvimage/Cartoon_Network_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Cartoon Network Hindi
@@ -349,8 +347,7 @@ http://192.168.1.13:5001/live/936.m3u8
 http://192.168.1.13:5001/live/939.m3u8
 #EXTINF:-1 tvg-id=944 tvg-name="Mantavya News" tvg-logo="http://192.168.1.13:5001/jtvimage/Mantavya_News.png" tvg-language="Gujarati" tvg-type="News" group-title="News", Mantavya News
 http://192.168.1.13:5001/live/944.m3u8
-#EXTINF:-1 tvg-id=946 tvg-name="Pitaara" tvg-logo="http://192.168.1.13:5001/jtvimage/Pitaara.png" tvg-language="Punjabi" tvg-type="Movies" group-title="Movies", Pitaara
-http://192.168.1.13:5001/live/946.m3u8
+
 #EXTINF:-1 tvg-id=951 tvg-name="Live Punjabi TV" tvg-logo="http://192.168.1.13:5001/jtvimage/Punjab_Today.png" tvg-language="Punjabi" tvg-type="Entertainment" group-title="Entertainment", Live Punjabi TV
 http://192.168.1.13:5001/live/951.m3u8
 #EXTINF:-1 tvg-id=952 tvg-name="Garv Punjabi Gurbani" tvg-logo="http://192.168.1.13:5001/jtvimage/GarvGurbani.png" tvg-language="Punjabi" tvg-type="Devotional" group-title="Devotional", Garv Punjabi Gurbani
@@ -440,8 +437,7 @@ http://192.168.1.13:5001/live/1186.m3u8
 #EXTINF:-1 tvg-id=1187 tvg-name="Valam TV" tvg-logo="http://192.168.1.13:5001/jtvimage/Valambhakti.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="Devotional", Valam TV
 http://192.168.1.13:5001/live/1187.m3u8
 
-#EXTINF:-1 tvg-id=1190 tvg-name="PTC Punjabi Gold " tvg-logo="http://192.168.1.13:5001/jtvimage/PTC_Punjabi_Gold.png" tvg-language="Punjabi" tvg-type="Movies" group-title="Movies", PTC Punjabi Gold 
-http://192.168.1.13:5001/live/1190.m3u8
+
 #EXTINF:-1 tvg-id=1191 tvg-name="PTC Simran" tvg-logo="http://192.168.1.13:5001/jtvimage/PTC_Simran.png" tvg-language="Punjabi" tvg-type="Devotional" group-title="Devotional", PTC Simran
 http://192.168.1.13:5001/live/1191.m3u8
 
@@ -798,8 +794,7 @@ http://192.168.1.13:5001/live/2753.m3u8
 
 #EXTINF:-1 tvg-id=2760 tvg-name="My Bharat News" tvg-logo="http://192.168.1.13:5001/jtvimage/My_Bharat_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", My Bharat News
 http://192.168.1.13:5001/live/2760.m3u8
-#EXTINF:-1 tvg-id=2762 tvg-name="NH Studioz" tvg-logo="http://192.168.1.13:5001/jtvimage/NH_Studioz.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", NH Studioz
-http://192.168.1.13:5001/live/2762.m3u8
+
 #EXTINF:-1 tvg-id=2764 tvg-name="News State Bihar Jharkhand" tvg-logo="http://192.168.1.13:5001/jtvimage/NewsState_Bihar_JH.png" tvg-language="Hindi" tvg-type="News" group-title="News", News State Bihar Jharkhand
 http://192.168.1.13:5001/live/2764.m3u8
 #EXTINF:-1 tvg-id=2765 tvg-name="BSTV" tvg-logo="http://192.168.1.13:5001/jtvimage/BSTV.png" tvg-language="Hindi" tvg-type="News" group-title="News", BSTV
