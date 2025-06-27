@@ -462,8 +462,7 @@ http://192.168.1.13:5001/live/1227.m3u8
 #EXTINF:-1 tvg-id=1230 tvg-name="PTC VR" tvg-logo="http://192.168.1.13:5001/jtvimage/VR_360.png" tvg-language="Punjabi" tvg-type="Devotional" group-title="Devotional", PTC VR
 http://192.168.1.13:5001/live/1230.m3u8
 
-#EXTINF:-1 tvg-id=1249 tvg-name="Kadak Hits" tvg-logo="http://192.168.1.13:5001/jtvimage/Kadak_Hits.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Kadak Hits
-http://192.168.1.13:5001/live/1249.m3u8
+
 #EXTINF:-1 tvg-id=1251 tvg-name="TV9 Bharatvarsh" tvg-logo="http://192.168.1.13:5001/jtvimage/TV9_Bharatvarsh.png" tvg-language="Hindi" tvg-type="News" group-title="News", TV9 Bharatvarsh
 http://192.168.1.13:5001/live/1251.m3u8
 #EXTINF:-1 tvg-id=1255 tvg-name="Aastha Gujarati" tvg-logo="http://192.168.1.13:5001/jtvimage/Aastha_Tamil.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="Devotional", Aastha Gujarati
