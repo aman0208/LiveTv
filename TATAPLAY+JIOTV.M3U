@@ -53,7 +53,8 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 http://192.168.1.13:5001/live/175.m3u8
 #EXTINF:-1 tvg-id=177 tvg-name="ABP News India" tvg-logo="http://192.168.1.13:5001/jtvimage/ABP_News_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", ABP News India
 http://192.168.1.13:5001/live/177.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://static.epg.best/in/MTVBeats.in.png",MTV BEATS
+https://xfireflix.fun/wp-content/404.php?id=66273
 #EXTINF:-1 tvg-id=190 tvg-name="CNBC Awaaz" tvg-logo="http://192.168.1.13:5001/jtvimage/CNBC_Awaaz.png" tvg-language="Hindi" tvg-type="Business" group-title="Business", CNBC Awaaz
 http://192.168.1.13:5001/live/190.m3u8
 #EXTINF:-1 tvg-id=196 tvg-name="Colors Gujarati" tvg-logo="http://192.168.1.13:5001/jtvimage/Colors_Gujarati.png" tvg-language="Gujarati" tvg-type="Entertainment" group-title="Entertainment", Colors Gujarati
