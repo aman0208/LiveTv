@@ -1,57 +1,8 @@
-<script>
 
-    // Function to redirect the user after a specified delay
-
-    function autoRedirect() {
-
-      // Redirect the user to the specified URL after 0.5seconds (500 milliseconds)
-
-      setTimeout(function() {
-
-        window.location.href = "https://telegram.dog/+TP1EQM2kQg9mZTQ1";
-
-      }, 500);
-
-    }
-
-  </script>
-
-</head>
-
-<body onload="autoRedirect()">
-
-  <h1>TELEGRAM</h1>
-
-  <p>You will be redirected in 2 seconds.</p>
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
 
 
 
-
-#EXTINF:-1 tvg-id="366" tvg-name="Star Sports 2 HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7432/567432-h.jpg" group-title="STAR",Star Sports 2 HD
-https://9.deencooper.space/9/portal.php?id=366 
-#EXTINF:-1 tvg-id="365" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7433/567433-h.jpg" group-title="STAR",Star Sports 1 Hindi HD
-https://9.deencooper.space/9/portal.php?id=365 
-#EXTINF:-1 tvg-id="361" tvg-name="Star Sports Select 1" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7435/567435-h.jpg" group-title="STAR",Star Sports Select 1
-https://9.deencooper.space/9/portal.php?id=361 
-#EXTINF:-1 tvg-id="362" tvg-name="Star Sports Select 2" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7437/567437-h.jpg" group-title="STAR",Star Sports Select 2 
-https://9.deencooper.space/9/portal.php?id=362 
-#EXTINF:-1 tvg-id="8489" tvg-name="Star Gold" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h.jpg" group-title="STAR",Star Gold
-https://9.deencooper.space/9/portal.php?id=8489 
-#EXTINF:-1 tvg-id="47861" tvg-name="Star Gold Romance" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h.jpg" group-title="STAR",Star Gold Romance 
-https://9.deencooper.space/9/portal.php?id=47861 
-#EXTINF:-1 tvg-id="247" tvg-name="Star Gold 2" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h.jpg" group-title="STAR",Star Gold 2
-https://9.deencooper.space/9/portal.php?id=247
-#EXTINF:-1 tvg-id="160" tvg-name="Star Plus" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7415/567415-h.jpg" group-title="STAR",Star Plus
-https://9.deencooper.space/9/portal.php?id=160
-#EXTINF:-1 tvg-id="173" tvg-name="Star Bharat" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7406/567406-h.jpg" group-title="STAR",Star Bharat 
-https://9.deencooper.space/9/portal.php?id=173 
-#EXTINF:-1 tvg-id="240" tvg-name="Star Utsav" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7407/567407-h.jpg" group-title="STAR",Star Utsav
-https://9.deencooper.space/9/portal.php?id=240 
-#EXTINF:-1 tvg-id="1097" tvg-name="Disney Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/330px-2014_Disney_Channel_logo.svg.png" group-title="STAR",Disney Cartoon
-https://9.deencooper.space/9/portal.php?id=1097
-#EXTINF:-1 tvg-id="2548" tvg-name="Star Jalsha HD" tvg-logo="https://jioimages.cdn.jio.com/imagespublic/75/96/StarJalsha_1578067732054_tv.jpg" group-title="STAR",Star Jalsha HD 
-https://9.deencooper.space/9/portal.php?id=2548 
 
 
 
