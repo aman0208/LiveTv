@@ -1,5 +1,13 @@
 
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
+#EXTINF:-1 tvg-id="Starplus" tvg-name="Star Plus HD" tvg-logo="https://8upload.com/image/67f48f5371182/starplusindiahilay.png" group-title="Entertainment",Star Plus HD
+https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3070
+
+#EXTINF:-1 tvg-id="StarGold" tvg-name="Star Gold HD" tvg-logo="https://hilay.tv/wp-content/uploads/2025/02/stargold-e1740183914147.jpg" group-title="Entertainment",Star Gold HD
+https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3172
+
+#EXTINF:-1 tvg-id="Starbharat" tvg-name="Star Bharat HD" tvg-logo="https://hilay.tv/wp-content/uploads/2025/02/tar_bharat-e1740443868353.jpg" group-title="Entertainment",Star Bharat HD
+https://ranapk-me-awcu.spidy.online/XTM/VOCO/play.php?id=694101
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
