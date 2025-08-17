@@ -528,8 +528,7 @@ http://192.168.1.13:5001/live/1291.m3u8
 #EXTINF:-1 tvg-id=1292 tvg-name="Wellness" tvg-logo="http://192.168.1.13:5001/jtvimage/Wellness_TV.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", Wellness
 http://192.168.1.13:5001/live/1292.m3u8
 
-#EXTINF:-1 tvg-id=1324 tvg-name="Colors Gujarati Cinema" tvg-logo="http://192.168.1.13:5001/jtvimage/Colors_Gujarati_Cinema.png" tvg-language="Gujarati" tvg-type="Movies" group-title="Movies", Colors Gujarati Cinema
-http://192.168.1.13:5001/live/1324.m3u8
+
 #EXTINF:-1 tvg-id=1328 tvg-name="DD Arunprabha" tvg-logo="http://192.168.1.13:5001/jtvimage/DD_Arunprabha.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD Arunprabha
 http://192.168.1.13:5001/live/1328.m3u8
 #EXTINF:-1 tvg-id=1329 tvg-name="DD Gyandarshan" tvg-logo="http://192.168.1.13:5001/jtvimage/DD_Gyandarshan.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD Gyandarshan
@@ -800,8 +799,7 @@ http://192.168.1.13:5001/live/2176.m3u8
 http://192.168.1.13:5001/live/2177.m3u8
 #EXTINF:-1 tvg-id=2183 tvg-name="Q GameX" tvg-logo="http://192.168.1.13:5001/jtvimage/Q_GameX.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Q GameX
 http://192.168.1.13:5001/live/2183.m3u8
-#EXTINF:-1 tvg-id=2189 tvg-name="Aaryaa Cinema" tvg-logo="http://192.168.1.13:5001/jtvimage/Aaryaa_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Aaryaa Cinema
-http://192.168.1.13:5001/live/2189.m3u8
+
 #EXTINF:-1 tvg-id=2192 tvg-name="Gurukul" tvg-logo="http://192.168.1.13:5001/jtvimage/Gurukul_Rajkot.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Gurukul
 http://192.168.1.13:5001/live/2192.m3u8
 #EXTINF:-1 tvg-id=2224 tvg-name="India News Punjab" tvg-logo="http://192.168.1.13:5001/jtvimage/India_News_Punjab.png" tvg-language="Punjabi" tvg-type="News" group-title="News", India News Punjab
@@ -862,8 +860,7 @@ http://192.168.1.13:5001/live/2773.m3u8
 http://192.168.1.13:5001/live/2774.m3u8
 #EXTINF:-1 tvg-id=2777 tvg-name="Asian News" tvg-logo="http://192.168.1.13:5001/jtvimage/Asian_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Asian News
 http://192.168.1.13:5001/live/2777.m3u8
-#EXTINF:-1 tvg-id=2778 tvg-name="Tabbar Hits" tvg-logo="http://192.168.1.13:5001/jtvimage/Tabbar_Hits.png" tvg-language="Punjabi" tvg-type="Movies" group-title="Movies", Tabbar Hits
-http://192.168.1.13:5001/live/2778.m3u8
+
 #EXTINF:-1 tvg-id=2784 tvg-name="ISKCON Bangalore" tvg-logo="http://192.168.1.13:5001/jtvimage/ISKCON_Bangalore.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", ISKCON Bangalore
 http://192.168.1.13:5001/live/2784.m3u8
 #EXTINF:-1 tvg-id=2827 tvg-name="Headline News" tvg-logo="http://192.168.1.13:5001/jtvimage/Headline_News.png" tvg-language="Gujarati" tvg-type="News" group-title="News", Headline News
@@ -955,12 +952,10 @@ http://192.168.1.13:5001/live/3050.m3u8
 http://192.168.1.13:5001/live/3052.m3u8
 #EXTINF:-1 tvg-id=3053 tvg-name="TNP News" tvg-logo="http://192.168.1.13:5001/jtvimage/TNP_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", TNP News
 http://192.168.1.13:5001/live/3053.m3u8
-#EXTINF:-1 tvg-id=3054 tvg-name="RDC Movies" tvg-logo="http://192.168.1.13:5001/jtvimage/rdcmovies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", RDC Movies
-http://192.168.1.13:5001/live/3054.m3u8
+
 #EXTINF:-1 tvg-id=3058 tvg-name="News Capital Gujarat" tvg-logo="http://192.168.1.13:5001/jtvimage/NewsCapital_Gujarat.png" tvg-language="Gujarati" tvg-type="News" group-title="News", News Capital Gujarat
 http://192.168.1.13:5001/live/3058.m3u8
-#EXTINF:-1 tvg-id=3060 tvg-name="Hiff Movies" tvg-logo="http://192.168.1.13:5001/jtvimage/Hiff_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Hiff Movies
-http://192.168.1.13:5001/live/3060.m3u8
+
 #EXTINF:-1 tvg-id=3061 tvg-name="Desi Tashan TV" tvg-logo="http://192.168.1.13:5001/jtvimage/Desi_Tashan_TV.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Desi Tashan TV
 http://192.168.1.13:5001/live/3061.m3u8
 #EXTINF:-1 tvg-id=3062 tvg-name="Haryana Tashan Music" tvg-logo="http://192.168.1.13:5001/jtvimage/HR_Tashan_Music.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Haryana Tashan Music
