@@ -46,25 +46,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="Movies", And Pictures
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d
-#EXTINF:-1 tvg-id="discovery-kids" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RzedYhFG.png" group-title="Kids", Discovery Kids
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
 #EXTINF:-1 tvg-id="discovey" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UyI5ljKM.png" group-title="Education", Discovery
@@ -85,15 +66,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/man
 #EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png" group-title="Education", Discovery Turbo
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
 
-
-
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.1.13:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
 http://192.168.1.13:5001/live/144.m3u8
 #EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment", Sony SAB HD
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 tvg-id="1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment", Sony BBC Earth HD
 https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8 
-
 #EXTINF:-1 tvg-id=173 tvg-name="Aaj Tak" tvg-logo="http://192.168.1.13:5001/jtvimage/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak
 http://192.168.1.13:5001/live/173.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak HD 
@@ -102,8 +80,6 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 http://192.168.1.13:5001/live/175.m3u8
 #EXTINF:-1 tvg-id=177 tvg-name="ABP News India" tvg-logo="http://192.168.1.13:5001/jtvimage/ABP_News_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", ABP News India
 http://192.168.1.13:5001/live/177.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://static.epg.best/in/MTVBeats.in.png",MTV BEATS
-https://xfireflix.fun/wp-content/404.php?id=66273
 #EXTINF:-1 tvg-id=190 tvg-name="CNBC Awaaz" tvg-logo="http://192.168.1.13:5001/jtvimage/CNBC_Awaaz.png" tvg-language="Hindi" tvg-type="Business" group-title="Business", CNBC Awaaz
 http://192.168.1.13:5001/live/190.m3u8
 #EXTINF:-1 tvg-id=196 tvg-name="Colors Gujarati" tvg-logo="http://192.168.1.13:5001/jtvimage/Colors_Gujarati.png" tvg-language="Gujarati" tvg-type="Entertainment" group-title="Entertainment", Colors Gujarati
@@ -132,7 +108,6 @@ http://192.168.1.13:5001/live/288.m3u8
 https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 #EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment", SET HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
-
 #EXTINF:-1 tvg-id=440 tvg-name="9X Jalwa" tvg-logo="http://192.168.1.13:5001/jtvimage/9X_Jalwa.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9X Jalwa
 http://192.168.1.13:5001/live/440.m3u8
 #EXTINF:-1 tvg-id=466 tvg-name="Arihant TV" tvg-logo="http://192.168.1.13:5001/jtvimage/Arihant_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Arihant TV
@@ -141,14 +116,12 @@ http://192.168.1.13:5001/live/466.m3u8
 https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF:-1 tvg-id="1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies", Sony MAX HD
 https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
-
 #EXTINF:-1 tvg-id=481 tvg-name="Epic" tvg-logo="http://192.168.1.13:5001/jtvimage/Epic_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Epic
 http://192.168.1.13:5001/live/481.m3u8
 #EXTINF:-1 tvg-id=482 tvg-name="Colors Cineplex" tvg-logo="http://192.168.1.13:5001/jtvimage/Colors_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex
 http://192.168.1.13:5001/live/482.m3u8
 #EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies", Sony MAX2
 https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-
 #EXTINF:-1 tvg-id=485 tvg-name="Enterr 10" tvg-logo="http://192.168.1.13:5001/jtvimage/Enterr_10.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Enterr 10
 http://192.168.1.13:5001/live/485.m3u8
 #EXTINF:-1 tvg-id=490 tvg-name="CNBC Bazaar (MNO)" tvg-logo="http://192.168.1.13:5001/jtvimage/CNBC_Bazaar_MNO.png" tvg-language="Gujarati" tvg-type="Business" group-title="Business", CNBC Bazaar (MNO)
