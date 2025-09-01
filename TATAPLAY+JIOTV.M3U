@@ -1,6 +1,11 @@
 
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
 
+#EXTINF:-1 tvg-id="23" tvg-chno="66" tvg-name="mastiii" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xbhpwb.png" group-title="Music", Mastiii
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8?hdnts=st%3D1756741634~exp%3D1756763234~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fsablive_https%2Fmastii%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.173.108.18_yuppfast_2_channel_23_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.173.108.18_yuppfast_2_channel_23_-1~hmac%3D2fa9fc6e69941b558b210df31322914334e9aa6850d1c62214087eacaaaf934a
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
