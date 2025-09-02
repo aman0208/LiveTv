@@ -64,6 +64,16 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/man
 #EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png" group-title="Infotainment", Discovery Turbo
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
 
+
+
+#EXTINF:-1 tvg-id="StarGold.mv" tvg-name="Star Gold HD" tvg-logo="https://hilay.tv/wp-content/uploads/2025/02/stargold-e1740183914147.jpg" group-title="Hindi",Star Gold HD
+https://maldivesn.net/hilaytv/stargold
+#EXTINF:-1 tvg-id="STAR.GOLD.2.HD.in" tvg-name="" tvg-logo="https://i.imgur.com/iuis5hs.png" group-title="Movies",Star Gold 2 HD
+https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3174
+#EXTINF:-1 tvg-id="zeebollywood.mv" tvg-name="Bollywood HD" tvg-logo="https://8upload.com/image/68218a90b40c5/bollywoodhdhilay.png" group-title="Hindi",Bollywood HD
+https://maldivesn.net/hilaytv/bollywoodhd
+#EXTINF:-1 tvg-id="B4U.Movies.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/b4u-movies-in.png" group-title="Hindi",B4U MOVIES
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/1080p/index.m3u8
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.1.13:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
 http://192.168.1.13:5001/live/144.m3u8
 #EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment", Sony SAB HD
