@@ -78,7 +78,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/disneyjunior/master.m3u8
 
 #EXTINF:-1 tvg-id="starplushd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starplushd.png" group-title="Entertainment",Star Plus HD
-https://live.dinesh29.com.np/stream/jiotvplus
+https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
+
 #EXTINF:-1 tvg-id="starmoviesselect" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starmoviesselect.png" group-title="Movies",Star Movies Select
 https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselect/master.m3u8
 #EXTINF:-1 tvg-id="stargold2hd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold2hd.png" group-title="Movies",Star Gold 2 HD
