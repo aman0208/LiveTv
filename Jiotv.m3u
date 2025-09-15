@@ -123,6 +123,8 @@ http://192.168.1.13:5001/live/258.m3u8
 http://192.168.1.13:5001/live/279.m3u8
 #EXTINF:-1 tvg-id=288 tvg-name="Sanskar" tvg-logo="http://192.168.1.13:5001/jtvimage/Sanskar.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanskar
 http://192.168.1.13:5001/live/288.m3u8
+#EXTINF:-1 tvg-id="asiacuphindi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/asiacuphindi.png" group-title="Sports",Asia Cup Hindi
+https://live.dinesh29.com.np/stream/jiotvplus/asiacuphindi/master.m3u8
 
 #EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment", SET HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
@@ -239,8 +241,8 @@ http://192.168.1.13:5001/live/578.m3u8
 http://192.168.1.13:5001/live/580.m3u8
 #EXTINF:-1 tvg-id=583 tvg-name="DD Kisan" tvg-logo="http://192.168.1.13:5001/jtvimage/DD_Kisan.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", DD Kisan
 http://192.168.1.13:5001/live/583.m3u8
-#EXTINF:-1 tvg-id=587 tvg-name="9XM" tvg-logo="http://192.168.1.13:5001/jtvimage/9XM.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9XM
-http://192.168.1.13:5001/live/587.m3u8
+#EXTINF:-1 tvg-id="9xm" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/9xm.png" group-title="Music",9XM
+https://live.dinesh29.com.np/stream/jiotvplus/9xm/master.m3u8
 #EXTINF:-1 tvg-id=591 tvg-name="E 24" tvg-logo="http://192.168.1.13:5001/jtvimage/E_24.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", E 24
 http://192.168.1.13:5001/live/591.m3u8
 #EXTINF:-1 tvg-id=592 tvg-name="ZOOM" tvg-logo="http://192.168.1.13:5001/jtvimage/Zoom.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", ZOOM
