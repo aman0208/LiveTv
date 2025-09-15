@@ -241,8 +241,6 @@ http://192.168.1.13:5001/live/578.m3u8
 http://192.168.1.13:5001/live/580.m3u8
 #EXTINF:-1 tvg-id=583 tvg-name="DD Kisan" tvg-logo="http://192.168.1.13:5001/jtvimage/DD_Kisan.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", DD Kisan
 http://192.168.1.13:5001/live/583.m3u8
-#EXTINF:-1 tvg-id="9xm" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/9xm.png" group-title="Music",9XM
-https://live.dinesh29.com.np/stream/jiotvplus/9xm/master.m3u8
 #EXTINF:-1 tvg-id=591 tvg-name="E 24" tvg-logo="http://192.168.1.13:5001/jtvimage/E_24.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", E 24
 http://192.168.1.13:5001/live/591.m3u8
 #EXTINF:-1 tvg-id=592 tvg-name="ZOOM" tvg-logo="http://192.168.1.13:5001/jtvimage/Zoom.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", ZOOM
