@@ -182,6 +182,13 @@ http://192.168.1.13:5001/live/516.m3u8
 http://192.168.1.13:5001/live/517.m3u8
 #EXTINF:-1 tvg-id=518 tvg-name="Sudarshan" tvg-logo="http://192.168.1.13:5001/jtvimage/Sudarshan.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sudarshan
 http://192.168.1.13:5001/live/518.m3u8
+#EXTINF:-1 tvg-id="182" tvg-name="B4U Movies" tvg-logo="http://192.168.1.13:5001/jtvimage/b4u_movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Movies
+http://192.168.1.13:5001/live/182.m3u8
+#EXTINF:-1 tvg-id="584" tvg-name="Mastiii" tvg-logo="http://192.168.1.13:5001/jtvimage/Mastiii.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Mastiii
+http://192.168.1.13:5001/live/584.m3u8
+#EXTINF:-1 tvg-id="587" tvg-name="9XM" tvg-logo="http://192.168.1.13:5001/jtvimage/9xm.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9XM
+http://192.168.1.13:5001/live/587.m3u8
+
 #EXTINF:-1 tvg-id=519 tvg-name="Sadhna News Plus" tvg-logo="http://192.168.1.13:5001/jtvimage/Sadhna_News_Plus.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sadhna News Plus
 http://192.168.1.13:5001/live/519.m3u8
 #EXTINF:-1 tvg-id=520 tvg-name="Sansad TV HD" tvg-logo="http://192.168.1.13:5001/jtvimage/DD_Rajyasabha.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sansad TV HD
@@ -190,7 +197,8 @@ http://192.168.1.13:5001/live/520.m3u8
 http://192.168.1.13:5001/live/522.m3u8
 #EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports", Sony TEN 3 HD
 https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-
+#EXTINF:-1 tvg-id="183" tvg-name="B4U Music" tvg-logo="http://192.168.1.13:5001/jtvimage/B4U_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", B4U Music
+http://192.168.1.13:5001/live/183.m3u8
 #EXTINF:-1 tvg-id=527 tvg-name="Investigation Discovery" tvg-logo="http://192.168.1.13:5001/jtvimage/ID.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery
 http://192.168.1.13:5001/live/527.m3u8
 #EXTINF:-1 tvg-id=528 tvg-name="DD India" tvg-logo="http://192.168.1.13:5001/jtvimage/DD_India.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD India
