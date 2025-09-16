@@ -124,7 +124,7 @@ http://192.168.1.13:5001/live/279.m3u8
 #EXTINF:-1 tvg-id=288 tvg-name="Sanskar" tvg-logo="http://192.168.1.13:5001/jtvimage/Sanskar.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanskar
 http://192.168.1.13:5001/live/288.m3u8
 #EXTINF:-1 tvg-id="asiacuphindi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/asiacuphindi.png" group-title="Sports",Asia Cup Hindi
-https://live.dinesh29.com.np/stream/jiotvplus/asiacuphindi/master.m3u8
+https://dai.google.com/ssai/event/1jne4j1lSJeB2tX-a-2TEA/master.m3u8
 
 #EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment", SET HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
