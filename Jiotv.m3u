@@ -118,7 +118,7 @@ http://192.168.1.13:5001/live/279.m3u8
 #EXTINF:-1 tvg-id=288 tvg-name="Sanskar" tvg-logo="http://192.168.1.13:5001/jtvimage/Sanskar.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanskar
 http://192.168.1.13:5001/live/288.m3u8
 #EXTINF:-1 tvg-id="asiacuphindi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/asiacuphindi.png" group-title="Sports",Asia Cup Hindi
-https://in-mc-fdlive.fancode.com/mumbai/136741_hindi_hls_cca980f0b755405ta-di_h264/1080p5.m3u8
+https://m3u8player.org/player.html?url=https://in-mc-fdlive.fancode.com/mumbai/136742_hindi_hls_03dea3461951169adfreeta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment", SET HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
 #EXTINF:-1 tvg-id=440 tvg-name="9X Jalwa" tvg-logo="http://192.168.1.13:5001/jtvimage/9X_Jalwa.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9X Jalwa
