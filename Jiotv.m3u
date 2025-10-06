@@ -86,9 +86,9 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.1.13:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
 http://192.168.1.13:5001/live/144.m3u8
 #EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment", Sony SAB HD
-https://sonyliv.tgaadi.workers.dev/sonysabhd.m3u8
+https://sliv.tgaadi.workers.dev/sonysabhd.m3u8
 #EXTINF:-1 tvg-id="1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment", Sony BBC Earth HD
-https://sonyliv.tgaadi.workers.dev/sonybbcearthhd.m3u8
+https://sliv.tgaadi.workers.dev/sonybbcearthhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak HD 
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
@@ -120,21 +120,21 @@ http://192.168.1.13:5001/live/288.m3u8
 #EXTINF:-1 tvg-id="asiacuphindi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/asiacuphindi.png" group-title="Sports",Asia Cup Hindi
 https://d1zq5no55rw5ua.cloudfront.net/136742_hindi_hls_03dea3461951169ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment", SET HD
-https://sonyliv.tgaadi.workers.dev/sethd.m3u8
+https://sliv.tgaadi.workers.dev/sethd.m3u8
 #EXTINF:-1 tvg-id=440 tvg-name="9X Jalwa" tvg-logo="http://192.168.1.13:5001/jtvimage/9X_Jalwa.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9X Jalwa
 http://192.168.1.13:5001/live/440.m3u8
 #EXTINF:-1 tvg-id=466 tvg-name="Arihant TV" tvg-logo="http://192.168.1.13:5001/jtvimage/Arihant_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Arihant TV
 http://192.168.1.13:5001/live/466.m3u8
 #EXTINF:-1 tvg-id="1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment", Sony PAL
-https://sonyliv.tgaadi.workers.dev/sonypal.m3u8
+https://sliv.tgaadi.workers.dev/sonypal.m3u8
 #EXTINF:-1 tvg-id="1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies", Sony MAX HD
-https://sonyliv.tgaadi.workers.dev/sonymaxhd.m3u8
+https://sliv.tgaadi.workers.dev/sonymaxhd.m3u8
 #EXTINF:-1 tvg-id=481 tvg-name="Epic" tvg-logo="http://192.168.1.13:5001/jtvimage/Epic_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Epic
 http://192.168.1.13:5001/live/481.m3u8
 #EXTINF:-1 tvg-id=482 tvg-name="Colors Cineplex" tvg-logo="http://192.168.1.13:5001/jtvimage/Colors_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex
 http://192.168.1.13:5001/live/482.m3u8
 #EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies", Sony MAX2
-https://sonyliv.tgaadi.workers.dev/sonymax2.m3u8
+https://sliv.tgaadi.workers.dev/sonymax2.m3u8
 #EXTINF:-1 tvg-id=485 tvg-name="Enterr 10" tvg-logo="http://192.168.1.13:5001/jtvimage/Enterr_10.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Enterr 10
 http://192.168.1.13:5001/live/485.m3u8
 #EXTINF:-1 tvg-id=490 tvg-name="CNBC Bazaar (MNO)" tvg-logo="http://192.168.1.13:5001/jtvimage/CNBC_Bazaar_MNO.png" tvg-language="Gujarati" tvg-type="Business" group-title="Business", CNBC Bazaar (MNO)
@@ -187,7 +187,7 @@ http://192.168.1.13:5001/live/520.m3u8
 http://192.168.1.13:5001/live/522.m3u8
 
 #EXTINF:-1 tvg-id="sonysportsten3hd" tvg-name="Sony TEN 3 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png" group-title="Sports", Sony TEN 3 HD
-https://sonyliv.tgaadi.workers.dev/sonysportsten3hd.m3u8
+https://sliv.tgaadi.workers.dev/sonysportsten3hd.m3u8
 
 #EXTINF:-1 tvg-id="183" tvg-name="B4U Music" tvg-logo="http://192.168.1.13:5001/jtvimage/B4U_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", B4U Music
 http://192.168.1.13:5001/live/183.m3u8
@@ -347,7 +347,7 @@ http://192.168.1.13:5001/live/856.m3u8
 #EXTINF:-1 tvg-id=871 tvg-name="Jio Events HD" tvg-logo="http://192.168.1.13:5001/jtvimage/Jio_Events.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Jio Events HD
 http://192.168.1.13:5001/live/871.m3u8
 #EXTINF:-1 tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids", Sony YAY
-https://sonyliv.tgaadi.workers.dev/sonyyay.m3u8
+https://sliv.tgaadi.workers.dev/sonyyay.m3u8
 #EXTINF:-1 tvg-id=879 tvg-name="Hare krsna" tvg-logo="http://192.168.1.13:5001/jtvimage/Harekrsna.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Hare krsna
 http://192.168.1.13:5001/live/879.m3u8
 #EXTINF:-1 tvg-id=880 tvg-name="Janta TV" tvg-logo="http://192.168.1.13:5001/jtvimage/Janta_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Janta TV
