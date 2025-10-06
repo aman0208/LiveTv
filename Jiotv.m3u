@@ -187,7 +187,7 @@ http://192.168.1.13:5001/live/520.m3u8
 http://192.168.1.13:5001/live/522.m3u8
 
 #EXTINF:-1 tvg-id="sonysportsten3hd" tvg-name="Sony TEN 3 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png" group-title="Sports", Sony TEN 3 HD
-https://sliv.tgaadi.workers.dev/sonysportsten3hd.m3u8
+https://sliv.tgaadi.workers.dev/ten3hd.m3u8
 
 #EXTINF:-1 tvg-id="183" tvg-name="B4U Music" tvg-logo="http://192.168.1.13:5001/jtvimage/B4U_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", B4U Music
 http://192.168.1.13:5001/live/183.m3u8
