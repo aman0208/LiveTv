@@ -1,0 +1,2143 @@
+#EXTM3U x-tvg-url="http://192.168.0.222:5001/epg.xml.gz"
+#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-logo="http://192.168.0.222:5001/jtvimage/ColorsHD1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/144
+http://192.168.0.222:5001/live/mpd/144
+#EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_SAB.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/154
+http://192.168.0.222:5001/live/mpd/154
+#EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="http://192.168.0.222:5001/jtvimage/StarGoldHD11.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/156
+http://192.168.0.222:5001/live/mpd/156
+#EXTINF:-1 tvg-id="173" tvg-name="Aaj Tak" tvg-logo="http://192.168.0.222:5001/jtvimage/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/173
+http://192.168.0.222:5001/live/mpd/173
+#EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-logo="http://192.168.0.222:5001/jtvimage/Aastha.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Aastha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/175
+http://192.168.0.222:5001/live/mpd/175
+#EXTINF:-1 tvg-id="177" tvg-name="ABP News India" tvg-logo="http://192.168.0.222:5001/jtvimage/ABP_News_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", ABP News India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/177
+http://192.168.0.222:5001/live/mpd/177
+#EXTINF:-1 tvg-id="182" tvg-name="B4U Movies" tvg-logo="http://192.168.0.222:5001/jtvimage/b4u_movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Movies
+http://192.168.0.222:5001/live/182.m3u8
+#EXTINF:-1 tvg-id="183" tvg-name="B4U Music" tvg-logo="http://192.168.0.222:5001/jtvimage/B4U_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", B4U Music
+http://192.168.0.222:5001/live/183.m3u8
+#EXTINF:-1 tvg-id="190" tvg-name="CNBC Awaaz" tvg-logo="http://192.168.0.222:5001/jtvimage/CNBCAwaaz.png" tvg-language="Hindi" tvg-type="Business" group-title="Business", CNBC Awaaz
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/190
+http://192.168.0.222:5001/live/mpd/190
+#EXTINF:-1 tvg-id="202" tvg-name="DD National" tvg-logo="http://192.168.0.222:5001/jtvimage/DD_National.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD National
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/202
+http://192.168.0.222:5001/live/mpd/202
+#EXTINF:-1 tvg-id="203" tvg-name="DD News" tvg-logo="http://192.168.0.222:5001/jtvimage/DD_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", DD News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/203
+http://192.168.0.222:5001/live/mpd/203
+#EXTINF:-1 tvg-id="204" tvg-name="DD Sports" tvg-logo="http://192.168.0.222:5001/jtvimage/DD_Sports.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", DD Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/204
+http://192.168.0.222:5001/live/mpd/204
+#EXTINF:-1 tvg-id="231" tvg-name="News 18 India" tvg-logo="http://192.168.0.222:5001/jtvimage/IBN_7.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 18 India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/231
+http://192.168.0.222:5001/live/mpd/231
+#EXTINF:-1 tvg-id="235" tvg-name="India TV" tvg-logo="http://192.168.0.222:5001/jtvimage/IndiaTV1.png" tvg-language="Hindi" tvg-type="News" group-title="News", India TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/235
+http://192.168.0.222:5001/live/mpd/235
+#EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-logo="http://192.168.0.222:5001/jtvimage/MTV.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/248
+http://192.168.0.222:5001/live/mpd/248
+#EXTINF:-1 tvg-id="250" tvg-name="Music India" tvg-logo="http://192.168.0.222:5001/jtvimage/Music_India.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Music India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/250
+http://192.168.0.222:5001/live/mpd/250
+#EXTINF:-1 tvg-id="258" tvg-name="NDTV India" tvg-logo="http://192.168.0.222:5001/jtvimage/NDTVIndia1.png" tvg-language="Hindi" tvg-type="News" group-title="News", NDTV India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/258
+http://192.168.0.222:5001/live/mpd/258
+#EXTINF:-1 tvg-id="279" tvg-name="Colors Rishtey" tvg-logo="http://192.168.0.222:5001/jtvimage/ColorsRishtey1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors Rishtey
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/279
+http://192.168.0.222:5001/live/mpd/279
+#EXTINF:-1 tvg-id="288" tvg-name="Sanskar" tvg-logo="http://192.168.0.222:5001/jtvimage/Sanskar.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanskar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/288
+http://192.168.0.222:5001/live/mpd/288
+#EXTINF:-1 tvg-id="289" tvg-name="Sony Max SD" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_Max_SD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max SD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/289
+http://192.168.0.222:5001/live/mpd/289
+#EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/291
+http://192.168.0.222:5001/live/mpd/291
+#EXTINF:-1 tvg-id="440" tvg-name="9X Jalwa" tvg-logo="http://192.168.0.222:5001/jtvimage/9XJalwa1.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9X Jalwa
+http://192.168.0.222:5001/live/440.m3u8
+#EXTINF:-1 tvg-id="466" tvg-name="Dharma Sandesh" tvg-logo="http://192.168.0.222:5001/jtvimage/Arihant_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Dharma Sandesh
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/466
+http://192.168.0.222:5001/live/mpd/466
+#EXTINF:-1 tvg-id="471" tvg-name="Sony SAB HD" tvg-logo="http://192.168.0.222:5001/jtvimage/SonySAB.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/471
+http://192.168.0.222:5001/live/mpd/471
+#EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="http://192.168.0.222:5001/jtvimage/SonyPAL.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Pal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/474
+http://192.168.0.222:5001/live/mpd/474
+#EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="http://192.168.0.222:5001/jtvimage/SonyMAX.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/476
+http://192.168.0.222:5001/live/mpd/476
+#EXTINF:-1 tvg-id="482" tvg-name="Colors Cineplex" tvg-logo="http://192.168.0.222:5001/jtvimage/ColorsCineplex1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/482
+http://192.168.0.222:5001/live/mpd/482
+#EXTINF:-1 tvg-id="483" tvg-name="Sony MAX2" tvg-logo="http://192.168.0.222:5001/jtvimage/SonyMAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony MAX2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/483
+http://192.168.0.222:5001/live/mpd/483
+#EXTINF:-1 tvg-id="498" tvg-name="India news" tvg-logo="http://192.168.0.222:5001/jtvimage/India_news.png" tvg-language="Hindi" tvg-type="News" group-title="News", India news
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/498
+http://192.168.0.222:5001/live/mpd/498
+#EXTINF:-1 tvg-id="499" tvg-name="News Nation" tvg-logo="http://192.168.0.222:5001/jtvimage/News_Nation.png" tvg-language="Hindi" tvg-type="News" group-title="News", News Nation
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/499
+http://192.168.0.222:5001/live/mpd/499
+#EXTINF:-1 tvg-id="501" tvg-name="News 24" tvg-logo="http://192.168.0.222:5001/jtvimage/News_24.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/501
+http://192.168.0.222:5001/live/mpd/501
+#EXTINF:-1 tvg-id="502" tvg-name="Good News Today" tvg-logo="http://192.168.0.222:5001/jtvimage/Tez.png" tvg-language="Hindi" tvg-type="News" group-title="News", Good News Today
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/502
+http://192.168.0.222:5001/live/mpd/502
+#EXTINF:-1 tvg-id="503" tvg-name="IBC24" tvg-logo="http://192.168.0.222:5001/jtvimage/IBC-24.png" tvg-language="Hindi" tvg-type="News" group-title="News", IBC24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/503
+http://192.168.0.222:5001/live/mpd/503
+#EXTINF:-1 tvg-id="504" tvg-name="Zee News" tvg-logo="http://192.168.0.222:5001/jtvimage/ZeeNews1.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/504
+http://192.168.0.222:5001/live/mpd/504
+#EXTINF:-1 tvg-id="510" tvg-name="VIP News" tvg-logo="http://192.168.0.222:5001/jtvimage/VIP_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", VIP News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/510
+http://192.168.0.222:5001/live/mpd/510
+#EXTINF:-1 tvg-id="511" tvg-name="Mh One News" tvg-logo="http://192.168.0.222:5001/jtvimage/Mh_One_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Mh One News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/511
+http://192.168.0.222:5001/live/mpd/511
+#EXTINF:-1 tvg-id="512" tvg-name="India News UP" tvg-logo="http://192.168.0.222:5001/jtvimage/India_News_UP.png" tvg-language="Hindi" tvg-type="News" group-title="News", India News UP
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/512
+http://192.168.0.222:5001/live/mpd/512
+#EXTINF:-1 tvg-id="513" tvg-name="India News Rajasthan" tvg-logo="http://192.168.0.222:5001/jtvimage/India_News_Rajasthan.png" tvg-language="Hindi" tvg-type="News" group-title="News", India News Rajasthan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/513
+http://192.168.0.222:5001/live/mpd/513
+#EXTINF:-1 tvg-id="515" tvg-name="India News MP" tvg-logo="http://192.168.0.222:5001/jtvimage/India_News_MP.png" tvg-language="Hindi" tvg-type="News" group-title="News", India News MP
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/515
+http://192.168.0.222:5001/live/mpd/515
+#EXTINF:-1 tvg-id="516" tvg-name="India News Haryana" tvg-logo="http://192.168.0.222:5001/jtvimage/India_News_Haryana.png" tvg-language="Hindi" tvg-type="News" group-title="News", India News Haryana
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/516
+http://192.168.0.222:5001/live/mpd/516
+#EXTINF:-1 tvg-id="518" tvg-name="Sudarshan" tvg-logo="http://192.168.0.222:5001/jtvimage/Sudarshan.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sudarshan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/518
+http://192.168.0.222:5001/live/mpd/518
+#EXTINF:-1 tvg-id="519" tvg-name="Sadhna News Plus" tvg-logo="http://192.168.0.222:5001/jtvimage/Sadhna_News_Plus.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sadhna News Plus
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/519
+http://192.168.0.222:5001/live/mpd/519
+#EXTINF:-1 tvg-id="520" tvg-name="Sansad TV HD" tvg-logo="http://192.168.0.222:5001/jtvimage/DD_Rajyasabha.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sansad TV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/520
+http://192.168.0.222:5001/live/mpd/520
+#EXTINF:-1 tvg-id="522" tvg-name="Sansad TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Loksabha_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sansad TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/522
+http://192.168.0.222:5001/live/mpd/522
+#EXTINF:-1 tvg-id="524" tvg-name="Sony Ten 3 Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/Ten_3.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Ten 3 Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/524
+http://192.168.0.222:5001/live/mpd/524
+#EXTINF:-1 tvg-id="527" tvg-name="Investigation Discovery Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/IDHindi1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/527
+http://192.168.0.222:5001/live/mpd/527
+#EXTINF:-1 tvg-id="528" tvg-name="DD India" tvg-logo="http://192.168.0.222:5001/jtvimage/DD_India.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/528
+http://192.168.0.222:5001/live/mpd/528
+#EXTINF:-1 tvg-id="529" tvg-name="News18 MP Chhattisgarh" tvg-logo="http://192.168.0.222:5001/jtvimage/News18MPCG.png" tvg-language="Hindi" tvg-type="News" group-title="News", News18 MP Chhattisgarh
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/529
+http://192.168.0.222:5001/live/mpd/529
+#EXTINF:-1 tvg-id="530" tvg-name="News18 UP Uttarakhand" tvg-logo="http://192.168.0.222:5001/jtvimage/News18UPUttarakhand.png" tvg-language="Hindi" tvg-type="News" group-title="News", News18 UP Uttarakhand
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/530
+http://192.168.0.222:5001/live/mpd/530
+#EXTINF:-1 tvg-id="531" tvg-name="News18 Rajasthan" tvg-logo="http://192.168.0.222:5001/jtvimage/News18Rajasthan.png" tvg-language="Hindi" tvg-type="News" group-title="News", News18 Rajasthan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/531
+http://192.168.0.222:5001/live/mpd/531
+#EXTINF:-1 tvg-id="536" tvg-name="DD Madhya Pradesh" tvg-logo="http://192.168.0.222:5001/jtvimage/DD_Madhya_Pradesh.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD Madhya Pradesh
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/536
+http://192.168.0.222:5001/live/mpd/536
+#EXTINF:-1 tvg-id="538" tvg-name="DD Rajasthan (Jaipur)" tvg-logo="http://192.168.0.222:5001/jtvimage/DD_Rajasthan_Jaipur.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD Rajasthan (Jaipur)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/538
+http://192.168.0.222:5001/live/mpd/538
+#EXTINF:-1 tvg-id="539" tvg-name="DD Bihar" tvg-logo="http://192.168.0.222:5001/jtvimage/DD_Bihar.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD Bihar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/539
+http://192.168.0.222:5001/live/mpd/539
+#EXTINF:-1 tvg-id="540" tvg-name="DD Uttar Pradesh" tvg-logo="http://192.168.0.222:5001/jtvimage/DD_Uttar_Pradesh.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD Uttar Pradesh
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/540
+http://192.168.0.222:5001/live/mpd/540
+#EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/Nick_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Nick Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/545
+http://192.168.0.222:5001/live/mpd/545
+#EXTINF:-1 tvg-id="548" tvg-name="Nickelodeon Jr." tvg-logo="http://192.168.0.222:5001/jtvimage/Nickelodeon_Jr.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Nickelodeon Jr.
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/548
+http://192.168.0.222:5001/live/mpd/548
+#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/DiscoveryKidsHin1.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Discovery Kids Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/554
+http://192.168.0.222:5001/live/mpd/554
+#EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/Pogo_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Pogo Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/559
+http://192.168.0.222:5001/live/mpd/559
+#EXTINF:-1 tvg-id="561" tvg-name="Food Food" tvg-logo="http://192.168.0.222:5001/jtvimage/Food_Food.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", Food Food
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/561
+http://192.168.0.222:5001/live/mpd/561
+#EXTINF:-1 tvg-id="562" tvg-name="Travelxp HD Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/Travel_XP.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", Travelxp HD Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/562
+http://192.168.0.222:5001/live/mpd/562
+#EXTINF:-1 tvg-id="566" tvg-name="Animal Planet Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/AnimalPlanetHin1.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Animal Planet Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/566
+http://192.168.0.222:5001/live/mpd/566
+#EXTINF:-1 tvg-id="571" tvg-name="TLC Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/TLCHindi.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", TLC Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/571
+http://192.168.0.222:5001/live/mpd/571
+#EXTINF:-1 tvg-id="572" tvg-name="Zee UP UK" tvg-logo="http://192.168.0.222:5001/jtvimage/Living_Foodz.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee UP UK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/572
+http://192.168.0.222:5001/live/mpd/572
+#EXTINF:-1 tvg-id="575" tvg-name="Discovery Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/DiscoveryHin1.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Discovery Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/575
+http://192.168.0.222:5001/live/mpd/575
+#EXTINF:-1 tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/History_18_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/578
+http://192.168.0.222:5001/live/mpd/578
+#EXTINF:-1 tvg-id="580" tvg-name="DD bharati" tvg-logo="http://192.168.0.222:5001/jtvimage/DD_bharati.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", DD bharati
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/580
+http://192.168.0.222:5001/live/mpd/580
+#EXTINF:-1 tvg-id="583" tvg-name="DD Kisan" tvg-logo="http://192.168.0.222:5001/jtvimage/DD_Kisan.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", DD Kisan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/583
+http://192.168.0.222:5001/live/mpd/583
+#EXTINF:-1 tvg-id="587" tvg-name="9XM" tvg-logo="http://192.168.0.222:5001/jtvimage/9XM1.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9XM
+http://192.168.0.222:5001/live/587.m3u8
+#EXTINF:-1 tvg-id="591" tvg-name="E 24" tvg-logo="http://192.168.0.222:5001/jtvimage/E_24.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", E 24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/591
+http://192.168.0.222:5001/live/mpd/591
+#EXTINF:-1 tvg-id="592" tvg-name="ZOOM" tvg-logo="http://192.168.0.222:5001/jtvimage/Zoom.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", ZOOM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/592
+http://192.168.0.222:5001/live/mpd/592
+#EXTINF:-1 tvg-id="593" tvg-name="Sadhna" tvg-logo="http://192.168.0.222:5001/jtvimage/Sadhna.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sadhna
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/593
+http://192.168.0.222:5001/live/mpd/593
+#EXTINF:-1 tvg-id="594" tvg-name="Aastha Bhajan" tvg-logo="http://192.168.0.222:5001/jtvimage/Aastha_Bhajan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Aastha Bhajan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/594
+http://192.168.0.222:5001/live/mpd/594
+#EXTINF:-1 tvg-id="596" tvg-name="Jinvani TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Jinvani_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Jinvani TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/596
+http://192.168.0.222:5001/live/mpd/596
+#EXTINF:-1 tvg-id="597" tvg-name="Satsang TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Satsang_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Satsang TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/597
+http://192.168.0.222:5001/live/mpd/597
+#EXTINF:-1 tvg-id="599" tvg-name="Disha tv" tvg-logo="http://192.168.0.222:5001/jtvimage/Disha_tv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Disha tv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/599
+http://192.168.0.222:5001/live/mpd/599
+#EXTINF:-1 tvg-id="601" tvg-name="Ishwar TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Ishwar_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Ishwar TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/601
+http://192.168.0.222:5001/live/mpd/601
+#EXTINF:-1 tvg-id="602" tvg-name="Paras tv" tvg-logo="http://192.168.0.222:5001/jtvimage/Paras_tv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Paras tv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/602
+http://192.168.0.222:5001/live/mpd/602
+#EXTINF:-1 tvg-id="608" tvg-name="Shubhsandesh TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Shubhsandesh_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Shubhsandesh TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/608
+http://192.168.0.222:5001/live/mpd/608
+#EXTINF:-1 tvg-id="611" tvg-name="Darshan 24" tvg-logo="http://192.168.0.222:5001/jtvimage/Darshan_24.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Darshan 24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/611
+http://192.168.0.222:5001/live/mpd/611
+#EXTINF:-1 tvg-id="652" tvg-name="Zee Bharat" tvg-logo="http://192.168.0.222:5001/jtvimage/ZeeBharat1.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee Bharat
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/652
+http://192.168.0.222:5001/live/mpd/652
+#EXTINF:-1 tvg-id="655" tvg-name="News18 Punjab Haryana Himachal" tvg-logo="http://192.168.0.222:5001/jtvimage/News18PunjabHaryana.png" tvg-language="Hindi" tvg-type="News" group-title="News", News18 Punjab Haryana Himachal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/655
+http://192.168.0.222:5001/live/mpd/655
+#EXTINF:-1 tvg-id="657" tvg-name="Zee Business" tvg-logo="http://192.168.0.222:5001/jtvimage/Zee_Business.png" tvg-language="Hindi" tvg-type="Business" group-title="Business", Zee Business
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/657
+http://192.168.0.222:5001/live/mpd/657
+#EXTINF:-1 tvg-id="658" tvg-name="Zee MP Chattisgarh" tvg-logo="http://192.168.0.222:5001/jtvimage/ZeeNewsMPCH1.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee MP Chattisgarh
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/658
+http://192.168.0.222:5001/live/mpd/658
+#EXTINF:-1 tvg-id="659" tvg-name="Zee Rajasthan" tvg-logo="http://192.168.0.222:5001/jtvimage/ZeeRajasthan1.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee Rajasthan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/659
+http://192.168.0.222:5001/live/mpd/659
+#EXTINF:-1 tvg-id="724" tvg-name="Zee Delhi NCR Haryana" tvg-logo="http://192.168.0.222:5001/jtvimage/ZeeDelhiNCRHR1.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee Delhi NCR Haryana
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/724
+http://192.168.0.222:5001/live/mpd/724
+#EXTINF:-1 tvg-id="768" tvg-name="Jan TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Jan_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Jan TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/768
+http://192.168.0.222:5001/live/mpd/768
+#EXTINF:-1 tvg-id="770" tvg-name="Kashish News" tvg-logo="http://192.168.0.222:5001/jtvimage/Kashish_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Kashish News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/770
+http://192.168.0.222:5001/live/mpd/770
+#EXTINF:-1 tvg-id="771" tvg-name="Live Today" tvg-logo="http://192.168.0.222:5001/jtvimage/Live_Today.png" tvg-language="Hindi" tvg-type="News" group-title="News", Live Today
+http://192.168.0.222:5001/live/771.m3u8
+#EXTINF:-1 tvg-id="783" tvg-name="K News India" tvg-logo="http://192.168.0.222:5001/jtvimage/K_News_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", K News India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/783
+http://192.168.0.222:5001/live/mpd/783
+#EXTINF:-1 tvg-id="788" tvg-name="India Voice" tvg-logo="http://192.168.0.222:5001/jtvimage/India_Voice.png" tvg-language="Hindi" tvg-type="News" group-title="News", India Voice
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/788
+http://192.168.0.222:5001/live/mpd/788
+#EXTINF:-1 tvg-id="789" tvg-name="JK 24x7 News" tvg-logo="http://192.168.0.222:5001/jtvimage/JK_24x7_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", JK 24x7 News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/789
+http://192.168.0.222:5001/live/mpd/789
+#EXTINF:-1 tvg-id="791" tvg-name="Taaza TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Taaza_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Taaza TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/791
+http://192.168.0.222:5001/live/mpd/791
+#EXTINF:-1 tvg-id="792" tvg-name="News State UK UP" tvg-logo="http://192.168.0.222:5001/jtvimage/News_State_UK_UP.png" tvg-language="Hindi" tvg-type="News" group-title="News", News State UK UP
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/792
+http://192.168.0.222:5001/live/mpd/792
+#EXTINF:-1 tvg-id="794" tvg-name="Peace of Mind" tvg-logo="http://192.168.0.222:5001/jtvimage/Peace_of_Mind.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Peace of Mind
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/794
+http://192.168.0.222:5001/live/mpd/794
+#EXTINF:-1 tvg-id="795" tvg-name="testa" tvg-logo="http://192.168.0.222:5001/jtvimage/Wellness.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", testa
+http://192.168.0.222:5001/live/795.m3u8
+#EXTINF:-1 tvg-id="801" tvg-name="Divya TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Divya_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Divya TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/801
+http://192.168.0.222:5001/live/mpd/801
+#EXTINF:-1 tvg-id="804" tvg-name="Samachar Plus" tvg-logo="http://192.168.0.222:5001/jtvimage/Samachar_Plus.png" tvg-language="Hindi" tvg-type="News" group-title="News", Samachar Plus
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/804
+http://192.168.0.222:5001/live/mpd/804
+#EXTINF:-1 tvg-id="808" tvg-name="Hindi Khabar" tvg-logo="http://192.168.0.222:5001/jtvimage/Hindi_Khabar.png" tvg-language="Hindi" tvg-type="News" group-title="News", Hindi Khabar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/808
+http://192.168.0.222:5001/live/mpd/808
+#EXTINF:-1 tvg-id="815" tvg-name="Sonic Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/sonic_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sonic Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/815
+http://192.168.0.222:5001/live/mpd/815
+#EXTINF:-1 tvg-id="816" tvg-name="Cartoon Network Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/CNHindi1.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Cartoon Network Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/816
+http://192.168.0.222:5001/live/mpd/816
+#EXTINF:-1 tvg-id="828" tvg-name="Shubh TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Shubh_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Shubh TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/828
+http://192.168.0.222:5001/live/mpd/828
+#EXTINF:-1 tvg-id="831" tvg-name="Living India News" tvg-logo="http://192.168.0.222:5001/jtvimage/Living_India_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Living India News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/831
+http://192.168.0.222:5001/live/mpd/831
+#EXTINF:-1 tvg-id="846" tvg-name="MKN News" tvg-logo="http://192.168.0.222:5001/jtvimage/MK_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", MKN News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/846
+http://192.168.0.222:5001/live/mpd/846
+#EXTINF:-1 tvg-id="850" tvg-name="News India 24x7" tvg-logo="http://192.168.0.222:5001/jtvimage/News_India_24_X_7.png" tvg-language="Hindi" tvg-type="News" group-title="News", News India 24x7
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/850
+http://192.168.0.222:5001/live/mpd/850
+#EXTINF:-1 tvg-id="851" tvg-name="SMBC TV" tvg-logo="http://192.168.0.222:5001/jtvimage/SMBC_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", SMBC TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/851
+http://192.168.0.222:5001/live/mpd/851
+#EXTINF:-1 tvg-id="855" tvg-name="Total TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Total_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Total TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/855
+http://192.168.0.222:5001/live/mpd/855
+#EXTINF:-1 tvg-id="856" tvg-name="Vedic TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Vedic_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Vedic TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/856
+http://192.168.0.222:5001/live/mpd/856
+#EXTINF:-1 tvg-id="871" tvg-name="Jio Events HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Jio_Events.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Jio Events HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/871
+http://192.168.0.222:5001/live/mpd/871
+#EXTINF:-1 tvg-id="872" tvg-name="Sony Yay Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/SonyYAYHin.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sony Yay Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/872
+http://192.168.0.222:5001/live/mpd/872
+#EXTINF:-1 tvg-id="879" tvg-name="Hare krsna" tvg-logo="http://192.168.0.222:5001/jtvimage/Harekrsna.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Hare krsna
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/879
+http://192.168.0.222:5001/live/mpd/879
+#EXTINF:-1 tvg-id="880" tvg-name="Janta TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Janta_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Janta TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/880
+http://192.168.0.222:5001/live/mpd/880
+#EXTINF:-1 tvg-id="882" tvg-name="News11" tvg-logo="http://192.168.0.222:5001/jtvimage/News11.png" tvg-language="Hindi" tvg-type="News" group-title="News", News11
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/882
+http://192.168.0.222:5001/live/mpd/882
+#EXTINF:-1 tvg-id="887" tvg-name="Vedant Ras Swar Shree" tvg-logo="http://192.168.0.222:5001/jtvimage/swarshreejio.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Vedant Ras Swar Shree
+http://192.168.0.222:5001/live/887.m3u8
+#EXTINF:-1 tvg-id="892" tvg-name="Sony Ten 3 HD Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/Ten3_HD.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Ten 3 HD Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/892
+http://192.168.0.222:5001/live/mpd/892
+#EXTINF:-1 tvg-id="915" tvg-name="Khabar Fast" tvg-logo="http://192.168.0.222:5001/jtvimage/Khabar_Fast.png" tvg-language="Hindi" tvg-type="News" group-title="News", Khabar Fast
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/915
+http://192.168.0.222:5001/live/mpd/915
+#EXTINF:-1 tvg-id="916" tvg-name="TV 100" tvg-logo="http://192.168.0.222:5001/jtvimage/TV_100.png" tvg-language="Hindi" tvg-type="News" group-title="News", TV 100
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/916
+http://192.168.0.222:5001/live/mpd/916
+#EXTINF:-1 tvg-id="917" tvg-name="APN News" tvg-logo="http://192.168.0.222:5001/jtvimage/APN_News_1.png" tvg-language="Hindi" tvg-type="News" group-title="News", APN News
+http://192.168.0.222:5001/live/917.m3u8
+#EXTINF:-1 tvg-id="918" tvg-name="Bharat Samachar" tvg-logo="http://192.168.0.222:5001/jtvimage/Bharat_Samachar.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bharat Samachar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/918
+http://192.168.0.222:5001/live/mpd/918
+#EXTINF:-1 tvg-id="919" tvg-name="Anjan TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Anjan_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Anjan TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/919
+http://192.168.0.222:5001/live/mpd/919
+#EXTINF:-1 tvg-id="921" tvg-name="Prime News" tvg-logo="http://192.168.0.222:5001/jtvimage/Prime_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Prime News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/921
+http://192.168.0.222:5001/live/mpd/921
+#EXTINF:-1 tvg-id="927" tvg-name="First India News" tvg-logo="http://192.168.0.222:5001/jtvimage/First_India_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", First India News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/927
+http://192.168.0.222:5001/live/mpd/927
+#EXTINF:-1 tvg-id="931" tvg-name="Star Bharat HD" tvg-logo="http://192.168.0.222:5001/jtvimage/StarBharatHD1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Star Bharat HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/931
+http://192.168.0.222:5001/live/mpd/931
+#EXTINF:-1 tvg-id="936" tvg-name="News 1 India" tvg-logo="http://192.168.0.222:5001/jtvimage/News_1_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 1 India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/936
+http://192.168.0.222:5001/live/mpd/936
+#EXTINF:-1 tvg-id="939" tvg-name="Bhakti Sagar TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Bhaktisagar.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Bhakti Sagar TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/939
+http://192.168.0.222:5001/live/mpd/939
+#EXTINF:-1 tvg-id="951" tvg-name="Live Samachar Bharat" tvg-logo="http://192.168.0.222:5001/jtvimage/livesamacharbharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Live Samachar Bharat
+http://192.168.0.222:5001/live/951.m3u8
+#EXTINF:-1 tvg-id="957" tvg-name="INH 24x7" tvg-logo="http://192.168.0.222:5001/jtvimage/INH_24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", INH 24x7
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/957
+http://192.168.0.222:5001/live/mpd/957
+#EXTINF:-1 tvg-id="958" tvg-name="DNN" tvg-logo="http://192.168.0.222:5001/jtvimage/DNN.png" tvg-language="Hindi" tvg-type="News" group-title="News", DNN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/958
+http://192.168.0.222:5001/live/mpd/958
+#EXTINF:-1 tvg-id="960" tvg-name="JUS HINDI HD" tvg-logo="http://192.168.0.222:5001/jtvimage/JUS_HINDI.png" tvg-language="Hindi" tvg-type="News" group-title="News", JUS HINDI HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/960
+http://192.168.0.222:5001/live/mpd/960
+#EXTINF:-1 tvg-id="962" tvg-name="Boogle Bollywood" tvg-logo="http://192.168.0.222:5001/jtvimage/Boogle_Bollywood.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Boogle Bollywood
+http://192.168.0.222:5001/live/962.m3u8
+#EXTINF:-1 tvg-id="964" tvg-name="Om Shanti" tvg-logo="http://192.168.0.222:5001/jtvimage/Om_Shanti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Om Shanti
+http://192.168.0.222:5001/live/964.m3u8
+#EXTINF:-1 tvg-id="972" tvg-name="Sarv Dharam Sangam" tvg-logo="http://192.168.0.222:5001/jtvimage/Sarv_Dharam_Sangam.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sarv Dharam Sangam
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/972
+http://192.168.0.222:5001/live/mpd/972
+#EXTINF:-1 tvg-id="975" tvg-name="Jantantra" tvg-logo="http://192.168.0.222:5001/jtvimage/Jantantra.png" tvg-language="Hindi" tvg-type="News" group-title="News", Jantantra
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/975
+http://192.168.0.222:5001/live/mpd/975
+#EXTINF:-1 tvg-id="978" tvg-name="TEST1 HD" tvg-logo="http://192.168.0.222:5001/jtvimage/TEST1_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", TEST1 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/978
+http://192.168.0.222:5001/live/mpd/978
+#EXTINF:-1 tvg-id="979" tvg-name="TEST2 HD" tvg-logo="http://192.168.0.222:5001/jtvimage/TEST2_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", TEST2 HD
+http://192.168.0.222:5001/live/979.m3u8
+#EXTINF:-1 tvg-id="1059" tvg-name="TEST3 HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Test03_HD.png" tvg-language="Hindi" tvg-type="News" group-title="News", TEST3 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1059
+http://192.168.0.222:5001/live/mpd/1059
+#EXTINF:-1 tvg-id="1077" tvg-name="Sharnam TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Sharnam_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sharnam TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1077
+http://192.168.0.222:5001/live/mpd/1077
+#EXTINF:-1 tvg-id="1078" tvg-name="Soham TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Soham_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Soham TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1078
+http://192.168.0.222:5001/live/mpd/1078
+#EXTINF:-1 tvg-id="1103" tvg-name="PEACE MUSIC" tvg-logo="http://192.168.0.222:5001/jtvimage/PEACE_MUSIC.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", PEACE MUSIC
+http://192.168.0.222:5001/live/1103.m3u8
+#EXTINF:-1 tvg-id="1113" tvg-name="Star Gold Select HD" tvg-logo="http://192.168.0.222:5001/jtvimage/StarGoldSelectHD1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold Select HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1113
+http://192.168.0.222:5001/live/mpd/1113
+#EXTINF:-1 tvg-id="1132" tvg-name="Star Plus HD" tvg-logo="http://192.168.0.222:5001/jtvimage/StarPlusHD1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Star Plus HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1132
+http://192.168.0.222:5001/live/mpd/1132
+#EXTINF:-1 tvg-id="1136" tvg-name="Star Utsav Movies" tvg-logo="http://192.168.0.222:5001/jtvimage/StarUtsavMovies1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Utsav Movies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1136
+http://192.168.0.222:5001/live/mpd/1136
+#EXTINF:-1 tvg-id="1143" tvg-name="Star Utsav" tvg-logo="http://192.168.0.222:5001/jtvimage/StarUtsav1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Star Utsav
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1143
+http://192.168.0.222:5001/live/mpd/1143
+#EXTINF:-1 tvg-id="1145" tvg-name="MTV HD" tvg-logo="http://192.168.0.222:5001/jtvimage/MTV_HD_Plus.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1145
+http://192.168.0.222:5001/live/mpd/1145
+#EXTINF:-1 tvg-id="1175" tvg-name="Awakening" tvg-logo="http://192.168.0.222:5001/jtvimage/Awakening.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Awakening
+http://192.168.0.222:5001/live/1175.m3u8
+#EXTINF:-1 tvg-id="1179" tvg-name="Bansal News" tvg-logo="http://192.168.0.222:5001/jtvimage/Bansal_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bansal News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1179
+http://192.168.0.222:5001/live/mpd/1179
+#EXTINF:-1 tvg-id="1185" tvg-name="Swadesh News" tvg-logo="http://192.168.0.222:5001/jtvimage/Swadesh_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Swadesh News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1185
+http://192.168.0.222:5001/live/mpd/1185
+#EXTINF:-1 tvg-id="1193" tvg-name="Hare Krsna Music" tvg-logo="http://192.168.0.222:5001/jtvimage/Hare_Krsna_music.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Hare Krsna Music
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1193
+http://192.168.0.222:5001/live/mpd/1193
+#EXTINF:-1 tvg-id="1205" tvg-name="ABP Ganga" tvg-logo="http://192.168.0.222:5001/jtvimage/ABP_Ganga.png" tvg-language="Hindi" tvg-type="News" group-title="News", ABP Ganga
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1205
+http://192.168.0.222:5001/live/mpd/1205
+#EXTINF:-1 tvg-id="1212" tvg-name="Hare Krsna Pravachan" tvg-logo="http://192.168.0.222:5001/jtvimage/Hare_Krsna_Pravachan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Hare Krsna Pravachan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1212
+http://192.168.0.222:5001/live/mpd/1212
+#EXTINF:-1 tvg-id="1220" tvg-name="Rajyoga TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Rajyoga_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Rajyoga TV
+http://192.168.0.222:5001/live/1220.m3u8
+#EXTINF:-1 tvg-id="1224" tvg-name="Nimbark TV" tvg-logo="http://192.168.0.222:5001/jtvimage/nimbarktv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Nimbark TV
+http://192.168.0.222:5001/live/1224.m3u8
+#EXTINF:-1 tvg-id="1251" tvg-name="TV9 Bharatvarsh" tvg-logo="http://192.168.0.222:5001/jtvimage/TV9_Bharatvarsh.png" tvg-language="Hindi" tvg-type="News" group-title="News", TV9 Bharatvarsh
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1251
+http://192.168.0.222:5001/live/mpd/1251
+#EXTINF:-1 tvg-id="1257" tvg-name="Surya Samachar" tvg-logo="http://192.168.0.222:5001/jtvimage/Surya_Samachar.png" tvg-language="Hindi" tvg-type="News" group-title="News", Surya Samachar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1257
+http://192.168.0.222:5001/live/mpd/1257
+#EXTINF:-1 tvg-id="1263" tvg-name="BRK News" tvg-logo="http://192.168.0.222:5001/jtvimage/Total_Tv_Haryana.png" tvg-language="Hindi" tvg-type="News" group-title="News", BRK News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1263
+http://192.168.0.222:5001/live/mpd/1263
+#EXTINF:-1 tvg-id="1278" tvg-name="Prarthana Bhawan" tvg-logo="http://192.168.0.222:5001/jtvimage/Prarthana_Bhawan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Prarthana Bhawan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1278
+http://192.168.0.222:5001/live/mpd/1278
+#EXTINF:-1 tvg-id="1286" tvg-name="Insync" tvg-logo="http://192.168.0.222:5001/jtvimage/Insync.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Insync
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1286
+http://192.168.0.222:5001/live/mpd/1286
+#EXTINF:-1 tvg-id="1287" tvg-name="ANB News" tvg-logo="http://192.168.0.222:5001/jtvimage/ANBNews.png" tvg-language="Hindi" tvg-type="News" group-title="News", ANB News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1287
+http://192.168.0.222:5001/live/mpd/1287
+#EXTINF:-1 tvg-id="1295" tvg-name="B4U Kadak" tvg-logo="http://192.168.0.222:5001/jtvimage/B4U_Kadak.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Kadak
+http://192.168.0.222:5001/live/1295.m3u8
+#EXTINF:-1 tvg-id="1328" tvg-name="DD Arunprabha" tvg-logo="http://192.168.0.222:5001/jtvimage/DD_Arunprabha.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD Arunprabha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1328
+http://192.168.0.222:5001/live/mpd/1328
+#EXTINF:-1 tvg-id="1329" tvg-name="DD Gyandarshan" tvg-logo="http://192.168.0.222:5001/jtvimage/DD_Gyandarshan.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD Gyandarshan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1329
+http://192.168.0.222:5001/live/mpd/1329
+#EXTINF:-1 tvg-id="1368" tvg-name="Colors SD" tvg-logo="http://192.168.0.222:5001/jtvimage/Colors1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors SD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1368
+http://192.168.0.222:5001/live/mpd/1368
+#EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="http://192.168.0.222:5001/jtvimage/Disney_Channel.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Disney Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1373
+http://192.168.0.222:5001/live/mpd/1373
+#EXTINF:-1 tvg-id="1391" tvg-name="Hungama" tvg-logo="http://192.168.0.222:5001/jtvimage/Hungama.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Hungama
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1391
+http://192.168.0.222:5001/live/mpd/1391
+#EXTINF:-1 tvg-id="1392" tvg-name="Super Hungama" tvg-logo="http://192.168.0.222:5001/jtvimage/Super_Hungama.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Super Hungama
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1392
+http://192.168.0.222:5001/live/mpd/1392
+#EXTINF:-1 tvg-id="1393" tvg-name="Sony Wah" tvg-logo="http://192.168.0.222:5001/jtvimage/SonyWAH.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Wah
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1393
+http://192.168.0.222:5001/live/mpd/1393
+#EXTINF:-1 tvg-id="1396" tvg-name="Set SD" tvg-logo="http://192.168.0.222:5001/jtvimage/Sony_SD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Set SD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1396
+http://192.168.0.222:5001/live/mpd/1396
+#EXTINF:-1 tvg-id="1403" tvg-name="Republic Bharat" tvg-logo="http://192.168.0.222:5001/jtvimage/Republic_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Republic Bharat
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1403
+http://192.168.0.222:5001/live/mpd/1403
+#EXTINF:-1 tvg-id="1407" tvg-name="Sai Leela" tvg-logo="http://192.168.0.222:5001/jtvimage/Sai_Leela.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sai Leela
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1407
+http://192.168.0.222:5001/live/mpd/1407
+#EXTINF:-1 tvg-id="1411" tvg-name="SongDew TV" tvg-logo="http://192.168.0.222:5001/jtvimage/SongDew_TV.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", SongDew TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1411
+http://192.168.0.222:5001/live/mpd/1411
+#EXTINF:-1 tvg-id="1414" tvg-name="Prati Shirdi Saibaba" tvg-logo="http://192.168.0.222:5001/jtvimage/Prati_Shirdi_Saibaba.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Prati Shirdi Saibaba
+http://192.168.0.222:5001/live/1414.m3u8
+#EXTINF:-1 tvg-id="1415" tvg-name="Ganga Darshan Varanasi" tvg-logo="http://192.168.0.222:5001/jtvimage/Ganga_Darshan_Varanasi.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Ganga Darshan Varanasi
+http://192.168.0.222:5001/live/1415.m3u8
+#EXTINF:-1 tvg-id="1418" tvg-name="Ichhapuran Balaji Rajasthan" tvg-logo="http://192.168.0.222:5001/jtvimage/Ichhapuran_Balaji_Rajasthan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Ichhapuran Balaji Rajasthan
+http://192.168.0.222:5001/live/1418.m3u8
+#EXTINF:-1 tvg-id="1426" tvg-name="Santvani" tvg-logo="http://192.168.0.222:5001/jtvimage/Santvani.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Santvani
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1426
+http://192.168.0.222:5001/live/mpd/1426
+#EXTINF:-1 tvg-id="1431" tvg-name="BBC News Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/BBC_Hindi.png" tvg-language="Hindi" tvg-type="News" group-title="News", BBC News Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1431
+http://192.168.0.222:5001/live/mpd/1431
+#EXTINF:-1 tvg-id="1440" tvg-name="Krishna Vani" tvg-logo="http://192.168.0.222:5001/jtvimage/Krishna_Vani.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Krishna Vani
+http://192.168.0.222:5001/live/1440.m3u8
+#EXTINF:-1 tvg-id="1450" tvg-name="Colors Cineplex Superhit" tvg-logo="http://192.168.0.222:5001/jtvimage/ColorsCineplexSuperhit.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Superhit
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1450
+http://192.168.0.222:5001/live/mpd/1450
+#EXTINF:-1 tvg-id="1451" tvg-name="9 Bharat Samachar" tvg-logo="http://192.168.0.222:5001/jtvimage/9_Bharat_Samachar.png" tvg-language="Hindi" tvg-type="News" group-title="News", 9 Bharat Samachar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1451
+http://192.168.0.222:5001/live/mpd/1451
+#EXTINF:-1 tvg-id="1475" tvg-name="TEST11 HD" tvg-logo="http://192.168.0.222:5001/jtvimage/TEST11_HD.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", TEST11 HD
+http://192.168.0.222:5001/live/1475.m3u8
+#EXTINF:-1 tvg-id="1476" tvg-name="TEST12 HD" tvg-logo="http://192.168.0.222:5001/jtvimage/TEST12_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", TEST12 HD
+http://192.168.0.222:5001/live/1476.m3u8
+#EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-logo="http://192.168.0.222:5001/jtvimage/ColorsCineplexHD1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1477
+http://192.168.0.222:5001/live/mpd/1477
+#EXTINF:-1 tvg-id="1525" tvg-name="TEST13 HD" tvg-logo="http://192.168.0.222:5001/jtvimage/TEST13_HD.png" tvg-language="Hindi" tvg-type="News" group-title="News", TEST13 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1525
+http://192.168.0.222:5001/live/mpd/1525
+#EXTINF:-1 tvg-id="1528" tvg-name="Network 10" tvg-logo="http://192.168.0.222:5001/jtvimage/Network_10.png" tvg-language="Hindi" tvg-type="News" group-title="News", Network 10
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1528
+http://192.168.0.222:5001/live/mpd/1528
+#EXTINF:-1 tvg-id="1538" tvg-name="Samachar Today" tvg-logo="http://192.168.0.222:5001/jtvimage/Samachar_Today.png" tvg-language="Hindi" tvg-type="News" group-title="News", Samachar Today
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1538
+http://192.168.0.222:5001/live/mpd/1538
+#EXTINF:-1 tvg-id="1543" tvg-name="Subharti" tvg-logo="http://192.168.0.222:5001/jtvimage/Subharti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Subharti
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1543
+http://192.168.0.222:5001/live/mpd/1543
+#EXTINF:-1 tvg-id="1549" tvg-name="Dharm Granth TV" tvg-logo="http://192.168.0.222:5001/jtvimage/DharmaGranth_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Dharm Granth TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1549
+http://192.168.0.222:5001/live/mpd/1549
+#EXTINF:-1 tvg-id="1550" tvg-name="AB News" tvg-logo="http://192.168.0.222:5001/jtvimage/abnews.png" tvg-language="Hindi" tvg-type="News" group-title="News", AB News
+http://192.168.0.222:5001/live/1550.m3u8
+#EXTINF:-1 tvg-id="1551" tvg-name="P News" tvg-logo="http://192.168.0.222:5001/jtvimage/P_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", P News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1551
+http://192.168.0.222:5001/live/mpd/1551
+#EXTINF:-1 tvg-id="1553" tvg-name="AB Star News" tvg-logo="http://192.168.0.222:5001/jtvimage/abstarnews.png" tvg-language="Hindi" tvg-type="News" group-title="News", AB Star News
+http://192.168.0.222:5001/live/1553.m3u8
+#EXTINF:-1 tvg-id="1554" tvg-name="Sanatan TV" tvg-logo="http://192.168.0.222:5001/jtvimage/sanatan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanatan TV
+http://192.168.0.222:5001/live/1554.m3u8
+#EXTINF:-1 tvg-id="1560" tvg-name="35mm" tvg-logo="http://192.168.0.222:5001/jtvimage/35mm.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", 35mm
+http://192.168.0.222:5001/live/1560.m3u8
+#EXTINF:-1 tvg-id="1568" tvg-name="Atmadarshan TV" tvg-logo="http://192.168.0.222:5001/jtvimage/atmadarshantv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Atmadarshan TV
+http://192.168.0.222:5001/live/1568.m3u8
+#EXTINF:-1 tvg-id="1594" tvg-name="Samachar 24" tvg-logo="http://192.168.0.222:5001/jtvimage/samachar24.png" tvg-language="Hindi" tvg-type="News" group-title="News", Samachar 24
+http://192.168.0.222:5001/live/1594.m3u8
+#EXTINF:-1 tvg-id="1607" tvg-name="Manav Dharam" tvg-logo="http://192.168.0.222:5001/jtvimage/Manav_Dharam.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Manav Dharam
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1607
+http://192.168.0.222:5001/live/mpd/1607
+#EXTINF:-1 tvg-id="1608" tvg-name="MP News" tvg-logo="http://192.168.0.222:5001/jtvimage/MP_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", MP News
+http://192.168.0.222:5001/live/1608.m3u8
+#EXTINF:-1 tvg-id="1635" tvg-name="News State MPCG " tvg-logo="http://192.168.0.222:5001/jtvimage/News_State_MPCG.png" tvg-language="Hindi" tvg-type="News" group-title="News", News State MPCG 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1635
+http://192.168.0.222:5001/live/mpd/1635
+#EXTINF:-1 tvg-id="1670" tvg-name="C News Bharat" tvg-logo="http://192.168.0.222:5001/jtvimage/cnews.png" tvg-language="Hindi" tvg-type="News" group-title="News", C News Bharat
+http://192.168.0.222:5001/live/1670.m3u8
+#EXTINF:-1 tvg-id="1695" tvg-name="Prime TV" tvg-logo="http://192.168.0.222:5001/jtvimage/primetv.png" tvg-language="Hindi" tvg-type="News" group-title="News", Prime TV
+http://192.168.0.222:5001/live/1695.m3u8
+#EXTINF:-1 tvg-id="1697" tvg-name="FM News" tvg-logo="http://192.168.0.222:5001/jtvimage/FM_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", FM News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1697
+http://192.168.0.222:5001/live/mpd/1697
+#EXTINF:-1 tvg-id="1698" tvg-name="IND 24" tvg-logo="http://192.168.0.222:5001/jtvimage/IND_24.png" tvg-language="Hindi" tvg-type="News" group-title="News", IND 24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1698
+http://192.168.0.222:5001/live/mpd/1698
+#EXTINF:-1 tvg-id="1728" tvg-name="Anaadi TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Anaadi_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Anaadi TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1728
+http://192.168.0.222:5001/live/mpd/1728
+#EXTINF:-1 tvg-id="1741" tvg-name="Bharat AtoZ" tvg-logo="http://192.168.0.222:5001/jtvimage/Bharat_AtoZ.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bharat AtoZ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1741
+http://192.168.0.222:5001/live/mpd/1741
+#EXTINF:-1 tvg-id="1742" tvg-name="Sanskrit Ganga" tvg-logo="http://192.168.0.222:5001/jtvimage/Sanskrit_Ganga_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanskrit Ganga
+http://192.168.0.222:5001/live/1742.m3u8
+#EXTINF:-1 tvg-id="1761" tvg-name="Aryan TV National" tvg-logo="http://192.168.0.222:5001/jtvimage/Aryan_TV_National.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aryan TV National
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1761
+http://192.168.0.222:5001/live/mpd/1761
+#EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-logo="http://192.168.0.222:5001/jtvimage/ColorsCineplexBollywood1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Bollywood
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1763
+http://192.168.0.222:5001/live/mpd/1763
+#EXTINF:-1 tvg-id="1764" tvg-name="Dada Bhagwan Foundation" tvg-logo="http://192.168.0.222:5001/jtvimage/Dadabhagwan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Dada Bhagwan Foundation
+http://192.168.0.222:5001/live/1764.m3u8
+#EXTINF:-1 tvg-id="1777" tvg-name="Bharat News TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Bharat_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bharat News TV
+http://192.168.0.222:5001/live/1777.m3u8
+#EXTINF:-1 tvg-id="1788" tvg-name="Yeshuaa TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Yeshuaa.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Yeshuaa TV
+http://192.168.0.222:5001/live/1788.m3u8
+#EXTINF:-1 tvg-id="1793" tvg-name="National News Sattaxpress" tvg-logo="http://192.168.0.222:5001/jtvimage/National_News_Sattaxpress.png" tvg-language="Hindi" tvg-type="News" group-title="News", National News Sattaxpress
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1793
+http://192.168.0.222:5001/live/mpd/1793
+#EXTINF:-1 tvg-id="1794" tvg-name="Mangalmay Live" tvg-logo="http://192.168.0.222:5001/jtvimage/Mangalmaylive.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Mangalmay Live
+http://192.168.0.222:5001/live/1794.m3u8
+#EXTINF:-1 tvg-id="1797" tvg-name="DA News Plus" tvg-logo="http://192.168.0.222:5001/jtvimage/DA_News_Plus.png" tvg-language="Hindi" tvg-type="News" group-title="News", DA News Plus
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1797
+http://192.168.0.222:5001/live/mpd/1797
+#EXTINF:-1 tvg-id="1804" tvg-name="Jan Setu News" tvg-logo="http://192.168.0.222:5001/jtvimage/jansetunews.png" tvg-language="Hindi" tvg-type="News" group-title="News", Jan Setu News
+http://192.168.0.222:5001/live/1804.m3u8
+#EXTINF:-1 tvg-id="1817" tvg-name="NEWS 24 MPCG" tvg-logo="http://192.168.0.222:5001/jtvimage/NEWS_24_MPCG.png" tvg-language="Hindi" tvg-type="News" group-title="News", NEWS 24 MPCG
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1817
+http://192.168.0.222:5001/live/mpd/1817
+#EXTINF:-1 tvg-id="1834" tvg-name="Green Chillies" tvg-logo="http://192.168.0.222:5001/jtvimage/Green_Chillies_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Green Chillies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1834
+http://192.168.0.222:5001/live/mpd/1834
+#EXTINF:-1 tvg-id="1847" tvg-name="Z10 TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Harpal_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Z10 TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1847
+http://192.168.0.222:5001/live/mpd/1847
+#EXTINF:-1 tvg-id="1853" tvg-name="News11 Bharat" tvg-logo="http://192.168.0.222:5001/jtvimage/News11_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", News11 Bharat
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1853
+http://192.168.0.222:5001/live/mpd/1853
+#EXTINF:-1 tvg-id="1854" tvg-name="STV Haryana News" tvg-logo="http://192.168.0.222:5001/jtvimage/STV_Haryana_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", STV Haryana News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1854
+http://192.168.0.222:5001/live/mpd/1854
+#EXTINF:-1 tvg-id="1885" tvg-name="Kripa TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Kripa_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Kripa TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1885
+http://192.168.0.222:5001/live/mpd/1885
+#EXTINF:-1 tvg-id="1886" tvg-name="Sansad TV Rajya Sabha" tvg-logo="http://192.168.0.222:5001/jtvimage/Sansad_TV_RajyaSabha.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sansad TV Rajya Sabha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1886
+http://192.168.0.222:5001/live/mpd/1886
+#EXTINF:-1 tvg-id="1895" tvg-name="Today 24 News" tvg-logo="http://192.168.0.222:5001/jtvimage/Today_24_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Today 24 News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1895
+http://192.168.0.222:5001/live/mpd/1895
+#EXTINF:-1 tvg-id="1896" tvg-name="News Flash" tvg-logo="http://192.168.0.222:5001/jtvimage/News_Flash.png" tvg-language="Hindi" tvg-type="News" group-title="News", News Flash
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1896
+http://192.168.0.222:5001/live/mpd/1896
+#EXTINF:-1 tvg-id="1900" tvg-name="Express News Bharat" tvg-logo="http://192.168.0.222:5001/jtvimage/ENB.png" tvg-language="Hindi" tvg-type="News" group-title="News", Express News Bharat
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1900
+http://192.168.0.222:5001/live/mpd/1900
+#EXTINF:-1 tvg-id="1901" tvg-name="Adhyatma TV" tvg-logo="http://192.168.0.222:5001/jtvimage/adhyatmatv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Adhyatma TV
+http://192.168.0.222:5001/live/1901.m3u8
+#EXTINF:-1 tvg-id="1906" tvg-name="Times Now Navbharat" tvg-logo="http://192.168.0.222:5001/jtvimage/Times_Now_Navbharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Times Now Navbharat
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1906
+http://192.168.0.222:5001/live/mpd/1906
+#EXTINF:-1 tvg-id="1907" tvg-name="ET Now Swadesh" tvg-logo="http://192.168.0.222:5001/jtvimage/ET_Now_Swadesh.png" tvg-language="Hindi" tvg-type="Business" group-title="Business", ET Now Swadesh
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1907
+http://192.168.0.222:5001/live/mpd/1907
+#EXTINF:-1 tvg-id="1955" tvg-name="Foodxp" tvg-logo="http://192.168.0.222:5001/jtvimage/Food_XP.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", Foodxp
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1955
+http://192.168.0.222:5001/live/mpd/1955
+#EXTINF:-1 tvg-id="1959" tvg-name="Global India" tvg-logo="http://192.168.0.222:5001/jtvimage/Global_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", Global India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1959
+http://192.168.0.222:5001/live/mpd/1959
+#EXTINF:-1 tvg-id="1961" tvg-name="Shemaroo TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Shemaroo_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Shemaroo TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1961
+http://192.168.0.222:5001/live/mpd/1961
+#EXTINF:-1 tvg-id="1964" tvg-name="ABC News" tvg-logo="http://192.168.0.222:5001/jtvimage/abcnews.png" tvg-language="Hindi" tvg-type="News" group-title="News", ABC News
+http://192.168.0.222:5001/live/1964.m3u8
+#EXTINF:-1 tvg-id="1965" tvg-name="VNM TV" tvg-logo="http://192.168.0.222:5001/jtvimage/VNM_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", VNM TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1965
+http://192.168.0.222:5001/live/mpd/1965
+#EXTINF:-1 tvg-id="1967" tvg-name="PMC Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/PMC_Hindi.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", PMC Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1967
+http://192.168.0.222:5001/live/mpd/1967
+#EXTINF:-1 tvg-id="1999" tvg-name="Raftaar Media" tvg-logo="http://192.168.0.222:5001/jtvimage/Raftaar_Media.png" tvg-language="Hindi" tvg-type="News" group-title="News", Raftaar Media
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/1999
+http://192.168.0.222:5001/live/mpd/1999
+#EXTINF:-1 tvg-id="2005" tvg-name="IN 24 News" tvg-logo="http://192.168.0.222:5001/jtvimage/in24news.png" tvg-language="Hindi" tvg-type="News" group-title="News", IN 24 News
+http://192.168.0.222:5001/live/2005.m3u8
+#EXTINF:-1 tvg-id="2008" tvg-name="News 21" tvg-logo="http://192.168.0.222:5001/jtvimage/news21.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 21
+http://192.168.0.222:5001/live/2008.m3u8
+#EXTINF:-1 tvg-id="2014" tvg-name="News India TV" tvg-logo="http://192.168.0.222:5001/jtvimage/NewsIndiaTV.png" tvg-language="Hindi" tvg-type="News" group-title="News", News India TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2014
+http://192.168.0.222:5001/live/mpd/2014
+#EXTINF:-1 tvg-id="2018" tvg-name="Samachar Nation" tvg-logo="http://192.168.0.222:5001/jtvimage/Samachar_Nation.png" tvg-language="Hindi" tvg-type="News" group-title="News", Samachar Nation
+http://192.168.0.222:5001/live/2018.m3u8
+#EXTINF:-1 tvg-id="2021" tvg-name="HNN 24x7" tvg-logo="http://192.168.0.222:5001/jtvimage/HNN24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", HNN 24x7
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2021
+http://192.168.0.222:5001/live/mpd/2021
+#EXTINF:-1 tvg-id="2029" tvg-name="Aaryaa Bhakti" tvg-logo="http://192.168.0.222:5001/jtvimage/Aaryaa_Bhakti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Aaryaa Bhakti
+http://192.168.0.222:5001/live/2029.m3u8
+#EXTINF:-1 tvg-id="2030" tvg-name="Aaryaa News" tvg-logo="http://192.168.0.222:5001/jtvimage/Aaryaa_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaryaa News
+http://192.168.0.222:5001/live/2030.m3u8
+#EXTINF:-1 tvg-id="2064" tvg-name="Merchant Records" tvg-logo="http://192.168.0.222:5001/jtvimage/Merchant_Records.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Merchant Records
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2064
+http://192.168.0.222:5001/live/mpd/2064
+#EXTINF:-1 tvg-id="2077" tvg-name="Gangaur" tvg-logo="http://192.168.0.222:5001/jtvimage/Gangaur.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Gangaur
+http://192.168.0.222:5001/live/2077.m3u8
+#EXTINF:-1 tvg-id="2079" tvg-name="Bharat 24" tvg-logo="http://192.168.0.222:5001/jtvimage/Bharat_24.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bharat 24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2079
+http://192.168.0.222:5001/live/mpd/2079
+#EXTINF:-1 tvg-id="2081" tvg-name="TV27 News" tvg-logo="http://192.168.0.222:5001/jtvimage/TV27_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", TV27 News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2081
+http://192.168.0.222:5001/live/mpd/2081
+#EXTINF:-1 tvg-id="2082" tvg-name="22Scope News" tvg-logo="http://192.168.0.222:5001/jtvimage/22Scope_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", 22Scope News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2082
+http://192.168.0.222:5001/live/mpd/2082
+#EXTINF:-1 tvg-id="2176" tvg-name="India 24x7" tvg-logo="http://192.168.0.222:5001/jtvimage/India24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", India 24x7
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2176
+http://192.168.0.222:5001/live/mpd/2176
+#EXTINF:-1 tvg-id="2189" tvg-name="Aaryaa Cinema" tvg-logo="http://192.168.0.222:5001/jtvimage/Aaryaa_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Aaryaa Cinema
+http://192.168.0.222:5001/live/2189.m3u8
+#EXTINF:-1 tvg-id="2225" tvg-name="TV24" tvg-logo="http://192.168.0.222:5001/jtvimage/TV24.png" tvg-language="Hindi" tvg-type="News" group-title="News", TV24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2225
+http://192.168.0.222:5001/live/mpd/2225
+#EXTINF:-1 tvg-id="2252" tvg-name="Desi Music Station" tvg-logo="http://192.168.0.222:5001/jtvimage/Desi_Music_Station.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Desi Music Station
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2252
+http://192.168.0.222:5001/live/mpd/2252
+#EXTINF:-1 tvg-id="2254" tvg-name="Media9" tvg-logo="http://192.168.0.222:5001/jtvimage/Media9.png" tvg-language="Hindi" tvg-type="News" group-title="News", Media9
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2254
+http://192.168.0.222:5001/live/mpd/2254
+#EXTINF:-1 tvg-id="2255" tvg-name="Raftaar Samay" tvg-logo="http://192.168.0.222:5001/jtvimage/RRN_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Raftaar Samay
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2255
+http://192.168.0.222:5001/live/mpd/2255
+#EXTINF:-1 tvg-id="2322" tvg-name="Divyalok TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Divyalok_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Divyalok TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2322
+http://192.168.0.222:5001/live/mpd/2322
+#EXTINF:-1 tvg-id="2323" tvg-name="TTN24" tvg-logo="http://192.168.0.222:5001/jtvimage/ttn24.png" tvg-language="Hindi" tvg-type="News" group-title="News", TTN24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2323
+http://192.168.0.222:5001/live/mpd/2323
+#EXTINF:-1 tvg-id="2327" tvg-name="Lionsgate Play" tvg-logo="http://192.168.0.222:5001/jtvimage/Lionsgate_Play.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Lionsgate Play
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2327
+http://192.168.0.222:5001/live/mpd/2327
+#EXTINF:-1 tvg-id="2353" tvg-name="Bharat Express" tvg-logo="http://192.168.0.222:5001/jtvimage/Bharat_Express.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bharat Express
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2353
+http://192.168.0.222:5001/live/mpd/2353
+#EXTINF:-1 tvg-id="2423" tvg-name="Vande Bharat News" tvg-logo="http://192.168.0.222:5001/jtvimage/vandebharatnews.png" tvg-language="Hindi" tvg-type="News" group-title="News", Vande Bharat News
+http://192.168.0.222:5001/live/2423.m3u8
+#EXTINF:-1 tvg-id="2433" tvg-name="E News79" tvg-logo="http://192.168.0.222:5001/jtvimage/E_News79.png" tvg-language="Hindi" tvg-type="News" group-title="News", E News79
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2433
+http://192.168.0.222:5001/live/mpd/2433
+#EXTINF:-1 tvg-id="2741" tvg-name="Shri Disha Bhakti" tvg-logo="http://192.168.0.222:5001/jtvimage/ShriDishaBhakti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Shri Disha Bhakti
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2741
+http://192.168.0.222:5001/live/mpd/2741
+#EXTINF:-1 tvg-id="2751" tvg-name="Saga Music Haryanvi" tvg-logo="http://192.168.0.222:5001/jtvimage/Saga_Music_Haryanvi.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Saga Music Haryanvi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2751
+http://192.168.0.222:5001/live/mpd/2751
+#EXTINF:-1 tvg-id="2753" tvg-name="YRF Music" tvg-logo="http://192.168.0.222:5001/jtvimage/YRF_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", YRF Music
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2753
+http://192.168.0.222:5001/live/mpd/2753
+#EXTINF:-1 tvg-id="2764" tvg-name="News State Bihar Jharkhand" tvg-logo="http://192.168.0.222:5001/jtvimage/NewsState_Bihar_JH.png" tvg-language="Hindi" tvg-type="News" group-title="News", News State Bihar Jharkhand
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2764
+http://192.168.0.222:5001/live/mpd/2764
+#EXTINF:-1 tvg-id="2765" tvg-name="BSTV" tvg-logo="http://192.168.0.222:5001/jtvimage/BSTV.png" tvg-language="Hindi" tvg-type="News" group-title="News", BSTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2765
+http://192.168.0.222:5001/live/mpd/2765
+#EXTINF:-1 tvg-id="2767" tvg-name="Sacchi Report" tvg-logo="http://192.168.0.222:5001/jtvimage/Sacchi_Report.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sacchi Report
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2767
+http://192.168.0.222:5001/live/mpd/2767
+#EXTINF:-1 tvg-id="2770" tvg-name="Har Khabar" tvg-logo="http://192.168.0.222:5001/jtvimage/Har_Khabar.png" tvg-language="Hindi" tvg-type="News" group-title="News", Har Khabar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2770
+http://192.168.0.222:5001/live/mpd/2770
+#EXTINF:-1 tvg-id="2771" tvg-name="Sadhna News MP CG" tvg-logo="http://192.168.0.222:5001/jtvimage/Sadhna_News_MP_CG.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sadhna News MP CG
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2771
+http://192.168.0.222:5001/live/mpd/2771
+#EXTINF:-1 tvg-id="2772" tvg-name="India Daily 24x7" tvg-logo="http://192.168.0.222:5001/jtvimage/India_Daily_24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", India Daily 24x7
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2772
+http://192.168.0.222:5001/live/mpd/2772
+#EXTINF:-1 tvg-id="2773" tvg-name="Aaj Ki Khabar" tvg-logo="http://192.168.0.222:5001/jtvimage/aajkikhabar.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Ki Khabar
+http://192.168.0.222:5001/live/2773.m3u8
+#EXTINF:-1 tvg-id="2774" tvg-name="Power Kids TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Power_Kids_TV.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Power Kids TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2774
+http://192.168.0.222:5001/live/mpd/2774
+#EXTINF:-1 tvg-id="2777" tvg-name="Asian News" tvg-logo="http://192.168.0.222:5001/jtvimage/Asian_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Asian News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2777
+http://192.168.0.222:5001/live/mpd/2777
+#EXTINF:-1 tvg-id="2784" tvg-name="ISKCON Bangalore" tvg-logo="http://192.168.0.222:5001/jtvimage/ISKCON_Bangalore.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", ISKCON Bangalore
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2784
+http://192.168.0.222:5001/live/mpd/2784
+#EXTINF:-1 tvg-id="2851" tvg-name="IN24 Live" tvg-logo="http://192.168.0.222:5001/jtvimage/IN24_Live.png" tvg-language="Hindi" tvg-type="News" group-title="News", IN24 Live
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2851
+http://192.168.0.222:5001/live/mpd/2851
+#EXTINF:-1 tvg-id="2936" tvg-name="Oye Music" tvg-logo="http://192.168.0.222:5001/jtvimage/Oye_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Oye Music
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2936
+http://192.168.0.222:5001/live/mpd/2936
+#EXTINF:-1 tvg-id="2937" tvg-name="Update India" tvg-logo="http://192.168.0.222:5001/jtvimage/Update_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", Update India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2937
+http://192.168.0.222:5001/live/mpd/2937
+#EXTINF:-1 tvg-id="2945" tvg-name="Tar TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Tar_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Tar TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2945
+http://192.168.0.222:5001/live/mpd/2945
+#EXTINF:-1 tvg-id="2946" tvg-name="Rashtra Live Prime" tvg-logo="http://192.168.0.222:5001/jtvimage/National_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Rashtra Live Prime
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2946
+http://192.168.0.222:5001/live/mpd/2946
+#EXTINF:-1 tvg-id="2947" tvg-name="Jeewan Bhakti" tvg-logo="http://192.168.0.222:5001/jtvimage/Jeewan_Bhakti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Jeewan Bhakti
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2947
+http://192.168.0.222:5001/live/mpd/2947
+#EXTINF:-1 tvg-id="2954" tvg-name="TV45" tvg-logo="http://192.168.0.222:5001/jtvimage/tv45.png" tvg-language="Hindi" tvg-type="News" group-title="News", TV45
+http://192.168.0.222:5001/live/2954.m3u8
+#EXTINF:-1 tvg-id="2957" tvg-name="Public First" tvg-logo="http://192.168.0.222:5001/jtvimage/Public_First.png" tvg-language="Hindi" tvg-type="News" group-title="News", Public First
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/2957
+http://192.168.0.222:5001/live/mpd/2957
+#EXTINF:-1 tvg-id="2962" tvg-name="NoFilterNeha" tvg-logo="http://192.168.0.222:5001/jtvimage/No_Filter_Neha.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", NoFilterNeha
+http://192.168.0.222:5001/live/2962.m3u8
+#EXTINF:-1 tvg-id="3007" tvg-name="AMV" tvg-logo="http://192.168.0.222:5001/jtvimage/AMV.png" tvg-language="Hindi" tvg-type="News" group-title="News", AMV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3007
+http://192.168.0.222:5001/live/mpd/3007
+#EXTINF:-1 tvg-id="3014" tvg-name="IPN News" tvg-logo="http://192.168.0.222:5001/jtvimage/IPN_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", IPN News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3014
+http://192.168.0.222:5001/live/mpd/3014
+#EXTINF:-1 tvg-id="3016" tvg-name="TNI24" tvg-logo="http://192.168.0.222:5001/jtvimage/TNI24.png" tvg-language="Hindi" tvg-type="News" group-title="News", TNI24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3016
+http://192.168.0.222:5001/live/mpd/3016
+#EXTINF:-1 tvg-id="3017" tvg-name="News Hour" tvg-logo="http://192.168.0.222:5001/jtvimage/News_Hour.png" tvg-language="Hindi" tvg-type="News" group-title="News", News Hour
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3017
+http://192.168.0.222:5001/live/mpd/3017
+#EXTINF:-1 tvg-id="3022" tvg-name="Unique TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Unique_Tv.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Unique TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3022
+http://192.168.0.222:5001/live/mpd/3022
+#EXTINF:-1 tvg-id="3024" tvg-name="India TV Yoga Channel" tvg-logo="http://192.168.0.222:5001/jtvimage/IndiaTV_Yoga.png" tvg-language="Hindi" tvg-type="News" group-title="News", India TV Yoga Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3024
+http://192.168.0.222:5001/live/mpd/3024
+#EXTINF:-1 tvg-id="3025" tvg-name="India TV Aap Ki Adalat" tvg-logo="http://192.168.0.222:5001/jtvimage/Aap_Ki_Adalat.png" tvg-language="Hindi" tvg-type="News" group-title="News", India TV Aap Ki Adalat
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3025
+http://192.168.0.222:5001/live/mpd/3025
+#EXTINF:-1 tvg-id="3026" tvg-name="India TV Speed News" tvg-logo="http://192.168.0.222:5001/jtvimage/Speed_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", India TV Speed News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3026
+http://192.168.0.222:5001/live/mpd/3026
+#EXTINF:-1 tvg-id="3028" tvg-name="BH Style Icons Awards" tvg-logo="http://192.168.0.222:5001/jtvimage/BHStyle_Icon.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", BH Style Icons Awards
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3028
+http://192.168.0.222:5001/live/mpd/3028
+#EXTINF:-1 tvg-id="3029" tvg-name="Bollywood Masala" tvg-logo="http://192.168.0.222:5001/jtvimage/bollywoodmasala.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Bollywood Masala
+http://192.168.0.222:5001/live/3029.m3u8
+#EXTINF:-1 tvg-id="3038" tvg-name="Amritwani TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Amritwani_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Amritwani TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3038
+http://192.168.0.222:5001/live/mpd/3038
+#EXTINF:-1 tvg-id="3039" tvg-name="Garvi Gujarat" tvg-logo="http://192.168.0.222:5001/jtvimage/Garvi_Gujarat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Garvi Gujarat
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3039
+http://192.168.0.222:5001/live/mpd/3039
+#EXTINF:-1 tvg-id="3042" tvg-name="News 24x7" tvg-logo="http://192.168.0.222:5001/jtvimage/News_24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 24x7
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3042
+http://192.168.0.222:5001/live/mpd/3042
+#EXTINF:-1 tvg-id="3048" tvg-name="BVG" tvg-logo="http://192.168.0.222:5001/jtvimage/BVG.png" tvg-language="Hindi" tvg-type="Educational" group-title="Educational", BVG
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3048
+http://192.168.0.222:5001/live/mpd/3048
+#EXTINF:-1 tvg-id="3049" tvg-name="TNI Awaaz" tvg-logo="http://192.168.0.222:5001/jtvimage/TNI_Awaaz.png" tvg-language="Hindi" tvg-type="News" group-title="News", TNI Awaaz
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3049
+http://192.168.0.222:5001/live/mpd/3049
+#EXTINF:-1 tvg-id="3050" tvg-name="Indian News" tvg-logo="http://192.168.0.222:5001/jtvimage/indiannews.png" tvg-language="Hindi" tvg-type="News" group-title="News", Indian News
+http://192.168.0.222:5001/live/3050.m3u8
+#EXTINF:-1 tvg-id="3053" tvg-name="TNP News" tvg-logo="http://192.168.0.222:5001/jtvimage/TNPNews.png" tvg-language="Hindi" tvg-type="News" group-title="News", TNP News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3053
+http://192.168.0.222:5001/live/mpd/3053
+#EXTINF:-1 tvg-id="3063" tvg-name="PR News" tvg-logo="http://192.168.0.222:5001/jtvimage/PR_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", PR News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3063
+http://192.168.0.222:5001/live/mpd/3063
+#EXTINF:-1 tvg-id="3064" tvg-name="Navsarjan Sanskruti News" tvg-logo="http://192.168.0.222:5001/jtvimage/Nav_Sanskruti_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Navsarjan Sanskruti News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3064
+http://192.168.0.222:5001/live/mpd/3064
+#EXTINF:-1 tvg-id="3065" tvg-name="Bharat Nation" tvg-logo="http://192.168.0.222:5001/jtvimage/Bharat_Nation.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bharat Nation
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3065
+http://192.168.0.222:5001/live/mpd/3065
+#EXTINF:-1 tvg-id="3066" tvg-name="Today 24 News UPUK" tvg-logo="http://192.168.0.222:5001/jtvimage/Today_TV24_UPUK.png" tvg-language="Hindi" tvg-type="News" group-title="News", Today 24 News UPUK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3066
+http://192.168.0.222:5001/live/mpd/3066
+#EXTINF:-1 tvg-id="3068" tvg-name="Bharat Update" tvg-logo="http://192.168.0.222:5001/jtvimage/Bharat_Update.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bharat Update
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3068
+http://192.168.0.222:5001/live/mpd/3068
+#EXTINF:-1 tvg-id="3070" tvg-name="Vistaar News" tvg-logo="http://192.168.0.222:5001/jtvimage/Vistaar_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Vistaar News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3070
+http://192.168.0.222:5001/live/mpd/3070
+#EXTINF:-1 tvg-id="3074" tvg-name="Shemaroo Filmy Gaane" tvg-logo="http://192.168.0.222:5001/jtvimage/smrfgn.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Shemaroo Filmy Gaane
+http://192.168.0.222:5001/live/3074.m3u8
+#EXTINF:-1 tvg-id="3075" tvg-name="Shemaroo Bollywood" tvg-logo="http://192.168.0.222:5001/jtvimage/smrbol.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Shemaroo Bollywood
+http://192.168.0.222:5001/live/3075.m3u8
+#EXTINF:-1 tvg-id="3086" tvg-name="NAXATRA SAMACHAR PLUS" tvg-logo="http://192.168.0.222:5001/jtvimage/NAXATRASAMACHARPLUS.png" tvg-language="Hindi" tvg-type="News" group-title="News", NAXATRA SAMACHAR PLUS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3086
+http://192.168.0.222:5001/live/mpd/3086
+#EXTINF:-1 tvg-id="3088" tvg-name="Sun Neo HD" tvg-logo="http://192.168.0.222:5001/jtvimage/SUN_Neo.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sun Neo HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3088
+http://192.168.0.222:5001/live/mpd/3088
+#EXTINF:-1 tvg-id="3089" tvg-name="Sangam TV" tvg-logo="http://192.168.0.222:5001/jtvimage/sangamtv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sangam TV
+http://192.168.0.222:5001/live/3089.m3u8
+#EXTINF:-1 tvg-id="3090" tvg-name="KBC News" tvg-logo="http://192.168.0.222:5001/jtvimage/kbcnews.png" tvg-language="Hindi" tvg-type="News" group-title="News", KBC News
+http://192.168.0.222:5001/live/3090.m3u8
+#EXTINF:-1 tvg-id="3096" tvg-name="Star Gold 2 HD" tvg-logo="http://192.168.0.222:5001/jtvimage/StarGold2HD1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold 2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3096
+http://192.168.0.222:5001/live/mpd/3096
+#EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="http://192.168.0.222:5001/jtvimage/StarGoldRomance1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold Romance
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3097
+http://192.168.0.222:5001/live/mpd/3097
+#EXTINF:-1 tvg-id="3098" tvg-name="Star Gold Thrills" tvg-logo="http://192.168.0.222:5001/jtvimage/StarGoldThrills1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold Thrills
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3098
+http://192.168.0.222:5001/live/mpd/3098
+#EXTINF:-1 tvg-id="3104" tvg-name="Smriti Patra TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Smriti_Patra.png" tvg-language="Hindi" tvg-type="News" group-title="News", Smriti Patra TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3104
+http://192.168.0.222:5001/live/mpd/3104
+#EXTINF:-1 tvg-id="3105" tvg-name="National Tv India" tvg-logo="http://192.168.0.222:5001/jtvimage/National_Tv_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", National Tv India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3105
+http://192.168.0.222:5001/live/mpd/3105
+#EXTINF:-1 tvg-id="3110" tvg-name="SB News 24x7" tvg-logo="http://192.168.0.222:5001/jtvimage/SB_News_24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", SB News 24x7
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3110
+http://192.168.0.222:5001/live/mpd/3110
+#EXTINF:-1 tvg-id="3111" tvg-name="ATV India News" tvg-logo="http://192.168.0.222:5001/jtvimage/ATV_INDIA_NEWS.png" tvg-language="Hindi" tvg-type="News" group-title="News", ATV India News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3111
+http://192.168.0.222:5001/live/mpd/3111
+#EXTINF:-1 tvg-id="3112" tvg-name="Sanmarg Tv" tvg-logo="http://192.168.0.222:5001/jtvimage/sanmargtv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanmarg Tv
+http://192.168.0.222:5001/live/3112.m3u8
+#EXTINF:-1 tvg-id="3113" tvg-name="Jk Samachar News 24x7" tvg-logo="http://192.168.0.222:5001/jtvimage/Jk_Samachar_24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", Jk Samachar News 24x7
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3113
+http://192.168.0.222:5001/live/mpd/3113
+#EXTINF:-1 tvg-id="3116" tvg-name="DKP News" tvg-logo="http://192.168.0.222:5001/jtvimage/DKP_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", DKP News
+http://192.168.0.222:5001/live/3116.m3u8
+#EXTINF:-1 tvg-id="3117" tvg-name="Rajya 24 News" tvg-logo="http://192.168.0.222:5001/jtvimage/Rajya_24_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Rajya 24 News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3117
+http://192.168.0.222:5001/live/mpd/3117
+#EXTINF:-1 tvg-id="3162" tvg-name="Prabhu Vani Tv" tvg-logo="http://192.168.0.222:5001/jtvimage/Prabhu_Vani_Tv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Prabhu Vani Tv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3162
+http://192.168.0.222:5001/live/mpd/3162
+#EXTINF:-1 tvg-id="3163" tvg-name="Khabar 24x7 News" tvg-logo="http://192.168.0.222:5001/jtvimage/Khabar_24x7_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Khabar 24x7 News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3163
+http://192.168.0.222:5001/live/mpd/3163
+#EXTINF:-1 tvg-id="3164" tvg-name="Shri News" tvg-logo="http://192.168.0.222:5001/jtvimage/Shri_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Shri News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3164
+http://192.168.0.222:5001/live/mpd/3164
+#EXTINF:-1 tvg-id="3166" tvg-name="Live Times" tvg-logo="http://192.168.0.222:5001/jtvimage/Live_Times.png" tvg-language="Hindi" tvg-type="News" group-title="News", Live Times
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3166
+http://192.168.0.222:5001/live/mpd/3166
+#EXTINF:-1 tvg-id="3168" tvg-name="Sky India Tv" tvg-logo="http://192.168.0.222:5001/jtvimage/Sky_India_Tv.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sky India Tv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3168
+http://192.168.0.222:5001/live/mpd/3168
+#EXTINF:-1 tvg-id="3171" tvg-name="Khabar 70" tvg-logo="http://192.168.0.222:5001/jtvimage/Khabar_70.png" tvg-language="Hindi" tvg-type="News" group-title="News", Khabar 70
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3171
+http://192.168.0.222:5001/live/mpd/3171
+#EXTINF:-1 tvg-id="3172" tvg-name="India 24x7 Aap Tak TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Aap_Tak_tv.png" tvg-language="Hindi" tvg-type="News" group-title="News", India 24x7 Aap Tak TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3172
+http://192.168.0.222:5001/live/mpd/3172
+#EXTINF:-1 tvg-id="3177" tvg-name="Adhya Bhakti" tvg-logo="http://192.168.0.222:5001/jtvimage/Adhya_Bhakti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Adhya Bhakti
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3177
+http://192.168.0.222:5001/live/mpd/3177
+#EXTINF:-1 tvg-id="3178" tvg-name="Ishwar Vani Tv" tvg-logo="http://192.168.0.222:5001/jtvimage/Ishwar_Vani_Tv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Ishwar Vani Tv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3178
+http://192.168.0.222:5001/live/mpd/3178
+#EXTINF:-1 tvg-id="3181" tvg-name="News Nation 81" tvg-logo="http://192.168.0.222:5001/jtvimage/News_Nation_81.png" tvg-language="Hindi" tvg-type="News" group-title="News", News Nation 81
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3181
+http://192.168.0.222:5001/live/mpd/3181
+#EXTINF:-1 tvg-id="3186" tvg-name="Public Asia" tvg-logo="http://192.168.0.222:5001/jtvimage/Public_Asia.png" tvg-language="Hindi" tvg-type="News" group-title="News", Public Asia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3186
+http://192.168.0.222:5001/live/mpd/3186
+#EXTINF:-1 tvg-id="3187" tvg-name="Prabhu Sandesh" tvg-logo="http://192.168.0.222:5001/jtvimage/Prabhu_Sandesh.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Prabhu Sandesh
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3187
+http://192.168.0.222:5001/live/mpd/3187
+#EXTINF:-1 tvg-id="3188" tvg-name="Shesh Khabar" tvg-logo="http://192.168.0.222:5001/jtvimage/Shesh_Khabar.png" tvg-language="Hindi" tvg-type="News" group-title="News", Shesh Khabar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3188
+http://192.168.0.222:5001/live/mpd/3188
+#EXTINF:-1 tvg-id="3189" tvg-name="Chanakya News India Rajasthan" tvg-logo="http://192.168.0.222:5001/jtvimage/chanakyanewsindiarajasthan.png" tvg-language="Hindi" tvg-type="News" group-title="News", Chanakya News India Rajasthan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3189
+http://192.168.0.222:5001/live/mpd/3189
+#EXTINF:-1 tvg-id="3190" tvg-name="Chanakya News National" tvg-logo="http://192.168.0.222:5001/jtvimage/chanakyanewsindianational.png" tvg-language="Hindi" tvg-type="News" group-title="News", Chanakya News National
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3190
+http://192.168.0.222:5001/live/mpd/3190
+#EXTINF:-1 tvg-id="3191" tvg-name="S Bharat" tvg-logo="http://192.168.0.222:5001/jtvimage/Bharat_Times.png" tvg-language="Hindi" tvg-type="News" group-title="News", S Bharat
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3191
+http://192.168.0.222:5001/live/mpd/3191
+#EXTINF:-1 tvg-id="3192" tvg-name="AOne News" tvg-logo="http://192.168.0.222:5001/jtvimage/Aone_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", AOne News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3192
+http://192.168.0.222:5001/live/mpd/3192
+#EXTINF:-1 tvg-id="3203" tvg-name="Nation Khabar" tvg-logo="http://192.168.0.222:5001/jtvimage/Nation_Khabar.png" tvg-language="Hindi" tvg-type="News" group-title="News", Nation Khabar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3203
+http://192.168.0.222:5001/live/mpd/3203
+#EXTINF:-1 tvg-id="3214" tvg-name="Vertent Samachar Plus 24x7" tvg-logo="http://192.168.0.222:5001/jtvimage/Vertent_Samachar_Plus_24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", Vertent Samachar Plus 24x7
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3214
+http://192.168.0.222:5001/live/mpd/3214
+#EXTINF:-1 tvg-id="3216" tvg-name="Krishi Pitaara" tvg-logo="http://192.168.0.222:5001/jtvimage/krishipitara.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Krishi Pitaara
+http://192.168.0.222:5001/live/3216.m3u8
+#EXTINF:-1 tvg-id="3218" tvg-name="STV24 News" tvg-logo="http://192.168.0.222:5001/jtvimage/STV24_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", STV24 News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3218
+http://192.168.0.222:5001/live/mpd/3218
+#EXTINF:-1 tvg-id="3219" tvg-name="Prajatantra TV Bharat" tvg-logo="http://192.168.0.222:5001/jtvimage/Prajatantra_TV_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Prajatantra TV Bharat
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3219
+http://192.168.0.222:5001/live/mpd/3219
+#EXTINF:-1 tvg-id="3220" tvg-name="Prime Bharat News" tvg-logo="http://192.168.0.222:5001/jtvimage/Prime_Bharat_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Prime Bharat News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3220
+http://192.168.0.222:5001/live/mpd/3220
+#EXTINF:-1 tvg-id="3223" tvg-name="Shark Tank India S5" tvg-logo="http://192.168.0.222:5001/jtvimage/SharkTankIndia.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Shark Tank India S5
+http://192.168.0.222:5001/live/3223.m3u8
+#EXTINF:-1 tvg-id="3226" tvg-name="R Hindustan Tv News" tvg-logo="http://192.168.0.222:5001/jtvimage/Rhindustan_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", R Hindustan Tv News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3226
+http://192.168.0.222:5001/live/mpd/3226
+#EXTINF:-1 tvg-id="3227" tvg-name="Today India News" tvg-logo="http://192.168.0.222:5001/jtvimage/Today_India_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Today India News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3227
+http://192.168.0.222:5001/live/mpd/3227
+#EXTINF:-1 tvg-id="3230" tvg-name="Apex News India" tvg-logo="http://192.168.0.222:5001/jtvimage/Apex_News_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", Apex News India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3230
+http://192.168.0.222:5001/live/mpd/3230
+#EXTINF:-1 tvg-id="3234" tvg-name="Chanakya News Jharkhand" tvg-logo="http://192.168.0.222:5001/jtvimage/chanakyanewsjharkhand.png" tvg-language="Hindi" tvg-type="News" group-title="News", Chanakya News Jharkhand
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3234
+http://192.168.0.222:5001/live/mpd/3234
+#EXTINF:-1 tvg-id="3235" tvg-name="Chanakya News UPUK" tvg-logo="http://192.168.0.222:5001/jtvimage/chanakyanewsindiaupuk.png" tvg-language="Hindi" tvg-type="News" group-title="News", Chanakya News UPUK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3235
+http://192.168.0.222:5001/live/mpd/3235
+#EXTINF:-1 tvg-id="3236" tvg-name="Bhakti Dhara" tvg-logo="http://192.168.0.222:5001/jtvimage/bhaktidhara.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Bhakti Dhara
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3236
+http://192.168.0.222:5001/live/mpd/3236
+#EXTINF:-1 tvg-id="3241" tvg-name="Nation 27" tvg-logo="http://192.168.0.222:5001/jtvimage/Nation27.png" tvg-language="Hindi" tvg-type="News" group-title="News", Nation 27
+http://192.168.0.222:5001/live/3241.m3u8
+#EXTINF:-1 tvg-id="3242" tvg-name="BHP News" tvg-logo="http://192.168.0.222:5001/jtvimage/BHP_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", BHP News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3242
+http://192.168.0.222:5001/live/mpd/3242
+#EXTINF:-1 tvg-id="3244" tvg-name="Sanatan Bharat" tvg-logo="http://192.168.0.222:5001/jtvimage/Sanatan_Bharat.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanatan Bharat
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3244
+http://192.168.0.222:5001/live/mpd/3244
+#EXTINF:-1 tvg-id="3255" tvg-name="Voice TV Urdu" tvg-logo="http://192.168.0.222:5001/jtvimage/voicetvurdu.png" tvg-language="Hindi" tvg-type="News" group-title="News", Voice TV Urdu
+http://192.168.0.222:5001/live/3255.m3u8
+#EXTINF:-1 tvg-id="3258" tvg-name="ATN Samachar" tvg-logo="http://192.168.0.222:5001/jtvimage/ATN_Samachar.png" tvg-language="Hindi" tvg-type="News" group-title="News", ATN Samachar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3258
+http://192.168.0.222:5001/live/mpd/3258
+#EXTINF:-1 tvg-id="3259" tvg-name="Pocket Films" tvg-logo="http://192.168.0.222:5001/jtvimage/p_pktflm.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Pocket Films
+http://192.168.0.222:5001/live/3259.m3u8
+#EXTINF:-1 tvg-id="3260" tvg-name="Sanatan Sandesh TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Sanatan_Sandesh.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanatan Sandesh TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3260
+http://192.168.0.222:5001/live/mpd/3260
+#EXTINF:-1 tvg-id="3261" tvg-name="Samrat News TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Samrat_News_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Samrat News TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3261
+http://192.168.0.222:5001/live/mpd/3261
+#EXTINF:-1 tvg-id="3263" tvg-name="VROTT" tvg-logo="http://192.168.0.222:5001/jtvimage/VROTT.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", VROTT
+http://192.168.0.222:5001/live/3263.m3u8
+#EXTINF:-1 tvg-id="3265" tvg-name="Nation World News" tvg-logo="http://192.168.0.222:5001/jtvimage/Nation_Star_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Nation World News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3265
+http://192.168.0.222:5001/live/mpd/3265
+#EXTINF:-1 tvg-id="3280" tvg-name="Soochna India" tvg-logo="http://192.168.0.222:5001/jtvimage/soochnaindia.png" tvg-language="Hindi" tvg-type="News" group-title="News", Soochna India
+http://192.168.0.222:5001/live/3280.m3u8
+#EXTINF:-1 tvg-id="3283" tvg-name="VACC 24 News" tvg-logo="http://192.168.0.222:5001/jtvimage/VACC24News.png" tvg-language="Hindi" tvg-type="News" group-title="News", VACC 24 News
+http://192.168.0.222:5001/live/3283.m3u8
+#EXTINF:-1 tvg-id="3285" tvg-name="Stingray Naturescape" tvg-logo="http://192.168.0.222:5001/jtvimage/naturescape-a003s-dhaka.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Stingray Naturescape
+http://192.168.0.222:5001/live/3285.m3u8
+#EXTINF:-1 tvg-id="3291" tvg-name="NBC24 News" tvg-logo="http://192.168.0.222:5001/jtvimage/NBC24_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", NBC24 News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3291
+http://192.168.0.222:5001/live/mpd/3291
+#EXTINF:-1 tvg-id="3292" tvg-name="NBS Live TV" tvg-logo="http://192.168.0.222:5001/jtvimage/NBSNEWS.png" tvg-language="Hindi" tvg-type="News" group-title="News", NBS Live TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3292
+http://192.168.0.222:5001/live/mpd/3292
+#EXTINF:-1 tvg-id="3294" tvg-name="Anand TV" tvg-logo="http://192.168.0.222:5001/jtvimage/anandtv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Anand TV
+http://192.168.0.222:5001/live/3294.m3u8
+#EXTINF:-1 tvg-id="3295" tvg-name="Mahotsav TV " tvg-logo="http://192.168.0.222:5001/jtvimage/Mahotsav_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Mahotsav TV 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3295
+http://192.168.0.222:5001/live/mpd/3295
+#EXTINF:-1 tvg-id="3299" tvg-name="News_Plus_24x7" tvg-logo="http://192.168.0.222:5001/jtvimage/News_Plus_24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", News_Plus_24x7
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3299
+http://192.168.0.222:5001/live/mpd/3299
+#EXTINF:-1 tvg-id="3310" tvg-name="MNS News" tvg-logo="http://192.168.0.222:5001/jtvimage/mnsnewstv.png" tvg-language="Hindi" tvg-type="News" group-title="News", MNS News
+http://192.168.0.222:5001/live/3310.m3u8
+#EXTINF:-1 tvg-id="3328" tvg-name="Aagaaz Times" tvg-logo="http://192.168.0.222:5001/jtvimage/aagaaztimes.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aagaaz Times
+http://192.168.0.222:5001/live/3328.m3u8
+#EXTINF:-1 tvg-id="3329" tvg-name="Mirror Media" tvg-logo="http://192.168.0.222:5001/jtvimage/Mirror_Media.png" tvg-language="Hindi" tvg-type="News" group-title="News", Mirror Media
+http://192.168.0.222:5001/live/3329.m3u8
+#EXTINF:-1 tvg-id="3330" tvg-name="Ten News" tvg-logo="http://192.168.0.222:5001/jtvimage/Ten_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Ten News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3330
+http://192.168.0.222:5001/live/mpd/3330
+#EXTINF:-1 tvg-id="3332" tvg-name="Awaaz India TV" tvg-logo="http://192.168.0.222:5001/jtvimage/awaazindia.png" tvg-language="Hindi" tvg-type="News" group-title="News", Awaaz India TV
+http://192.168.0.222:5001/live/3332.m3u8
+#EXTINF:-1 tvg-id="3334" tvg-name="Sanatan Vedic TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Sanatan_Vedic_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanatan Vedic TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3334
+http://192.168.0.222:5001/live/mpd/3334
+#EXTINF:-1 tvg-id="3336" tvg-name="NH BollyFlix" tvg-logo="http://192.168.0.222:5001/jtvimage/blyflx.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", NH BollyFlix
+http://192.168.0.222:5001/live/3336.m3u8
+#EXTINF:-1 tvg-id="3338" tvg-name="NH BollyGold" tvg-logo="http://192.168.0.222:5001/jtvimage/blygld.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", NH BollyGold
+http://192.168.0.222:5001/live/3338.m3u8
+#EXTINF:-1 tvg-id="3343" tvg-name="NH BollyRaga" tvg-logo="http://192.168.0.222:5001/jtvimage/blyrag.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", NH BollyRaga
+http://192.168.0.222:5001/live/3343.m3u8
+#EXTINF:-1 tvg-id="3345" tvg-name="Superfine Films" tvg-logo="http://192.168.0.222:5001/jtvimage/p_supjio.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Superfine Films
+http://192.168.0.222:5001/live/3345.m3u8
+#EXTINF:-1 tvg-id="3361" tvg-name="Shri Shyam TV " tvg-logo="http://192.168.0.222:5001/jtvimage/Shri_Shyam_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Shri Shyam TV 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3361
+http://192.168.0.222:5001/live/mpd/3361
+#EXTINF:-1 tvg-id="3368" tvg-name="News TV India" tvg-logo="http://192.168.0.222:5001/jtvimage/News_TV_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", News TV India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3368
+http://192.168.0.222:5001/live/mpd/3368
+#EXTINF:-1 tvg-id="3378" tvg-name="G18 News" tvg-logo="http://192.168.0.222:5001/jtvimage/G18_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", G18 News
+http://192.168.0.222:5001/live/3378.m3u8
+#EXTINF:-1 tvg-id="3382" tvg-name="EPIC TV" tvg-logo="http://192.168.0.222:5001/jtvimage/EPIC_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", EPIC TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3382
+http://192.168.0.222:5001/live/mpd/3382
+#EXTINF:-1 tvg-id="3383" tvg-name="Epic Bharat" tvg-logo="http://192.168.0.222:5001/jtvimage/Nazara.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Epic Bharat
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3383
+http://192.168.0.222:5001/live/mpd/3383
+#EXTINF:-1 tvg-id="3385" tvg-name="Epic Kids" tvg-logo="http://192.168.0.222:5001/jtvimage/Gubbare.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Epic Kids
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3385
+http://192.168.0.222:5001/live/mpd/3385
+#EXTINF:-1 tvg-id="3401" tvg-name="Swastik Stories" tvg-logo="http://192.168.0.222:5001/jtvimage/Swastik_Stories.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Swastik Stories
+http://192.168.0.222:5001/live/3401.m3u8
+#EXTINF:-1 tvg-id="3427" tvg-name="Sansad TV 1 HD" tvg-logo="http://192.168.0.222:5001/jtvimage/SansadTV1HD.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sansad TV 1 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3427
+http://192.168.0.222:5001/live/mpd/3427
+#EXTINF:-1 tvg-id="3434" tvg-name="Investigation Discovery HD Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/IDHDHindi1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery HD Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3434
+http://192.168.0.222:5001/live/mpd/3434
+#EXTINF:-1 tvg-id="3436" tvg-name="Cartoon Network HD+ Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/CNHDHindi1.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Cartoon Network HD+ Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3436
+http://192.168.0.222:5001/live/mpd/3436
+#EXTINF:-1 tvg-id="3438" tvg-name="Nation News" tvg-logo="http://192.168.0.222:5001/jtvimage/nationnews.png" tvg-language="Hindi" tvg-type="News" group-title="News", Nation News
+http://192.168.0.222:5001/live/3438.m3u8
+#EXTINF:-1 tvg-id="3444" tvg-name="Discovery HD Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/DiscoveryHDHin.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Discovery HD Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3444
+http://192.168.0.222:5001/live/mpd/3444
+#EXTINF:-1 tvg-id="3451" tvg-name="Animal Planet HD Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/AnimalPlanetHDHin1.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Animal Planet HD Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3451
+http://192.168.0.222:5001/live/mpd/3451
+#EXTINF:-1 tvg-id="3453" tvg-name="Discovery Science Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/DiscoveryScienceHin.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Discovery Science Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3453
+http://192.168.0.222:5001/live/mpd/3453
+#EXTINF:-1 tvg-id="3458" tvg-name="TLC HD Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/TLCHDHindi.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD Hindi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3458
+http://192.168.0.222:5001/live/mpd/3458
+#EXTINF:-1 tvg-id="3459" tvg-name="Swastik TV" tvg-logo="http://192.168.0.222:5001/jtvimage/swastiktv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Swastik TV
+http://192.168.0.222:5001/live/3459.m3u8
+#EXTINF:-1 tvg-id="3460" tvg-name="G94 News" tvg-logo="http://192.168.0.222:5001/jtvimage/G94News.png" tvg-language="Hindi" tvg-type="News" group-title="News", G94 News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3460
+http://192.168.0.222:5001/live/mpd/3460
+#EXTINF:-1 tvg-id="3462" tvg-name="Nation Update" tvg-logo="http://192.168.0.222:5001/jtvimage/NationUpdate.png" tvg-language="Hindi" tvg-type="News" group-title="News", Nation Update
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3462
+http://192.168.0.222:5001/live/mpd/3462
+#EXTINF:-1 tvg-id="3467" tvg-name="Green Gold TV" tvg-logo="http://192.168.0.222:5001/jtvimage/greengold.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Green Gold TV
+http://192.168.0.222:5001/live/3467.m3u8
+#EXTINF:-1 tvg-id="3469" tvg-name="NSC9 News" tvg-logo="http://192.168.0.222:5001/jtvimage/nsc9.png" tvg-language="Hindi" tvg-type="News" group-title="News", NSC9 News
+http://192.168.0.222:5001/live/3469.m3u8
+#EXTINF:-1 tvg-id="3483" tvg-name="Amar Ujala" tvg-logo="http://192.168.0.222:5001/jtvimage/amarujala.png" tvg-language="Hindi" tvg-type="News" group-title="News", Amar Ujala
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3483
+http://192.168.0.222:5001/live/mpd/3483
+#EXTINF:-1 tvg-id="3484" tvg-name="The Hind24 News" tvg-logo="http://192.168.0.222:5001/jtvimage/TheHind24News.png" tvg-language="Hindi" tvg-type="News" group-title="News", The Hind24 News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3484
+http://192.168.0.222:5001/live/mpd/3484
+#EXTINF:-1 tvg-id="3485" tvg-name="National Today 24x7" tvg-logo="http://192.168.0.222:5001/jtvimage/NationalToday24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", National Today 24x7
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3485
+http://192.168.0.222:5001/live/mpd/3485
+#EXTINF:-1 tvg-id="3486" tvg-name="MP Today" tvg-logo="http://192.168.0.222:5001/jtvimage/MPToday.png" tvg-language="Hindi" tvg-type="News" group-title="News", MP Today
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3486
+http://192.168.0.222:5001/live/mpd/3486
+#EXTINF:-1 tvg-id="3492" tvg-name="Alright TV" tvg-logo="http://192.168.0.222:5001/jtvimage/AlrightTV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Alright TV
+http://192.168.0.222:5001/live/3492.m3u8
+#EXTINF:-1 tvg-id="3498" tvg-name="India Ahead" tvg-logo="http://192.168.0.222:5001/jtvimage/IndiaAhead.png" tvg-language="Hindi" tvg-type="News" group-title="News", India Ahead
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3498
+http://192.168.0.222:5001/live/mpd/3498
+#EXTINF:-1 tvg-id="3502" tvg-name="Kadak" tvg-logo="http://192.168.0.222:5001/jtvimage/Kadak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Kadak
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3502
+http://192.168.0.222:5001/live/mpd/3502
+#EXTINF:-1 tvg-id="3503" tvg-name="Manas Bhakti" tvg-logo="http://192.168.0.222:5001/jtvimage/ManasBhakti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Manas Bhakti
+http://192.168.0.222:5001/live/3503.m3u8
+#EXTINF:-1 tvg-id="3505" tvg-name="The Voice TV" tvg-logo="http://192.168.0.222:5001/jtvimage/thevoicetv.png" tvg-language="Hindi" tvg-type="News" group-title="News", The Voice TV
+http://192.168.0.222:5001/live/3505.m3u8
+#EXTINF:-1 tvg-id="3519" tvg-name="Shree Salangpur Dham" tvg-logo="http://192.168.0.222:5001/jtvimage/ShreeSalangpurDham.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Shree Salangpur Dham
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3519
+http://192.168.0.222:5001/live/mpd/3519
+#EXTINF:-1 tvg-id="3532" tvg-name="ITN National" tvg-logo="http://192.168.0.222:5001/jtvimage/ITNNational.png" tvg-language="Hindi" tvg-type="News" group-title="News", ITN National
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3532
+http://192.168.0.222:5001/live/mpd/3532
+#EXTINF:-1 tvg-id="3533" tvg-name="Dice Media" tvg-logo="http://192.168.0.222:5001/jtvimage/dicmed.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Dice Media
+http://192.168.0.222:5001/live/3533.m3u8
+#EXTINF:-1 tvg-id="3534" tvg-name="FilterCopy" tvg-logo="http://192.168.0.222:5001/jtvimage/fltrcopy.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", FilterCopy
+http://192.168.0.222:5001/live/3534.m3u8
+#EXTINF:-1 tvg-id="3543" tvg-name="Eros Universe Bollywood Cinema" tvg-logo="http://192.168.0.222:5001/jtvimage/blywcm.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Eros Universe Bollywood Cinema
+http://192.168.0.222:5001/live/3543.m3u8
+#EXTINF:-1 tvg-id="3544" tvg-name="Eros Universe Entertainment" tvg-logo="http://192.168.0.222:5001/jtvimage/ersent.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Eros Universe Entertainment
+http://192.168.0.222:5001/live/3544.m3u8
+#EXTINF:-1 tvg-id="3549" tvg-name="Yug Abhiyan Times" tvg-logo="http://192.168.0.222:5001/jtvimage/YugAbhiyanTimes.jpg" tvg-language="Hindi" tvg-type="News" group-title="News", Yug Abhiyan Times
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3549
+http://192.168.0.222:5001/live/mpd/3549
+#EXTINF:-1 tvg-id="3554" tvg-name="Vedant Ras" tvg-logo="http://192.168.0.222:5001/jtvimage/vedantras.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Vedant Ras
+http://192.168.0.222:5001/live/3554.m3u8
+#EXTINF:-1 tvg-id="3557" tvg-name="Lokmat Bharat" tvg-logo="http://192.168.0.222:5001/jtvimage/lokmatbharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Lokmat Bharat
+http://192.168.0.222:5001/live/3557.m3u8
+#EXTINF:-1 tvg-id="3563" tvg-name="Pure Pink" tvg-logo="http://192.168.0.222:5001/jtvimage/PurePink.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Pure Pink
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3563
+http://192.168.0.222:5001/live/mpd/3563
+#EXTINF:-1 tvg-id="3564" tvg-name="Rashtram" tvg-logo="http://192.168.0.222:5001/jtvimage/Rashtram.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Rashtram
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3564
+http://192.168.0.222:5001/live/mpd/3564
+#EXTINF:-1 tvg-id="3573" tvg-name="KBP Times" tvg-logo="http://192.168.0.222:5001/jtvimage/KBPTimes.png" tvg-language="Hindi" tvg-type="News" group-title="News", KBP Times
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3573
+http://192.168.0.222:5001/live/mpd/3573
+#EXTINF:-1 tvg-id="3574" tvg-name="TV30 India" tvg-logo="http://192.168.0.222:5001/jtvimage/TV30India.png" tvg-language="Hindi" tvg-type="News" group-title="News", TV30 India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.0.222:5001/live/key/3574
+http://192.168.0.222:5001/live/mpd/3574
+#EXTINF:-1 tvg-id="3577" tvg-name="Nation TV Bharat" tvg-logo="http://192.168.0.222:5001/jtvimage/NationTVBharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Nation TV Bharat
+http://192.168.0.222:5001/live/3577.m3u8
+#EXTINF:-1 tvg-id="3588" tvg-name="FAST TEST" tvg-logo="http://192.168.0.222:5001/jtvimage/FASTTEST.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", FAST TEST
+http://192.168.0.222:5001/live/3588.m3u8
+#EXTINF:-1 tvg-id="3595" tvg-name="Khabhar Bharat 360" tvg-logo="http://192.168.0.222:5001/jtvimage/KhabharBharat360.png" tvg-language="Hindi" tvg-type="News" group-title="News", Khabhar Bharat 360
+http://192.168.0.222:5001/live/3595.m3u8
+#EXTINF:-1 tvg-id="3599" tvg-name="The Chanakya TV Rajasthan" tvg-logo="http://192.168.0.222:5001/jtvimage/TheChanakyaTVRajasthan.png" tvg-language="Hindi" tvg-type="News" group-title="News", The Chanakya TV Rajasthan
+http://192.168.0.222:5001/live/3599.m3u8
